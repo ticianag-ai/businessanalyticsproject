@@ -1,0 +1,2889 @@
+internalTaxonId,scientificName,name,language,main
+17026,Phocarctos hookeri,Hooker's Sealion,English,false
+17026,Phocarctos hookeri,Hooker's Sea Lion,English,false
+17026,Phocarctos hookeri,New Zealand Sealion,English,false
+17026,Phocarctos hookeri,New Zealand Sea Lion,English,true
+3339,Burramys parvus,Broom's Pygmy-possum,English,false
+3339,Burramys parvus,Burramys,English,false
+3339,Burramys parvus,Berg-Zwerggleitbeutler,German,false
+3339,Burramys parvus,Lirón Marsupial,Spanish; Castilian,false
+3339,Burramys parvus,Souris-opossum De Burramys,French,false
+3339,Burramys parvus,Souris-opossum Des Montagnes,French,false
+3339,Burramys parvus,Mountain Pygmy Possum,English,true
+3748,Canis simensis,Simien Fox,English,false
+3748,Canis simensis,Simien Jackal,English,false
+3748,Canis simensis,Abessinischer Fuchs,German,false
+3748,Canis simensis,Aethiopienfuchs,German,false
+3748,Canis simensis,Äthiopischer Wolf,German,false
+3748,Canis simensis,Lobo Etiope,Spanish; Castilian,false
+3748,Canis simensis,Loup d'Abyssinie,French,false
+3748,Canis simensis,Volpe Rossa,Italian,false
+3748,Canis simensis,Ethiopian Wolf,English,true
+40540,Sarcophilus harrisii,Diable de Tasmanie,French,false
+40540,Sarcophilus harrisii,Tasmanian Devil,English,true
+9917,Nilgiritragus hylocrius,Varai-aadu,Malayalam,false
+9917,Nilgiritragus hylocrius,Varai-aadu,Tamil,false
+9917,Nilgiritragus hylocrius,Nilgiri Tahr,English,true
+16971461,Microcebus gerpi,Gerp's Mouse Lemur,English,true
+914,Alouatta pigra,Black Howling Monkey,English,false
+914,Alouatta pigra,Guatemalan Black Howler Monkey,English,false
+914,Alouatta pigra,Guatemalan Howler,English,false
+914,Alouatta pigra,Guatemalan Howling Monkey,English,false
+914,Alouatta pigra,Lawrence’s Howler Monkey,English,false
+914,Alouatta pigra,Mexican Black Howler Monkey,English,false
+914,Alouatta pigra,Araguato De Guatemala,Spanish; Castilian,false
+914,Alouatta pigra,Guatemala-Brüllaffe,German,false
+914,Alouatta pigra,Hurleur Du Guatemala,French,false
+914,Alouatta pigra,Mono Aullador Negro,Spanish; Castilian,false
+914,Alouatta pigra,Saraguato,Spanish; Castilian,false
+914,Alouatta pigra,Saraguato Negro,Spanish; Castilian,false
+914,Alouatta pigra,Yucatán Black Howler Monkey,English,true
+39961,Ateles hybridus,Brown Spider Monkey,English,false
+39961,Ateles hybridus,Mono Araña Café,Spanish; Castilian,false
+39961,Ateles hybridus,Variegated Spider Monkey,English,true
+11505,Leontopithecus chrysopygus,Golden-rumped Lion Tamarin,English,false
+11505,Leontopithecus chrysopygus,Goldsteißlöwenaffe,German,false
+11505,Leontopithecus chrysopygus,Mico-leão-preto,Portuguese,false
+11505,Leontopithecus chrysopygus,Schwarzer Löwenäffchen,German,false
+11505,Leontopithecus chrysopygus,Tití León Negro,Spanish; Castilian,false
+11505,Leontopithecus chrysopygus,Black Lion Tamarin,English,true
+19839,Saimiri vanzolinii,Black-headed Squirrel Monkey,English,false
+19839,Saimiri vanzolinii,Macaco-de-cheiro,Portuguese,false
+19839,Saimiri vanzolinii,Black Squirrel Monkey,English,true
+19836,Saimiri oerstedii,Central American Squirrel Monkey,English,false
+19836,Saimiri oerstedii,Red-backed Squirrel Monkey,English,false
+19836,Saimiri oerstedii,Barizo Dorsirrojo,Spanish; Castilian,false
+19836,Saimiri oerstedii,Mono Ardilla,Spanish; Castilian,false
+19836,Saimiri oerstedii,Mono Titi,Spanish; Castilian,false
+19836,Saimiri oerstedii,Mono Tití,Spanish; Castilian,false
+19836,Saimiri oerstedii,Saïmiri À Dos Roux,French,false
+19836,Saimiri oerstedii,Singe-écureuil À Dos Rouge,French,false
+19836,Saimiri oerstedii,Singe-écureuil À Dos Roux,French,false
+19836,Saimiri oerstedii,Titi,Spanish; Castilian,false
+19836,Saimiri oerstedii,Black-crowned Central American Squirrel Monkey,English,true
+39826,Pygathrix nemaeus,Red-shanked Douc,English,false
+39826,Pygathrix nemaeus,Chà vá chân nâu,Vietnamese,false
+39826,Pygathrix nemaeus,Douc à jambes rouges,French,false
+39826,Pygathrix nemaeus,Khadeng,Lao,false
+39826,Pygathrix nemaeus,Voọc chà vá chân đỏ,Vietnamese,false
+39826,Pygathrix nemaeus,Red-shanked Douc Langur,English,true
+39827,Pygathrix cinerea,Gray-shanked Douc Monkey,English,false
+39827,Pygathrix cinerea,Voọc chà vá chân xám,Vietnamese,false
+39827,Pygathrix cinerea,Grey-shanked Douc Langur,English,true
+39833,Semnopithecus ajax,Chamba Sacred Langur,English,false
+39833,Semnopithecus ajax,Dark-eyed Himalayan Langur,English,false
+39833,Semnopithecus ajax,Himalayan Gray Langur,English,false
+39833,Semnopithecus ajax,Western Himalayan Langur,English,false
+39833,Semnopithecus ajax,Kashmir Gray Langur,English,true
+13508501,Rhinopithecus strykeri,Burmese Snub-nosed Monkey,English,false
+13508501,Rhinopithecus strykeri,Myanmar Snub-nosed Monkey,English,true
+19597,Rhinopithecus bieti,Black-and-white Snub-nosed Monkey,English,false
+19597,Rhinopithecus bieti,Yunnan Snub-nosed Monkey,English,false
+19597,Rhinopithecus bieti,Black Snub-nosed Monkey,English,true
+19594,Rhinopithecus avunculus,Vooc Mui Hech,Vietnamese,false
+19594,Rhinopithecus avunculus,Tonkin Snub-nosed Monkey,English,true
+5144,Colobus polykomos,Ursine Black-and-White Colobus,English,false
+5144,Colobus polykomos,Western Black-and-White Colobus,English,false
+5144,Colobus polykomos,Western Pied Colobus,English,false
+5144,Colobus polykomos,Colobe à camail,French,false
+5144,Colobus polykomos,Colobe à longs poils,French,false
+5144,Colobus polykomos,Colobe blanc et noir,French,false
+5144,Colobus polykomos,Colobe blanc et noir d'Afrique occidentale,French,false
+5144,Colobus polykomos,Colobe Magistrat,French,false
+5144,Colobus polykomos,Colobo Blanco y Negro de Africa Occidental,Spanish; Castilian,false
+5144,Colobus polykomos,Colobo Rey,Spanish; Castilian,false
+5144,Colobus polykomos,King Colobus,English,true
+4229,Cercopithecus sclateri,Sclater's Guenon,English,false
+4229,Cercopithecus sclateri,White-throated Guenon,English,false
+4229,Cercopithecus sclateri,Cercopiteco de Sclater,Spanish; Castilian,false
+4229,Cercopithecus sclateri,Cercopithèque de Sclater,French,false
+4229,Cercopithecus sclateri,Mono de Sclater,Spanish; Castilian,false
+4229,Cercopithecus sclateri,Nigeria Blaumaulmeerkatze,German,false
+4229,Cercopithecus sclateri,Sclater's Monkey,English,true
+4217,Cercopithecus erythrogaster,Red-bellied Guenon,English,false
+4217,Cercopithecus erythrogaster,White-throated Guenon,English,false
+4217,Cercopithecus erythrogaster,White-throated Monkey,English,false
+4217,Cercopithecus erythrogaster,アカハラグエノン,Japanese,false
+4217,Cercopithecus erythrogaster,Cercopiteco de Vientre Rojo,Spanish; Castilian,false
+4217,Cercopithecus erythrogaster,Cercopithèque à ventre rouge,French,false
+4217,Cercopithecus erythrogaster,Cercopithèque à ventre roux,French,false
+4217,Cercopithecus erythrogaster,Rotbauchmeerkatze,German,false
+4217,Cercopithecus erythrogaster,赤腹長尾猴,Chinese,false
+4217,Cercopithecus erythrogaster,Red-bellied Monkey,English,true
+136569,Macaca munzala,Arunachal Macaque,English,true
+39795,Macaca siberu,Siberut Macaque,English,true
+39794,Macaca pagensis,Pagai Macaque,English,false
+39794,Macaca pagensis,Pagai Island Macaque,English,true
+12556,Macaca nigra,Black Crested Macaque,English,false
+12556,Macaca nigra,Celebes Black Macaque,English,false
+12556,Macaca nigra,Celebes Macaque,English,false
+12556,Macaca nigra,Crested Black Macaque,English,false
+12556,Macaca nigra,Gorontalo Macaque,English,false
+12556,Macaca nigra,Sulawesi Black Macaque,English,false
+12556,Macaca nigra,Sulawesi Macaque,English,false
+12556,Macaca nigra,Cynopithèque Nègre,French,false
+12556,Macaca nigra,Macaca Negra,Spanish; Castilian,false
+12556,Macaca nigra,Macaque Des Célèbes,French,false
+12556,Macaca nigra,monyet hitam,Indonesian,false
+12556,Macaca nigra,Yaki,Indonesian,false
+12556,Macaca nigra,Celebes Crested Macaque,English,true
+12560,Macaca sinica,Hutaffe,German,false
+12560,Macaca sinica,Macaca De Sri Lanka,Spanish; Castilian,false
+12560,Macaca sinica,Macaque Couronné,French,false
+12560,Macaca sinica,Macaque Toque,French,false
+12560,Macaca sinica,rilawa,Sinhala; Sinhalese,false
+12560,Macaca sinica,Sen Kurunga,Tamil,false
+12560,Macaca sinica,Toque Macaque,English,true
+12559,Macaca silenus,Liontail Macaque,English,false
+12559,Macaca silenus,Wanderoo,English,false
+12559,Macaca silenus,Macaca Leonina,Spanish; Castilian,false
+12559,Macaca silenus,Macaco Barbudo,Spanish; Castilian,false
+12559,Macaca silenus,Macaque À Queue De Lion,French,false
+12559,Macaca silenus,Macaque Ouandérou,French,false
+12559,Macaca silenus,Ouandérou,French,false
+12559,Macaca silenus,Lion-tailed Macaque,English,true
+12753,Mandrillus leucophaeus,Dril,Spanish; Castilian,false
+12753,Mandrillus leucophaeus,Drill,French,false
+12753,Mandrillus leucophaeus,Drill,English,true
+20229,Simias concolor,Pig-tailed Langur,English,false
+20229,Simias concolor,Pig-tailed Snub-nosed Monkey,English,false
+20229,Simias concolor,Pig-tailed Snub-nosed Langur,English,true
+39811,Presbytis melalophos,Mitred Leaf Monkey,English,false
+39811,Presbytis melalophos,Semnopithèque mélalophe,English,false
+39811,Presbytis melalophos,Sumatran Surili,English,false
+39811,Presbytis melalophos,Langur de Cresta,Spanish; Castilian,false
+39811,Presbytis melalophos,Yellow-handed Mitered Langur,English,true
+39815,Presbytis potenziani,Long-tailed Langur,English,false
+39815,Presbytis potenziani,Mentawai Langur,English,false
+39815,Presbytis potenziani,Mentawai Leaf Monkey,English,false
+39815,Presbytis potenziani,Langur Colilargo,Spanish; Castilian,false
+39815,Presbytis potenziani,Langur De Mentawi,Spanish; Castilian,false
+39815,Presbytis potenziani,Semnopithèque de Mentawi,French,false
+39815,Presbytis potenziani,Golden-bellied Mentawai Island Langur,English,true
+39803,Presbytis chrysomelas,Langur Mitrado,Spanish; Castilian,false
+39803,Presbytis chrysomelas,Bornean Banded Langur,English,true
+4203,Cercocebus sanjei,Sanje Crested Mangabey,English,false
+4203,Cercocebus sanjei,Sanje Mangabey,English,false
+4203,Cercocebus sanjei,Mangabé de la Sanje,French,false
+4203,Cercocebus sanjei,Mangabey del Sanje,Spanish; Castilian,false
+4203,Cercocebus sanjei,Sanje River Mangabey,English,true
+4207,Cercocebus chrysogaster,Bisonte Europeo,Spanish; Castilian,false
+4207,Cercocebus chrysogaster,Cercocèbe à ventre doré,French,false
+4207,Cercocebus chrysogaster,Goldbauchmangabe,German,false
+4207,Cercocebus chrysogaster,Golden-bellied Mangabey,English,true
+4200,Cercocebus galeritus,Tana River Crested Mangabey,English,false
+4200,Cercocebus galeritus,Mangabey á crête,French,false
+4200,Cercocebus galeritus,Mangabey Crestado Ventriblanco,Spanish; Castilian,false
+4200,Cercocebus galeritus,Mangabey de la Tana,French,false
+4200,Cercocebus galeritus,Tana-Mangabe,German,false
+4200,Cercocebus galeritus,Tana River Mangabey,English,true
+39853,Trachypithecus francoisi,Francois's Langur,English,false
+39853,Trachypithecus francoisi,François's Leaf Monkey,English,false
+39853,Trachypithecus francoisi,Tonkin Langur,English,false
+39853,Trachypithecus francoisi,Tonkin Leaf Monkey,English,false
+39853,Trachypithecus francoisi,Voọc má trắng,Vietnamese,false
+39853,Trachypithecus francoisi,François’s Langur,English,true
+22043,Trachypithecus delacouri,Vooc Mong Trang,Vietnamese,false
+22043,Trachypithecus delacouri,Delacour's Langur,English,true
+22044,Trachypithecus laotum,Lao Langur,English,false
+22044,Trachypithecus laotum,Lao leaf monkey,English,false
+22044,Trachypithecus laotum,Kung,Lao,false
+22044,Trachypithecus laotum,Langur du Laos,French,false
+22044,Trachypithecus laotum,Laotian Langur,English,true
+22042,Semnopithecus vetulus,Purple-faced Leaf Monkey,English,false
+22042,Semnopithecus vetulus,Langur De Cara Roja,Spanish; Castilian,false
+22042,Semnopithecus vetulus,Semnopithèque Blanchâtre,French,false
+22042,Semnopithecus vetulus,Purple-faced Langur,English,true
+39871,Trachypithecus poliocephalus,Cat Ba Langur,English,false
+39871,Trachypithecus poliocephalus,Golden-headed Langur,English,false
+39871,Trachypithecus poliocephalus,Tonkin Hooded Black Langur,English,false
+39871,Trachypithecus poliocephalus,Vooc Dau Trang,Vietnamese,false
+39871,Trachypithecus poliocephalus,Vooc Dau Vang,Vietnamese,false
+39871,Trachypithecus poliocephalus,Cat Ba Hooded Black Leaf Monkey,English,true
+22039,Trachypithecus obscurus,Dusky Leaf Monkey,English,false
+22039,Trachypithecus obscurus,Spectacled Langur,English,false
+22039,Trachypithecus obscurus,Spectacled Leaf Monkey,English,false
+22039,Trachypithecus obscurus,Langur Obscuro,Spanish; Castilian,false
+22039,Trachypithecus obscurus,Semnopithèque Obscur,French,false
+22039,Trachypithecus obscurus,Dusky Langur,English,true
+39869,Trachypithecus shortridgei,Shortridge’s Capped Langur,English,false
+39869,Trachypithecus shortridgei,Shortridge’s Langur,English,true
+136791,Rungwecebus kipunji,Kipunji,Spanish; Castilian,false
+136791,Rungwecebus kipunji,Kipunji,French,false
+136791,Rungwecebus kipunji,Kipunji,English,true
+40652,Paragalago rondoensis,Rondo Bushbaby,English,false
+40652,Paragalago rondoensis,Rondo Dwarf Galago,English,true
+10550,Hylobates moloch,Javan Gibbon,English,false
+10550,Hylobates moloch,Moloch Gibbon,English,false
+10550,Hylobates moloch,Owa Jawa,English,false
+10550,Hylobates moloch,Gibbon Cendré,French,false
+10550,Hylobates moloch,Gibón Ceniciento,Spanish; Castilian,false
+10550,Hylobates moloch,Silvery Gibbon,English,true
+10552,Hylobates pileatus,Capped Gibbon,English,false
+10552,Hylobates pileatus,Crowned Gibbon,English,false
+10552,Hylobates pileatus,Gibón de Cresta Negra,Spanish; Castilian,false
+10552,Hylobates pileatus,Pileated Gibbon,English,true
+39879,Hylobates albibarbis,Bornean Agile Gibbon,English,false
+39879,Hylobates albibarbis,Kelempiao,Indonesian,false
+39879,Hylobates albibarbis,Bornean White-bearded Gibbon,English,true
+10548,Hylobates lar,Common Gibbon,English,false
+10548,Hylobates lar,White-handed Gibbon,English,false
+10548,Hylobates lar,Gibbon à mains blanches,French,false
+10548,Hylobates lar,Gibbon Lar,French,false
+10548,Hylobates lar,Gibón de Manos Blancas,Spanish; Castilian,false
+10548,Hylobates lar,Lar Gibbon,English,true
+10547,Hylobates klossii,Dwarf Gibbon,English,false
+10547,Hylobates klossii,Kloss's Gibbon,English,false
+10547,Hylobates klossii,Mentawai Gibbon,English,false
+10547,Hylobates klossii,Bilou or Siamang Kerdil Mentawai,Indonesian,false
+10547,Hylobates klossii,Siamang De Kloss,French,false
+10547,Hylobates klossii,Siamang Enano,Spanish; Castilian,false
+10547,Hylobates klossii,Kloss’s Gibbon,English,true
+10543,Hylobates agilis,Dark-handed Gibbon,English,false
+10543,Hylobates agilis,Gibbon Agile,French,false
+10543,Hylobates agilis,Agile Gibbon,English,true
+39779,Symphalangus syndactylus,Siamang,English,true
+39876,Hoolock hoolock,Hoolock Gibbon,English,false
+39876,Hoolock hoolock,Western Hoolock,English,false
+39876,Hoolock hoolock,Gibbon Hoolock Occidental,French,false
+39876,Hoolock hoolock,Gibón Hulock,Spanish; Castilian,false
+39876,Hoolock hoolock,Hoolock,French,false
+39876,Hoolock hoolock,Western Hoolock Gibbon,English,true
+39775,Nomascus concolor,Black Gibbon,English,false
+39775,Nomascus concolor,Concolor Gibbon,English,false
+39775,Nomascus concolor,Indochinese Gibbon,English,false
+39775,Nomascus concolor,Western Black Crested Gibbon,English,false
+39775,Nomascus concolor,Gibbon Noir,French,false
+39775,Nomascus concolor,Gibón de cresta negra,Spanish; Castilian,false
+39775,Nomascus concolor,Westlicher Schopfgibbon,German,false
+39775,Nomascus concolor,Black Crested Gibbon,English,true
+39896,Nomascus siki,Gibbon à favoris blancs du Sud,French,false
+39896,Nomascus siki,vượn bạc má,Vietnamese,false
+39896,Nomascus siki,vượn đen má hung,Vietnamese,false
+39896,Nomascus siki,vượn đen má trắng,Vietnamese,false
+39896,Nomascus siki,vượn đen siki,Vietnamese,false
+39896,Nomascus siki,vượn hót,Vietnamese,false
+39896,Nomascus siki,vượn má trắng nam,Vietnamese,false
+39896,Nomascus siki,Southern White-cheeked Gibbon,English,true
+128073282,Nomascus gabriellae,Buff-cheeked Gibbon,English,false
+128073282,Nomascus gabriellae,Buffy-cheeked Gibbon,English,false
+128073282,Nomascus gabriellae,Southern Yellow-cheeked Crested Gibbon,English,false
+128073282,Nomascus gabriellae,Red-cheeked Gibbon,English,true
+41643,Nomascus hainanus,Hainan Black Crested Gibbon,English,false
+41643,Nomascus hainanus,Hainan Black Gibbon,English,false
+41643,Nomascus hainanus,Hainan Crested Gibbon,English,false
+41643,Nomascus hainanus,Hainan Gibbon,English,true
+41642,Nomascus nasutus,Eastern Black Crested Gibbon,English,false
+41642,Nomascus nasutus,vượn cao vít,Vietnamese,false
+41642,Nomascus nasutus,vượn đen,Vietnamese,false
+41642,Nomascus nasutus,东黑冠长臂猿.,Chinese,false
+41642,Nomascus nasutus,Cao-vit Gibbon,English,true
+163017685,Nycticebus coucang,Slow Loris,English,false
+163017685,Nycticebus coucang,Sunda Slow Loris,English,false
+163017685,Nycticebus coucang,Loris lent,French,false
+163017685,Nycticebus coucang,Loris Lento,Spanish; Castilian,false
+163017685,Nycticebus coucang,Greater Slow Loris,English,true
+136532,Palaeopropithecus ingens,Large Sloth Lemur,English,true
+39954,Callicebus coimbrai,Coimbra's titi,English,false
+39954,Callicebus coimbrai,Coimbra-Springaffe,German,false
+39954,Callicebus coimbrai,Guigó,Portuguese,false
+39954,Callicebus coimbrai,Guigó-de-Coimbra-Filho,Portuguese,false
+39954,Callicebus coimbrai,Coimbra-Filho’s Titi Monkey,English,true
+41550,Plecturocebus modestus,Bolivian Titi,English,false
+41550,Plecturocebus modestus,Modest Titi,English,false
+41550,Plecturocebus modestus,Rio Beni Titi,English,false
+41550,Plecturocebus modestus,Titi Monkey,English,false
+41550,Plecturocebus modestus,Lucachi cenizo,Spanish; Castilian,false
+41550,Plecturocebus modestus,Mono Tití,Spanish; Castilian,false
+41550,Plecturocebus modestus,Rio-Beni-Springaffe,German,false
+41550,Plecturocebus modestus,Beni Titi Monkey,English,true
+3553,Plecturocebus oenanthe,Andean Titi Monkey,English,false
+3553,Plecturocebus oenanthe,Rio Mayo Titi Monkey,English,false
+3553,Plecturocebus oenanthe,Anden-Springaffe,German,false
+3553,Plecturocebus oenanthe,Mono Tocón,Spanish; Castilian,false
+3553,Plecturocebus oenanthe,San Martin Titi Monkey,English,true
+3554,Plecturocebus olallae,Beni Titi Monkey,English,false
+3554,Plecturocebus olallae,Olalla's Titi,English,false
+3554,Plecturocebus olallae,Olalla’s Titi Monkey,English,false
+3554,Plecturocebus olallae,Ollala Brothers' Titi,English,false
+3554,Plecturocebus olallae,Beni-Springaffe,German,false
+3554,Plecturocebus olallae,Lucachi rojizo,Spanish; Castilian,false
+3554,Plecturocebus olallae,Mono Tití,Spanish; Castilian,false
+3554,Plecturocebus olallae,Olalla Brothers’ Titi,English,true
+136515,Xenothrix mcgregori,Jamaican Monkey,English,true
+179234,Tarsius tumpara,Siau Island Tarsier,English,true
+21493,Tarsius sangirensis,Sangihe Island Tarsier,English,false
+21493,Tarsius sangirensis,Sangihe Tarsier,English,true
+21494,Tarsius pelengensis,Peleng Island Tarsier,English,false
+21494,Tarsius pelengensis,Peleng Tarsier,English,true
+21490,Tarsius pumilus,Lesser Spectral Tarsier,English,false
+21490,Tarsius pumilus,Mountain Tarsier,English,false
+21490,Tarsius pumilus,Sulawesi Mountain Tarsier,English,false
+21490,Tarsius pumilus,Tarsero Piemeno,Spanish; Castilian,false
+21490,Tarsius pumilus,Pygmy Tarsier,English,true
+81237954,Cebus brunneus,Brown Weeper Capuchin,English,false
+81237954,Cebus brunneus,capuchino,Spanish; Castilian,false
+81237954,Cebus brunneus,Capuchino de Venezuela,Spanish; Castilian,false
+81237954,Cebus brunneus,capuchino venezolano,Spanish; Castilian,false
+81237954,Cebus brunneus,mono,Spanish; Castilian,false
+81237954,Cebus brunneus,mono capuchino,Spanish; Castilian,false
+81237954,Cebus brunneus,mono capuchino norteño,Spanish; Castilian,false
+81237954,Cebus brunneus,mono común,Spanish; Castilian,false
+81237954,Cebus brunneus,mono pardo,Spanish; Castilian,false
+81237954,Cebus brunneus,Venezuela-Kapuzineraffe,German,false
+81237954,Cebus brunneus,Venezuelan Brown Capuchin,English,true
+136912,Presbytis sumatrana,Black Sumatran Langur,English,true
+39816,Presbytis siberu,Sombre-bellied Mentawai Island Langur,English,false
+39816,Presbytis siberu,Siberut Langur,English,true
+39810,Presbytis sabana,Crested Grizzled Langur,English,false
+39810,Presbytis sabana,Sabah Grizzled Langur,English,true
+39872,Trachypithecus leucocephalus,White-headed Black Langur,English,true
+39890,Hylobates funereus,Northern Grey Gibbon,English,false
+39890,Hylobates funereus,Northern Gray Gibbon,English,true
+39889,Hylobates abbotti,Abbott’s Gray Gibbon,English,true
+39888,Hylobates muelleri,Bornean Grey Gibbon,English,false
+39888,Hylobates muelleri,Borneo Gibbon,English,false
+39888,Hylobates muelleri,Grey Gibbon,English,false
+39888,Hylobates muelleri,Müller's Bornean Gibbon,English,false
+39888,Hylobates muelleri,Müller's Gibbon,English,false
+39888,Hylobates muelleri,Gibbon de Muller,French,false
+39888,Hylobates muelleri,Gibón de Mueller,Spanish; Castilian,false
+39888,Hylobates muelleri,Bornean Gibbon,English,true
+6553,Dicerorhinus sumatrensis,Rhinocéros de Sumatra,French,false
+6553,Dicerorhinus sumatrensis,Rinoceronte de Sumatra,Spanish; Castilian,false
+6553,Dicerorhinus sumatrensis,Sumatran Rhinoceros,English,true
+19495,Rhinoceros sondaicus,Rhinocéros de la Sonde,French,false
+19495,Rhinoceros sondaicus,Rinoceronte de Java,Spanish; Castilian,false
+19495,Rhinoceros sondaicus,Javan Rhinoceros,English,true
+10032,Choeropsis liberiensis,Hipopótamo Enano,Spanish; Castilian,false
+10032,Choeropsis liberiensis,Hipopótamo Pigmeo,Spanish; Castilian,false
+10032,Choeropsis liberiensis,Hippopotame Nain,French,false
+10032,Choeropsis liberiensis,Hippopotame Pygmée,French,false
+10032,Choeropsis liberiensis,Pygmy Hippopotamus,English,true
+136628,Microgale jobihely,Northern Shrew Tenrec,English,true
+1087,Neamblysomus gunningi,Gunning's Golden Mole,English,true
+62007,Amblysomus marleyi,Marley-Goldmull,German,false
+62007,Amblysomus marleyi,Marley's Golden Mole,English,true
+1089,Neamblysomus julianae,Juliana's Golden Mole,English,true
+5749,Cryptochloris zyli,Van Zyl's Golden Mole,English,true
+5748,Cryptochloris wintoni,De Winton's Golden Mole,English,true
+19705,Rhynchocyon chrysopygus,Golden-rumped Elephant-shrew,English,false
+19705,Rhynchocyon chrysopygus,Golden-rumped Sengi,English,true
+4828,Chrysospalax trevelyani,Giant Golden Mole,English,true
+16138,Parantechinus apicalis,Southern Dibbler,English,false
+16138,Parantechinus apicalis,Souris marsupiale mouchetée,French,false
+16138,Parantechinus apicalis,Dibbler,English,true
+6296,Dasyurus viverrinus,Chat marsupial moucheté,French,false
+6296,Dasyurus viverrinus,Eastern Quoll,English,true
+6295,Dasyurus hallucatus,Chat Marsupial Du Nord,French,false
+6295,Dasyurus hallucatus,Northern Quoll,English,true
+14222,Myrmecobius fasciatus,Banded Anteater,English,false
+14222,Myrmecobius fasciatus,Fourmilier marsupial rayé,French,false
+14222,Myrmecobius fasciatus,Hormiguero Marsupial,Spanish; Castilian,false
+14222,Myrmecobius fasciatus,Numbat,English,true
+136218,Ailurops melanotis,Talaud-Bärenkuskus,German,false
+136218,Ailurops melanotis,Talaud Bear Cuscus,English,true
+20639,Spilocuscus rufoniger,Black-spotted Cuscus,English,false
+20639,Spilocuscus rufoniger,Couscous à taches noires,French,false
+20639,Spilocuscus rufoniger,Black Spotted Cuscus,English,true
+136443,Spilocuscus wilsoni,Biak Spotted Cuscus,English,false
+136443,Spilocuscus wilsoni,Wilson's Spotted Cuscus,English,false
+136443,Spilocuscus wilsoni,Blue-eyed Spotted Cuscus,English,true
+16858,Phalanger alexandrae,Alexandra's Cuscus,English,false
+16858,Phalanger alexandrae,Couscous de Gebe,French,false
+16858,Phalanger alexandrae,Gebe Cuscus,English,true
+16851,Phalanger matanim,Matanim Cuscus,English,false
+16851,Phalanger matanim,Couscous de Telefomin,French,false
+16851,Phalanger matanim,Telefomin Cuscus,English,true
+16846,Phalanger lullulae,Woodlark Island Cuscus,English,false
+16846,Phalanger lullulae,Couscous de Woodlark,French,false
+16846,Phalanger lullulae,Woodlark Cuscus,English,true
+6794,Dorcopsis atrata,Black Dorcopsis Wallaby,English,false
+6794,Dorcopsis atrata,Black Forest-wallaby,English,false
+6794,Dorcopsis atrata,Black Dorcopsis,English,true
+16761,Petrogale concinna,Nabarlek,English,true
+16752,Petrogale coenensis,Cape York Rock Wallaby,English,true
+16747,Petrogale persephone,Proserpine Rock Wallaby,English,true
+6437,Dendrolagus mbaiso,Dingiso,English,true
+6435,Dendrolagus scottae,Scott's Tree-kangaroo,English,false
+6435,Dendrolagus scottae,Tenkile Tree Kangaroo,English,false
+6435,Dendrolagus scottae,Tenkile,English,true
+6433,Dendrolagus matschiei,Matschie's Tree-kangaroo,English,false
+6433,Dendrolagus matschiei,Huon Tree Kangaroo,English,true
+136668,Dendrolagus mayri,Wondiwoi Tree-kangaroo,English,true
+136732,Dendrolagus notatus,Ifola,Undetermined,true
+136696,Dendrolagus pulcherrimus,Golden-mantled Tree Kangaroo,English,true
+6429,Dendrolagus goodfellowi,Ornate Tree-kangaroo,English,false
+6429,Dendrolagus goodfellowi,Goodfellow's Tree Kangaroo,English,true
+136255,Thylogale lanata,Mountain Pademelon,English,true
+21873,Thylogale calabyi,Alpine Pademelon,English,false
+21873,Thylogale calabyi,Alpine Wallaby,English,false
+21873,Thylogale calabyi,Calaby's Pademelon,English,true
+11343,Lasiorhinus krefftii,Queensland Hairy-nosed Wombat,English,false
+11343,Lasiorhinus krefftii,Oso Marsupial Del Río Moonie,Spanish; Castilian,false
+11343,Lasiorhinus krefftii,Wombat À Narines Poilues Du Queensland,French,false
+11343,Lasiorhinus krefftii,Wombat À Nez Poilu De Queensland,French,false
+11343,Lasiorhinus krefftii,Northern Hairy-nosed Wombat,English,true
+16726,Petaurus abidi,Northern Glider,English,true
+16727,Petaurus gracilis,Mahogany Glider,English,true
+9564,Gymnobelideus leadbeateri,Leadbeater's Possum,English,true
+6224,Dactylopsila tatei,Fergusson Island Striped Possum,English,false
+6224,Dactylopsila tatei,Tate's Triok,English,false
+6224,Dactylopsila tatei,Tate's Striped Possum,English,true
+18107,Potorous gilbertii,Ngilkat ,Australian languages,false
+18107,Potorous gilbertii,Gilbert's Potoroo,English,true
+18492,Pseudocheirus occidentalis,Ngwayir,English,false
+18492,Pseudocheirus occidentalis,Western Ringtail,English,false
+18492,Pseudocheirus occidentalis,Western Ringtail Possum,English,true
+23179,Zaglossus bruijnii,Long-beaked Echidna,English,false
+23179,Zaglossus bruijnii,Long-nosed Echidna,English,false
+23179,Zaglossus bruijnii,Long-nosed Spiny Anteater,English,false
+23179,Zaglossus bruijnii,New Guinea Long-nosed Echidna,English,false
+23179,Zaglossus bruijnii,Echidné À Bec Courbe,French,false
+23179,Zaglossus bruijnii,Echidné À Nez Long,French,false
+23179,Zaglossus bruijnii,Echidné De Nouvelle-guinée,French,false
+23179,Zaglossus bruijnii,Echidnos Narilargos,Spanish; Castilian,false
+23179,Zaglossus bruijnii,Equidna De Nueva Guinea,Spanish; Castilian,false
+23179,Zaglossus bruijnii,Western Long-beaked Echidna,English,true
+136322,Zaglossus attenboroughi,Attenborough's Echidna,English,false
+136322,Zaglossus attenboroughi,Cyclops Long-beaked Echidna,English,false
+136322,Zaglossus attenboroughi,Sir David's Long-beaked Echidna,English,true
+16710,Peroryctes broadbenti,Péramèle Géant,French,false
+16710,Peroryctes broadbenti,Giant Bandicoot,English,true
+7017,Echymipera davidi,Péramèle Épineux De David,French,false
+7017,Echymipera davidi,David's Echymipera,English,true
+19711,Rhynchomeles prattorum,Ceram Bandicoot,English,false
+19711,Rhynchomeles prattorum,Péramèle De Céram,French,false
+19711,Rhynchomeles prattorum,Seram Bandicoot,English,true
+16573,Perameles fasciata,Banded Bandicoot,English,false
+16573,Perameles fasciata,New South Wales Barred Bandicoot,English,false
+16573,Perameles fasciata,Western Barred Bandicoot,English,false
+16573,Perameles fasciata,Péramèle à bandes,French,false
+16573,Perameles fasciata,Liverpool Plains striped bandicoot,English,true
+136504,Pteropus aruensis,Aru Flying Fox,English,true
+21982,Tomopeas ravus,Blunt-eared Bat,English,true
+10966,Kerivoula africana,Tanzanian Woolly Bat,English,true
+19549,Rhinolophus maclaudi,Maclauds Jufeisennase,German,false
+19549,Rhinolophus maclaudi,Rhinolophe de Maclaud,French,false
+19549,Rhinolophus maclaudi,Maclaud's Horseshoe Bat,English,true
+136534,Styloctenium mindorensis,Mindoro Stripe-faced Fruit Bat,English,true
+136531,Pteropus ualanus,Kosrae Fruit Bat,English,false
+136531,Pteropus ualanus,Ualan Fruit Bat,English,false
+136531,Pteropus ualanus,Roussette Des Îles Kosrae,French,false
+136531,Pteropus ualanus,Kosrae Flying Fox,English,true
+19542,Rhinolophus guineensis,Guinea-Hufeisennase,German,false
+19542,Rhinolophus guineensis,Rhinolophe de Guinée,French,false
+19542,Rhinolophus guineensis,Guinean Horseshoe Bat,English,true
+4321,Mops tomensis,São-Tomé-Bulldoggfledermaus,German,false
+4321,Mops tomensis,Tadaride de São Tomé,French,false
+4321,Mops tomensis,São Tomé Free-tailed Bat,English,true
+19533,Rhinolophus cognatus,Andaman Horseshoe Bat,English,true
+136519,Notopteris neocaledonicus,Roussette À Queue,French,false
+136519,Notopteris neocaledonicus,New Caledonia Blossom Bat,English,true
+4420,Chalinolobus neocaledonicus,Chalinolobe Néo-calédonien,French,false
+4420,Chalinolobus neocaledonicus,Neukaledonien-Lappenfledermaus,German,false
+4420,Chalinolobus neocaledonicus,New Caledonia Wattled Bat,English,true
+136420,Saccopteryx antioquensis,Antioquian Sac-winged Bat,English,true
+4425,Chalinolobus tuberculatus,Long-tailed Wattled Bat,English,false
+4425,Chalinolobus tuberculatus,Langschwanz-Lappenfledermaus,German,false
+4425,Chalinolobus tuberculatus,Neuseeland-Lappenfledermaus,German,false
+4425,Chalinolobus tuberculatus,Pekapeka,Maori,false
+4425,Chalinolobus tuberculatus,New Zealand Long-tailed Bat,English,true
+139,Acerodon jubatus,Golden-crowned Flying Fox,English,false
+139,Acerodon jubatus,Goldkronenflughund,German,false
+139,Acerodon jubatus,Goldkronen-Flughund,German,false
+139,Acerodon jubatus,Zorro Volador Filipino,Spanish; Castilian,false
+139,Acerodon jubatus,Golden-capped Fruit Bat,English,true
+19680,Rhogeessa genowaysi,Genoways's Yellow Bat,English,true
+19562,Rhinolophus rex,Guizhou Jutoufu,Chinese,false
+19562,Rhinolophus rex,King Horseshoe Bat,English,true
+136587,Pteralopex flanneryi,Greater Monkey-faced Bat,English,true
+14953,Nyctimene rabori,Philippine Tube-nosed Fruit Bat,English,true
+15006,Nyctophilus howensis,Lord Howe Long-eared Bat,English,true
+4320,Mops solomonis,Solomons Mastiff Bat,English,false
+4320,Mops solomonis,Salomonen-Bulldoggfledermaus,German,false
+4320,Mops solomonis,Solomons Free-tailed Bat,English,true
+6773,Dobsonia chapmani,Philippine Bare-backed Fruit Bat,English,false
+6773,Dobsonia chapmani,Negros Naked-backed Fruit Bat,English,true
+4665,Chiroderma improvisum,Guadeloupe Big-eyed Bat,English,false
+4665,Chiroderma improvisum,Guadeloupe-Großaugenfledermaus,German,false
+4665,Chiroderma improvisum,Guadeloupean Big-eyed Bat,English,true
+136685,Pteropus rennelli,Rennell Flying Fox,English,true
+12264,Lonchophylla dekeyseri,Dekeyser's Nectar Bat,English,true
+12263,Lonchophylla bokermanni,Bokermann's Nectar Bat,English,true
+12271,Lonchorhina fernandezi,Fernandez's Sword-nosed Bat,English,true
+136807,Nyctophilus nebulosus,New Caledonia Long-eared Bat,English,true
+136824,Natalus jamaicensis,Jamaican Greater Funnel-eared Bat,English,true
+14097,Myonycteris brachycephala,Sao Tomé Collared Fruit Bat,English,true
+20958,Sturnira nana,Lesser Yellow-shouldered Bat,English,true
+14143,Myotis atacamensis,Atacaman Myotis,English,false
+14143,Myotis atacamensis,Atacama Myotis,English,true
+14172,Myotis leibii,Eastern Small-footed Myotis,English,false
+14159,Myotis findleyi,Findley's Myotis,English,true
+40036,Tadarida latouchei,La Touche's Free-tailed Bat,English,true
+14189,Myotis peninsularis,Peninsular Myotis,English,true
+29485,Murina ryukyuana,Ryukyu Tube-nosed Bat,English,true
+14191,Myotis planiceps,Flat-headed Myotis,English,true
+44784,Rhinolophus ruwenzorii,Rhinolophe du Rwenzori,French,false
+44784,Rhinolophus ruwenzorii,Ruwenozori-Hufetsennase,German,false
+44784,Rhinolophus ruwenzorii,Ruwenzori Horseshoe Bat,English,true
+44786,Rhinolophus ziama,Rhinolophe de Ziama,French,false
+44786,Rhinolophus ziama,Ziama Hufeisennase,German,false
+44786,Rhinolophus ziama,Ziama Horseshoe Bat,English,true
+14260,Mystacina robusta,Pekapeka,Maori,false
+14260,Mystacina robusta,New Zealand Greater Short-tailed Bat,English,true
+18655,Mirimiri acrodonta,Fijian Monkey-faced Bat,English,true
+18656,Pteralopex anceps,Bougainville Monkey-faced Bat,English,true
+18657,Pteralopex atrata,Cusp-toothed Flying Fox,English,false
+18657,Pteralopex atrata,Cusp-toothed Fruit Bat,English,false
+18657,Pteralopex atrata,Cusp-toothed Monkey-faced Bat,English,false
+18657,Pteralopex atrata,Guadalcanal Monkey-faced Bat,English,true
+18718,Pteropus brunneus,Dusky Flying Fox,English,false
+18718,Pteropus brunneus,Zorro Volador De Las Islas Percy,Spanish; Castilian,false
+18718,Pteropus brunneus,Percy Island Flying Fox,English,true
+18714,Pteropus aldabrensis,Aldabra Flying Fox,English,false
+18714,Pteropus aldabrensis,Zorro Volador De Aldabra,Spanish; Castilian,false
+18714,Pteropus aldabrensis,Aldabra Flying-fox,English,true
+18723,Pteropus faunulus,Nicobar Flying Fox,English,true
+18724,Pteropus fundatus,Zorro Volador De Las Islas Banks,Spanish; Castilian,false
+18724,Pteropus fundatus,Banks Flying Fox,English,true
+18721,Pteropus conspicillatus,Spectacled Flying-fox,English,false
+18721,Pteropus conspicillatus,Zorro Volador De Anteojos,Spanish; Castilian,false
+18721,Pteropus conspicillatus,Spectacled Flying Fox,English,true
+18728,Pteropus howensis,Zorro Volador de Lord Howe,Spanish; Castilian,false
+18728,Pteropus howensis,Ontong Java Flying Fox,English,true
+85043053,Pteropus pelagicus,Caroline Islands Flying Fox,English,false
+85043053,Pteropus pelagicus,Chuuk Fruit Bat,English,false
+85043053,Pteropus pelagicus,Mortlock Islands Flying Fox,English,false
+85043053,Pteropus pelagicus,Ruck Flying Fox,English,false
+85043053,Pteropus pelagicus,Truk Flying Fox,English,false
+85043053,Pteropus pelagicus,Roussette Des Îles Chuuk,French,false
+85043053,Pteropus pelagicus,Chuuk Flying Fox,English,true
+18739,Pteropus melanopogon,Zorro Volador De Barba Negra,Spanish; Castilian,false
+18739,Pteropus melanopogon,Black-bearded Flying Fox,English,true
+188566753,Pteropus mariannus,Marianas Flying Fox,English,false
+188566753,Pteropus mariannus,Pagan Island Fruit Bat,English,false
+188566753,Pteropus mariannus,Fanihi,Chamorro,false
+188566753,Pteropus mariannus,Roussette des Îles Marianes,French,false
+188566753,Pteropus mariannus,Mariana Fruit Bat,English,true
+18744,Pteropus nitendiensis,Zorro Volador De La Isla Ndeni,Spanish; Castilian,false
+18744,Pteropus nitendiensis,Temotu Flying Fox,English,true
+18741,Pteropus molossinus,Caroline Flying Fox,English,false
+18741,Pteropus molossinus,Pohnpei Flying-fox,English,false
+18741,Pteropus molossinus,Pohnpei Fruit Bat,English,false
+18741,Pteropus molossinus,Renard Volant De Ponape,French,false
+18741,Pteropus molossinus,Pohnpei Flying Fox,English,true
+71733227,Mormopterus acetabulosus,Mauritian Free-tailed Bat,English,true
+18752,Pteropus pselaphon,Bonin Fruit Bat,English,false
+18752,Pteropus pselaphon,Renard volant des Îles Bonin ,French,false
+18752,Pteropus pselaphon,Roussette des Îles Bonin ,French,false
+18752,Pteropus pselaphon,Zorro Volador De Las Isla Bonin,Spanish; Castilian,false
+18752,Pteropus pselaphon,Bonin Flying Fox,English,true
+18749,Pteropus pilosus,Palau Flying-fox,English,false
+18749,Pteropus pilosus,Palau Fruit Bat,English,false
+18749,Pteropus pilosus,Zorro Volador De Las Islas Palau,Spanish; Castilian,false
+18749,Pteropus pilosus,Large Palau Flying Fox,English,true
+18755,Pteropus rodricensis,Golden Bat of Rodrigues,English,false
+18755,Pteropus rodricensis,Rodrigues Fruit Bat,English,false
+18755,Pteropus rodricensis,Chauve-Souris de Rodrigues ,French,false
+18755,Pteropus rodricensis,Zorro Volador De La Isla Rodrígues,Spanish; Castilian,false
+18755,Pteropus rodricensis,Rodrigues Flying Fox,English,true
+18761,Pteropus subniger,Dark Flying Fox,English,false
+18761,Pteropus subniger,Zorro Volador Oscuro De Mauricio,Spanish; Castilian,false
+18761,Pteropus subniger,Lesser Mascarene Flying-fox,English,true
+18763,Pteropus tokudae,Guam Fruit Bat,English,false
+18763,Pteropus tokudae,Zorro Volador De Tokuda,Spanish; Castilian,false
+18763,Pteropus tokudae,Guam Flying Fox,English,true
+18765,Pteropus tuberculatus,Zorro Volador De La Isla Jawi,Spanish; Castilian,false
+18765,Pteropus tuberculatus,Vanikoro Flying Fox,English,true
+18766,Pteropus vampyrus,Large Flying Fox,English,false
+18766,Pteropus vampyrus,Malayan Flying Fox,English,false
+18766,Pteropus vampyrus,Bayakan,Philippine (Other),false
+18766,Pteropus vampyrus,Bengkawat (Kalimantan),Indonesian,false
+18766,Pteropus vampyrus,Dơi ngựa lớn,Vietnamese,false
+18766,Pteropus vampyrus,Dơi quạ,Vietnamese,false
+18766,Pteropus vampyrus,Kabog (Visayan),Philippine (Other),false
+18766,Pteropus vampyrus,Kalong,Indonesian,false
+18766,Pteropus vampyrus,Kang Kao Mae Kai,Thai,false
+18766,Pteropus vampyrus,Keluang Besar,Malay,false
+18766,Pteropus vampyrus,Khangkao Maekai Pafon (ค้างคาวแม่ไก่ป่าฝน),Thai,false
+18766,Pteropus vampyrus,Paing,Indonesian,false
+18766,Pteropus vampyrus,Paniki (Filipino/Tagalog),Philippine (Other),false
+18766,Pteropus vampyrus,Zorro Volador De Cuello Rojo,Spanish; Castilian,false
+18766,Pteropus vampyrus,Large Flying-fox,English,true
+10141,Hipposideros lamottei,Lamottes Rundblattnase,German,false
+10141,Hipposideros lamottei,Nimba Rundblattnase,German,false
+10141,Hipposideros lamottei,Phyllorhine de Lamotte,French,false
+10141,Hipposideros lamottei,Lamotte's Roundleaf Bat,English,true
+10138,Hipposideros hypophyllus,Leafletted Leaf-nosed Bat,English,false
+10138,Hipposideros hypophyllus,Kolar Leaf-nosed Bat,English,true
+10127,Hipposideros demissus,Makira Horseshoe Bat,English,false
+10127,Hipposideros demissus,Makira Leaf-nosed Bat,English,true
+10125,Hipposideros curtus,Kurzschwanz-Rundblattnase,German,false
+10125,Hipposideros curtus,Phyllorhine à queue courte,French,false
+10125,Hipposideros curtus,Short-tailed Roundleaf Bat,English,true
+13948,Murina tenebrosa,Tsushima Tube-nosed Bat,English,false
+13948,Murina tenebrosa,Gloomy Tube-nosed Bat,English,true
+10123,Hipposideros coxi,Cox's Roundleaf Bat,English,false
+10123,Hipposideros coxi,Cox's Leaf-nosed Bat,English,true
+10161,Hipposideros sorenseni,Sorensen's Leaf-nosed Bat,English,true
+80224148,Hipposideros turpis,Lesser Great Leaf-nosed Bat,English,false
+80224148,Hipposideros turpis,Lesser Roundleaf Bat,English,false
+80224148,Hipposideros turpis,Lesser Leaf-nosed Bat,English,true
+13570,Miniopterus robustior,Minioptère Des Iles Loyauté,French,false
+13570,Miniopterus robustior,Loyalty Bent-winged Bat,English,true
+11374,Latidens salimalii,Salim Ali's Fruit Bat,English,true
+13638,Cabreramops aequatorianus,Equatorial Dog-faced Bat,English,true
+21456,Taphozous hildegardeae,Hildegardes Grabfledermaus,German,false
+21456,Taphozous hildegardeae,Taphien de Hildegarde,French,false
+21456,Taphozous hildegardeae,Hildegarde's Tomb Bat,English,true
+7929,Eptesicus guadeloupensis,Guadeloupean Big Brown Bat,English,false
+7929,Eptesicus guadeloupensis,Guadeloupe Big Brown Bat,English,true
+17365,Pipistrellus sturdeei,Sturdee's Pipistrelle,English,false
+17365,Pipistrellus sturdeei,Ogasawara Abura Koumori,Japanese,false
+17365,Pipistrellus sturdeei,Bonin Pipistrelle,English,true
+11697,Leptonycteris nivalis,Mexican Long-nosed Bat,English,false
+11697,Leptonycteris nivalis,Greater Long-nosed Bat,English,true
+17173,Phyllonycteris aphylla,Jamaican Flower Bat,English,true
+7669,Emballonura semicaudata,Polynesian Sheath-tailed Bat,English,false
+7669,Emballonura semicaudata,Pacific Sheath-tailed Bat,English,true
+3794,Capra caucasica,Tur,English,false
+3794,Capra caucasica,West Caucasian Tur,English,false
+3794,Capra caucasica,Tur occidental,Spanish; Castilian,false
+3794,Capra caucasica,Westkaukasischer Steinbock,German,false
+3794,Capra caucasica,Западнокавказский тур,Russian,false
+3794,Capra caucasica,Кубанский тур,Russian,false
+3794,Capra caucasica,Western Tur,English,true
+44703,Muntiacus vuquangensis,Giant Muntjac,English,false
+44703,Muntiacus vuquangensis,Indochinese Muntjak,Dutch; Flemish,false
+44703,Muntiacus vuquangensis,Jattemuntjak,Swedish,false
+44703,Muntiacus vuquangensis,Kaempemuntjak,Danish,false
+44703,Muntiacus vuquangensis,Muntjac geant,French,false
+44703,Muntiacus vuquangensis,Muntjac géant,French,false
+44703,Muntiacus vuquangensis,Muntjac Gigante,Spanish; Castilian,false
+44703,Muntiacus vuquangensis,Riesenmuntjak,German,false
+44703,Muntiacus vuquangensis,Large-antlered Muntjac,English,true
+2446,Axis calamianensis,Calamian Hog Deer,English,false
+2446,Axis calamianensis,Philippine Deer,English,false
+2446,Axis calamianensis,Calamian-Hirsch,German,false
+2446,Axis calamianensis,Calamian-Schweinshirsch,German,false
+2446,Axis calamianensis,Cerf-cochon Calamien,French,false
+2446,Axis calamianensis,Ciervo de los Calamianes,Spanish; Castilian,false
+2446,Axis calamianensis,Ciervo Porquerizo de los Calamianes,Spanish; Castilian,false
+2446,Axis calamianensis,Calamian Deer,English,true
+41784,Axis porcinus,Indian Hog Deer,English,false
+41784,Axis porcinus,Indochina Hog Deer,English,false
+41784,Axis porcinus,Indochinese Hog Deer,English,false
+41784,Axis porcinus,Thai Hog Deer,English,false
+41784,Axis porcinus,Cerf-cochon,French,false
+41784,Axis porcinus,Cerf-cochon d'Indochine,French,false
+41784,Axis porcinus,Cerf des Marais,French,false
+41784,Axis porcinus,Ciervo Porquerizo de Indochina,Spanish; Castilian,false
+41784,Axis porcinus,Indischer Schweinshirsch,German,false
+41784,Axis porcinus,Schweinshirsch,German,false
+41784,Axis porcinus,Hog Deer,English,true
+10054,Hippocamelus bisulcus,Chilean Guemal,English,false
+10054,Hippocamelus bisulcus,Chilean Huemul,English,false
+10054,Hippocamelus bisulcus,South Andean Deer,English,false
+10054,Hippocamelus bisulcus,South Andean Huemul,English,false
+10054,Hippocamelus bisulcus,Cerf des Andes Méridionales,French,false
+10054,Hippocamelus bisulcus,Ciervo Andino Meridional,Spanish; Castilian,false
+10054,Hippocamelus bisulcus,Gabelhirsch,German,false
+10054,Hippocamelus bisulcus,Huemul,Spanish; Castilian,false
+10054,Hippocamelus bisulcus,Huémul des Andes Méridionales,French,false
+10054,Hippocamelus bisulcus,Huemul Patagónico,Spanish; Castilian,false
+10054,Hippocamelus bisulcus,Trughirsch,German,false
+10054,Hippocamelus bisulcus,Patagonian Huemul,English,true
+7121,Elaphurus davidianus,Pere David's Deer,English,false
+7121,Elaphurus davidianus,Milu,Chinese,false
+7121,Elaphurus davidianus,Père David's Deer,English,true
+4265,Rucervus eldii,Brow-antlered Deer,English,false
+4265,Rucervus eldii,Thamin,English,false
+4265,Rucervus eldii,Cerf d'Eld,French,false
+4265,Rucervus eldii,Ciervo de Eld,Spanish; Castilian,false
+4265,Rucervus eldii,Sangai,Indo-European (Other),false
+4265,Rucervus eldii,Eld's Deer,English,true
+4273,Rusa alfredi,Prince Alfred’s Spotted Deer,English,false
+4273,Rusa alfredi,Visayan Spotted Deer,English,false
+4273,Rusa alfredi,Prinz-Alfred-Hirsch,German,false
+4273,Rusa alfredi,Philippine Spotted Deer,English,true
+13703,Monodelphis unistriata,One-striped Opossum,English,false
+13703,Monodelphis unistriata,One-striped Short-tailed Opossum,English,false
+13703,Monodelphis unistriata,Opossum-musaraigne à une raie,French,false
+13703,Monodelphis unistriata,Single-striped Opossum,English,true
+41320,Cryptonanus ignitus,Red-bellied Gracile Mouse Opossum,English,false
+41320,Cryptonanus ignitus,Red-bellied Gracile Opossum,English,false
+41320,Cryptonanus ignitus,Comadrejita de Vientre Rojo,Spanish; Castilian,false
+12820,Marmosops handleyi,Handley's Slender Mouse Opossum,English,false
+12820,Marmosops handleyi,Opossum-souris De Handley,French,false
+18,Abrocoma boliviensis,Boliviansche Chinchillaratte,German,false
+18,Abrocoma boliviensis,Bolivian Chinchilla Rat,English,true
+13216,Mesocapromys auritus,Eared Hutia,English,false
+13216,Mesocapromys auritus,Jutía rata,Spanish; Castilian,false
+13216,Mesocapromys auritus,Large-eared Hutia,English,true
+9001,Geocapromys brownii,Brown's Hutia,English,false
+9001,Geocapromys brownii,Indian Coney,English,false
+9001,Geocapromys brownii,Jamaican Coney,English,false
+9001,Geocapromys brownii,Jamaican Hutia,English,true
+9003,Geocapromys thoracatus,Swan Island Hutia,English,false
+9003,Geocapromys thoracatus,Little Swan Island Hutia,English,true
+9004,Geocapromys columbianus,Cuban Coney,English,true
+10860,Isolobodon portoricensis,Puerto Rican Hutia,English,true
+10859,Isolobodon montanus,Montane Hutia,English,true
+10034,Hexolobodon phenax,Imposter Hutia,English,true
+17462,Plagiodontia ipnaeum,Samana Hutia,English,false
+4651,Chinchilla chinchilla,Chinchilla à queue courte,French,false
+4651,Chinchilla chinchilla,Chinchilla de Cola Corta,Spanish; Castilian,false
+4651,Chinchilla chinchilla,Kurzschwanz-Chinchilla,German,false
+4651,Chinchilla chinchilla,Short-tailed Chinchilla,English,true
+5797,Ctenomys azarae,Azara's Tuco-tuco,English,true
+5799,Ctenomys bonettoi,Bonetto's Tuco-tuco,English,true
+5809,Ctenomys latro,Mottled Tuco-tuco,English,true
+5817,Ctenomys occultus,Furtive Tuco-tuco,English,true
+5826,Ctenomys sociabilis,Social Tuco-tuco,English,true
+136289,Ctenomys pilarensis,Pilar Tuco-tuco,English,true
+136464,Ctenomys flamarioni,Tuco-tuco of the Dunes,English,true
+6287,Dasyprocta ruatanica,Roatan Island Agouti,English,false
+6287,Dasyprocta ruatanica,Ruatan Island Agouti,English,false
+6285,Dasyprocta mexicana,Mexican Agouti,English,true
+20185,Sicista armenica,Armenian Birch Mouse,English,false
+20185,Sicista armenica,Armyanskaya Myshovka,Russian,false
+3121,Brotomys voratus,Dominikanische Stachelratte,German,false
+3121,Brotomys voratus,Hispaniola-Stachelratte,German,false
+3121,Brotomys voratus,Hispaniolan Edible Rat,English,true
+10025,Heteropsomys insulans,Insular Cave Rat,English,false
+2885,Boromys offella,Oriente-Höhlenratte,German,false
+2885,Boromys offella,Oriente Cave Rat,English,true
+2886,Boromys torrei,Torres Höhlenratte,German,false
+2886,Boromys torrei,Torre’s Cave Rat,English,true
+6978,Phyllomys brasiliensis,Red-nosed Tree Rat,English,false
+6990,Phyllomys unicolor,Unicolored Tree Rat,English,true
+136274,Phyllomys mantiqueirensis,Mantiqueira Atlantic Tree Rat,English,true
+6664,Santamartamys rufodorsalis,Santa Marta Toro,English,false
+6664,Santamartamys rufodorsalis,Red Crested Tree Rat,English,true
+42591,Heterogeomys lanius,Big Pocket Gopher,English,true
+23323,Zygogeomys trichopus,Michoacan Pocket Gopher,English,true
+9056,Geomys tropicalis,Tropical Pocket Gopher,English,true
+12077,Heteromys spectabilis,Jaliscan Spiny Pocket Mouse,English,true
+6676,Dipodomys gravipes,San Quintin Kangaroo Rat,English,true
+6439,Dendromus kahuziensis,Mount Kahuzi African Climbing Mouse,English,false
+6439,Dendromus kahuziensis,Mt. Kahuzi Climbing Mouse,English,true
+165925,Voalavo antsahabensis,Eastern Voalavo,English,true
+7624,Eliurus penicillatus,White-tipped Tufted-tailed Rat,English,false
+7624,Eliurus penicillatus,White-tipped Tuft-tailed Rat,English,true
+136316,Eliurus petteri,Petter's Tuft-tailed Rat,English,true
+10606,Hylopetes sipora,Sipora Flying Squirrel,English,true
+18703,Pteromyscus pulverulentus,Smoky Flying Squirrel,English,true
+21378,Tamiasciurus mearnsi,Mearns's Squirrel,English,true
+1149,Ammospermophilus nelsoni,San Joaquin Antelope Ground Squirrel,English,false
+1149,Ammospermophilus nelsoni,San Joaquin Antelope Squirrel,English,false
+1149,Ammospermophilus nelsoni,Nelson-Antilopenziesel,German,false
+1149,Ammospermophilus nelsoni,Nelson's Antelope Squirrel,English,true
+8269,Eupetaurus cinereus,Woolly Flying Squirrel,English,true
+12832,Marmota sibirica,Siberian Marmot,English,false
+12832,Marmota sibirica,Tarbagan Marmot,English,false
+12832,Marmota sibirica,Mongol Tarvaga,Mongolian,false
+12832,Marmota sibirica,Surok Mongol'Skii,Russian,false
+12832,Marmota sibirica,Tarbagan,Russian,false
+12832,Marmota sibirica,Mongolian Marmot,English,true
+12828,Marmota vancouverensis,Vancouver Island Marmot,English,true
+6090,Cynomys parvidens,Utah Prairie Dog,English,true
+20489,Xerospermophilus perotensis,Perote Ground Squirrel,English,true
+21355,Neotamias palmeri,Palmer's Chipmunk,English,true
+41313,Nesophontes edithae,Edith's Nesophont,English,false
+41313,Nesophontes edithae,Puerto Rican Nesophontes,English,false
+41313,Nesophontes edithae,Edith's Island-shrew,English,true
+14676,Nesophontes zamicrus,Haitian Nesophontes,English,true
+14673,Nesophontes micrus,Western Cuban Nesophontes,English,true
+14674,Nesophontes paramicrus,St. Michel Nesophontes,English,true
+14672,Nesophontes hypomicrus,Atalaye Nesophontes,English,true
+4648,Chimarrogale phaeura,Borneo Water Shrew,English,false
+4648,Chimarrogale phaeura,Sunda Water Shrew,English,false
+4648,Chimarrogale phaeura,Borneo-Biberspitzmaus,German,false
+4648,Chimarrogale phaeura,Borneo-Wasserspitzmaus,German,false
+4648,Chimarrogale phaeura,Bornean Water Shrew,English,true
+136299,Cryptotis merus,Darien Small Eared Shrew,English,true
+136389,Cryptotis nelsoni,Nelson's Small Eared Shrew,English,true
+5763,Cryptotis endersi,Enders' Small-eared Shrew,English,false
+5763,Cryptotis endersi,Enders's Small-eared Shrew,English,false
+5763,Cryptotis endersi,Ender's Small-eared Shrew,English,true
+14111,Myosorex blarina,Montane Mouse Shrew,English,true
+14108,Myosorex longicaudatus,Long-tailed Mouse Shrew,English,false
+14108,Myosorex longicaudatus,Long-tailed Forest Shrew,English,true
+110662121,Myosorex tenuis,Thin Mouse Shrew,English,true
+45047,Myosorex kihaulei,Kihaule's Mouse Shrew,English,true
+21148,Suncus zeylanicus,Ceylon Jungle Shrew,English,false
+21148,Suncus zeylanicus,Jungle Shrew,English,false
+21148,Suncus zeylanicus,Kanu-miya,Sinhala; Sinhalese,false
+21148,Suncus zeylanicus,Mungi’ Elli,Tamil,false
+21148,Suncus zeylanicus,Sri Lankan Shrew,English,true
+136224,Suncus aequatorius,Taita Dwarf Shrew,English,true
+21143,Suncus fellowesgordoni,Sri Lanka Shrew,English,false
+21143,Suncus fellowesgordoni,Mungi’elli-kutti,Tamil,false
+21143,Suncus fellowesgordoni,Podi Hik-miya,Sinhala; Sinhalese,false
+21143,Suncus fellowesgordoni,Podi Kunu-miya,Sinhala; Sinhalese,false
+21143,Suncus fellowesgordoni,Sinna Mungi’elli,Tamil,false
+21143,Suncus fellowesgordoni,Sundelli,Tamil,false
+21143,Suncus fellowesgordoni,Ceylon Pygmy Shrew,English,true
+8553,Feroculus feroculus,Kelaart's Long-clawed Shrew,English,true
+5609,Crocidura negrina,Negros Shrew,English,true
+5608,Crocidura miya,Sri Lankan Long-tailed Shrew,English,true
+5636,Crocidura picea,Assumbo Shrew,English,false
+5636,Crocidura picea,Pitch Shrew,English,false
+5636,Crocidura picea,Crocidure d'Assumbo,French,false
+5636,Crocidura picea,Kamerun-Spitzmaus,German,false
+5636,Crocidura picea,Cameroon Shrew,English,true
+136596,Crocidura hikmiya,Sinharaja White-toothed Shrew,English,true
+41360,Crocidura tarella,Tarella Shrew,English,false
+41360,Crocidura tarella,Ugandan Shrew,English,true
+20391,Sorex pribilofensis,Pribilof Island Shrew,English,true
+20395,Sorex stizodon,San Cristobal Shrew,English,true
+20394,Sorex sclateri,Sclater's Shrew,English,true
+20332,Solisorex pearsoni,Hik-miya,Sinhala; Sinhalese,false
+20332,Solisorex pearsoni,Kanu-miya,Sinhala; Sinhalese,false
+20332,Solisorex pearsoni,Mung’elli,Tamil,false
+20332,Solisorex pearsoni,Pearson's Long-clawed Shrew,English,true
+17829,Podogymnura aureospinula,Dinagat Moonrat,English,false
+17829,Podogymnura aureospinula,Dinagat Gymnure,English,true
+10588,Neohylomys hainanensis,Hainanxin Maowei,Chinese,false
+10588,Neohylomys hainanensis,Hainan Gymnure,English,true
+20322,Solenodon marcanoi,Marcano's Solenodon,English,true
+20320,Atopogale cubana,Almiqui,Spanish; Castilian,false
+20320,Atopogale cubana,Cuban Solenodon,English,true
+15611,Casiomys rhabdops,Striped Rice Rat,English,true
+15597,Mindomys hammondi,Hammond's Rice Rat,English,true
+136657,Megaoryzomys curioi,Galapágos Giant Rat,English,true
+136468,Microakodontomys transitorius,Transitional Colilargo,English,true
+14486,Nelsonia goldmani,Nelson and Goodman's Wood Rat,English,false
+14486,Nelsonia goldmani,Nelson and Coldman's Woodrat,English,true
+22570,Tylomys bullaris,Chiapan Climbing Rat,English,true
+22575,Tylomys tumbalensis,Tumbala Climbing Rat,English,false
+22575,Tylomys tumbalensis,Tumbalá Climbing Rat,English,true
+17225,Phyllotis definitus,Definitive Leaf-eared Mouse,English,true
+13048,Melanomys zunigae,Zuniga's Dark Rice Rat,English,true
+42635,Microtus umbrosus,Zempoaltepec Vole,English,true
+13449,Microtus oaxacensis,Tarabundi Vole,English,true
+12941,Megadontomys nelsoni,Nelson's Giant Deer Mouse,English,true
+12942,Megadontomys thomasi,ratón gigante de Guerrero,Spanish; Castilian,false
+12942,Megadontomys thomasi,Thomas's Giant Deer Mouse,English,true
+12940,Megadontomys cryophilus,Oaxacan Giant Deer Mouse,English,false
+12940,Megadontomys cryophilus,Oaxaca Giant Deer Mouse,English,true
+19484,Rheomys mexicanus,Mexican Water Mouse,English,true
+15255,Oligoryzomys victus,St. Vincent Pygmy Rice Rat,English,true
+16657,Peromyscus dickeyi,Dickey's Deer Mouse,English,false
+16657,Peromyscus dickeyi,ratón de la Isla Tortuga,Spanish; Castilian,false
+16657,Peromyscus dickeyi,Dickey’s Deermouse,English,true
+16671,Peromyscus madrensis,Tres Marias Island Mouse,English,false
+16671,Peromyscus madrensis,Tres Marias Deer Mouse,English,true
+16645,Peromyscus pembertoni,Pemberton's Deer Mouse,English,true
+16653,Peromyscus bullatus,Perote Mouse,English,false
+16653,Peromyscus bullatus,Perote Deer Mouse,English,true
+16655,Peromyscus caniceps,Burt's Deer Mouse,English,false
+16655,Peromyscus caniceps,Montserrat Island Canyon Mouse,English,false
+16655,Peromyscus caniceps,Monserrat Island Deermouse,English,true
+16692,Peromyscus stephani,San Esteban Island Mouse,English,false
+16692,Peromyscus stephani,San Esteban Deermouse,English,true
+16695,Peromyscus winkelmanni,Coalcoman Deermouse,English,false
+16695,Peromyscus winkelmanni,Winkelmann's Deer Mouse,English,false
+16695,Peromyscus winkelmanni,Winkelmann's Mouse,English,false
+16695,Peromyscus winkelmanni,Coalcoman Deer Mouse,English,true
+16675,Peromyscus mekisturus,Puebla Deer Mouse,English,true
+16676,Peromyscus melanocarpus,Tempoaltepec,English,false
+16676,Peromyscus melanocarpus,Zempoaltepec,English,false
+16676,Peromyscus melanocarpus,Black-wristed Deer Mouse,English,true
+16673,Peromyscus mayensis,Maya Mouse,English,false
+16673,Peromyscus mayensis,Mayan Deer Mouse,English,true
+16679,Peromyscus melanurus,Black-tailed Mouse,English,false
+16679,Peromyscus melanurus,ratón de cola negra,Spanish; Castilian,false
+16679,Peromyscus melanurus,Black-tailed Deer Mouse,English,true
+16683,Peromyscus ochraventer,Brown belly deermouse,English,false
+16683,Peromyscus ochraventer,Reed Mouse,English,false
+16683,Peromyscus ochraventer,ratón de vientre café,Spanish; Castilian,false
+16683,Peromyscus ochraventer,El Carrizo Deer Mouse,English,true
+16688,Peromyscus sejugis,Santa Cruz Mouse,English,true
+21790,Thomasomys rosalinda,Rosalinda's Oldfield Mouse,English,true
+23077,Wilfredomys oenax,Greater Wilfred's Mouse,English,true
+14592,Neotoma nelsoni,Nelson's Woodrat,English,true
+9608,Habromys chinanteco,Chinanteco Deer Mouse,English,true
+136683,Habromys delicatulus,Delicate Deer Mouse,English,true
+136582,Habromys ixtlani,Ixtlán Deer Mouse,English,true
+9611,Habromys simulatus,Jico Deer Mouse,English,true
+9609,Habromys lepturus,Slender Tailed Deer Mouse,English,false
+9609,Habromys lepturus,Slender-tailed Deer Mouse,English,true
+12980,Megalomys desmarestii,Antillean Giant Rice Rat,English,false
+12980,Megalomys desmarestii,Desmarest’s Pilorie,English,true
+12981,Megalomys luciae,Santa Lucia Giant Rice Rat,English,false
+12981,Megalomys luciae,Santa Lucian Pilorie,English,true
+741,Neomicroxus latebricola,Ecuadorean Akodont,English,false
+741,Neomicroxus latebricola,Ecuador-Feldmaus,German,false
+741,Neomicroxus latebricola,Ecuadorean Grass Mouse,English,true
+19401,Reithrodontomys raviventris,Salt-marsh Harvest Mouse,English,true
+136821,Reithrodontomys bakeri,Baker's Small-toothed Harvest Mouse,English,true
+19418,Reithrodontomys tenuirostris,Narrow-nosed Harvest Mouse,English,true
+19416,Reithrodontomys spectabilis,Cozumel Harvest Mouse,English,true
+136540,Oryzomys antillarum,Jamaican Rice Rat,English,true
+15583,Oryzomys nelsoni,Tres Marias Island Rice Rat,English,false
+15583,Oryzomys nelsoni,Nelson's Rice Rat,English,true
+11062,Gyldenstolpia fronto,Fossorial Giant Rat,English,true
+16799,Phaenomys ferrugineus,Rio de Janeiro Arboreal Rat,English,true
+14706,Nesoryzomys darwini,Darwin's Galapagos Mouse,English,false
+14708,Nesoryzomys indefessus,Indefatigable Galapagos Mouse,English,true
+1564,Anotomys leander,Aquatic Rat,English,false
+1564,Anotomys leander,Ecuador Fish-eating Rat,English,false
+1564,Anotomys leander,Fish-eating Rat,English,false
+1564,Anotomys leander,Ecuador-Fischratte,German,false
+1564,Anotomys leander,Ecuadoran Ichthyomyine,English,true
+45069,Otomys barbouri,Barbour’s Vlei Rat,English,true
+45071,Otomys burtoni,Burton’s Vlei Rat,English,true
+9680,Hapalomys longicaudatus,Marmoset Rat,English,false
+9680,Hapalomys longicaudatus,Greater Marmoset Rat,English,true
+13960,Mus famulus,Servant Mouse,English,false
+13960,Mus famulus,Bonhote’s Mouse,English,true
+13961,Mus fernandoni,Miya,Sinhala; Sinhalese,false
+13961,Mus fernandoni,Podi-miya,Sinhala; Sinhalese,false
+13961,Mus fernandoni,Sund’elli,Tamil,false
+13961,Mus fernandoni,Ceylon Spiny Mouse,English,true
+136619,Lophuromys eisentrauti,Mount Lefo Brush-furred Rat,English,true
+136701,Paramelomys gressitti,Gressitt’s Paramelomys,English,true
+21972,Tokudaia muenninki,Muennink's Spiny Rat,English,false
+21972,Tokudaia muenninki,Okinawa Spiny Rat,English,true
+21973,Tokudaia osimensis,Amami Spiny Rat,English,false
+21973,Tokudaia osimensis,Ryukyu Spiny Rat,English,false
+136695,Tokudaia tokunoshimensis,Tokunoshima Spiny Rat ,English,true
+14660,Nesokia bunnii,Long-tailed Bandicoot Rat,English,false
+14660,Nesokia bunnii,Long-tailed Nesokia,English,false
+14660,Nesokia bunnii,Red Pest Rat,English,false
+14660,Nesokia bunnii,Bunni's Short-tailed Bandicoot Rat,English,true
+9618,Hadromys humei,Manipur Bush Rat,English,false
+9618,Hadromys humei,Hume’s Rat,English,true
+5500,Crateromys schadenbergi,Giant Bushy-tailed Cloud Rat,English,false
+5500,Crateromys schadenbergi,Luzon Bushy-tailed Cloud Rat,English,false
+5500,Crateromys schadenbergi,Luzon Crateromys,English,true
+5502,Crateromys heaneyi,Panay Bushy-tailed Cloud Rat,English,false
+5502,Crateromys heaneyi,Panay Cloud Runner,English,false
+5502,Crateromys heaneyi,Panay Crateromys,English,true
+5414,Coryphomys buehleri,Buhler's Rat,English,false
+5414,Coryphomys buehleri,Buhler’s Coryphomys,English,true
+5514,Cremnomys elvira,Elvira Rat,English,false
+5514,Cremnomys elvira,Large Rock-rat,English,true
+16121,Paraleptomys rufilatus,Northern Rat,English,false
+16121,Paraleptomys rufilatus,Northern Water Rat,English,false
+16121,Paraleptomys rufilatus,Northern Hydromyine,English,true
+13120,Melomys fraterculus,Manusela Mosaic-tailed Rat,English,false
+13120,Melomys fraterculus,Manusela Melomys,English,true
+136604,Melomys bannisteri,Great Kai Island Melomys,English,true
+136522,Melomys matambuai,Manus Melomys,English,true
+20336,Solomys sapientis,Isabel Naked-tailed Rat,English,false
+20336,Solomys sapientis,Isabel Giant Rat,English,true
+20333,Solomys ponceleti,Poncelet's Naked-tailed Rat,English,false
+20333,Solomys ponceleti,Poncelet's Giant Rat,English,true
+10954,Kadarsanomys sodyi,Sody's Tree Rat,English,false
+10954,Kadarsanomys sodyi,Javan Bamboo Rat,English,true
+22844,Vandeleuria nolthenii,Nolthenius's Long-tailed Climbing Mouse,English,false
+22844,Vandeleuria nolthenii,Podi-gas-miya,Sinhala; Sinhalese,false
+22844,Vandeleuria nolthenii,Sund’elli,Tamil,false
+22844,Vandeleuria nolthenii,Sri Lankan Highland Tree Mouse,English,true
+136763,Pogonomys fergussoniensis,D’entrecasteaux Archipelago Pogonomys,English,true
+40766,Nilopegamys plumbeus,Ethiopian Water Mouse,English,false
+40766,Nilopegamys plumbeus,Ethiopian Amphibious Rat,English,true
+13162,Meriones dahli,Peschanka Dalya,Russian,false
+13162,Meriones dahli,Dahl's Jird,English,true
+116989865,Hybomys badius,Cameroon Highland Hybomys,English,true
+19348,Rattus montanus,Nellu Rat,English,false
+19348,Rattus montanus,Nillu Rat,English,false
+19348,Rattus montanus,Kart’ Elli,Tamil,false
+19348,Rattus montanus,Kelle-miya,Sinhala; Sinhalese,false
+19348,Rattus montanus,Sri Lankan Mountain Rat,English,true
+19325,Rattus burrus,Nicobar Archipelago Rat,English,false
+19325,Rattus burrus,Nonsense Rat,English,false
+19325,Rattus burrus,Miller’s Nicobar Rat,English,true
+22805,Uromys porculus,Guadalcanal Rat,English,true
+22806,Uromys rex,King Uromys,English,false
+22806,Uromys rex,King Rat,English,true
+22803,Uromys imperator,Emperor Rat,English,true
+136470,Uromys emmae,Emma's Giant Rat,English,true
+20757,Nesoromys ceramicus,Ceram Rat,English,false
+20757,Nesoromys ceramicus,Seram Island Mountain Rat,English,true
+136394,Batomys russatus,Dinagat Hairy-tailed Rat,English,false
+136394,Batomys russatus,Dinagat-Haarschwanzratte,German,false
+136394,Batomys russatus,Russet Batomys,English,true
+45054,Hylomyscus grandis,Mt Oku Hylomyscus,English,true
+12722,Mallomys gunung,Alpine Woolly Rat,English,true
+23324,Zyzomys pedunculatus,Macdonnell Range Rock-rat,English,false
+23324,Zyzomys pedunculatus,Rata Coligorda,Spanish; Castilian,false
+23324,Zyzomys pedunculatus,Rat à grosse queue,French,false
+23324,Zyzomys pedunculatus,Central Rock-rat,English,true
+23327,Zyzomys palatalis,Carpentarian Rock-rat,English,true
+13524,Millardia kondana,Kondana Soft-furred Rat,English,false
+13524,Millardia kondana,Large Metad,English,false
+13524,Millardia kondana,Kondana Rat,English,true
+10303,Hydrodamalis gigas,Steller's Sea Cow,English,true
+21172,Porcula salvania,Jabalí Enano,Spanish; Castilian,false
+21172,Porcula salvania,Jabalí Pigmeo,Spanish; Castilian,false
+21172,Porcula salvania,Nal Gahori,Assamese,false
+21172,Porcula salvania,Sanglier nain,French,false
+21172,Porcula salvania,Sanglier pygmée,French,false
+21172,Porcula salvania,Sano Banel,Nepali,false
+21172,Porcula salvania,Takuri Borah,Assamese,false
+21172,Porcula salvania,Pygmy Hog,English,true
+21174,Sus verrucosus,Javan Pig,English,false
+21174,Sus verrucosus,Javan Warty Pig,English,true
+21175,Sus cebifrons,Visayan Warty Pig,English,true
+21178,Sus bucculentus,Heude's Pig,English,false
+21178,Sus bucculentus,Vietnam Warty Pig,English,false
+21178,Sus bucculentus,Indo-chinese Warty Pig,English,true
+136472,Babyrousa togeanensis,Malenge Babirusa,English,false
+136472,Babyrousa togeanensis,Togian Babirusa,English,false
+136472,Babyrousa togeanensis,Babiroussa de l'île Togian,French,false
+136472,Babyrousa togeanensis,Babiroussa des Togian,French,false
+136472,Babyrousa togeanensis,Babirusa de Togian ,Spanish; Castilian,false
+136472,Babyrousa togeanensis,Hirscheber,German,false
+136472,Babyrousa togeanensis,Togian-Hirscheber,German,false
+136472,Babyrousa togeanensis,Togian Islands Babirusa,English,true
+4162,Cephalorhynchus hectori,tūpoupou,Maori,false
+4162,Cephalorhynchus hectori,tutumairekurai,Maori,false
+4162,Cephalorhynchus hectori,Hector's Dolphin,English,true
+7949,Equus africanus,African Ass,English,false
+7949,Equus africanus,Ass,English,false
+7949,Equus africanus,Adghi Bareka,Undetermined,false
+7949,Equus africanus,Ane sauvage d'Afrique,French,false
+7949,Equus africanus,Âne Sauvage D'Afrique,French,false
+7949,Equus africanus,Asno Salvaje de Africa,Spanish; Castilian,false
+7949,Equus africanus,Gumburi,Somali,false
+7949,Equus africanus,African Wild Ass,English,true
+21471,Tapirus bairdii,Central American Tapir,English,false
+21471,Tapirus bairdii,Anteburro,Spanish; Castilian,false
+21471,Tapirus bairdii,Danta,Spanish; Castilian,false
+21471,Tapirus bairdii,Dante,Spanish; Castilian,false
+21471,Tapirus bairdii,Danto,Spanish; Castilian,false
+21471,Tapirus bairdii,Macho de Monte,Spanish; Castilian,false
+21471,Tapirus bairdii,Tapir Centroamericano,Spanish; Castilian,false
+21471,Tapirus bairdii,Tapir de Baird,French,false
+21471,Tapirus bairdii,Baird's Tapir,English,true
+21472,Tapirus indicus,Asian Tapir,English,false
+21472,Tapirus indicus,Asiatic Tapir,English,false
+21472,Tapirus indicus,Indian Tapir,English,false
+21472,Tapirus indicus,Malayan Tapir,English,false
+21472,Tapirus indicus,Asiatischer Tapir,German,false
+21472,Tapirus indicus,Badak Cipan,Malay,false
+21472,Tapirus indicus,Tapir àcChabraque,French,false
+21472,Tapirus indicus,Tapir à dos blanc,French,false
+21472,Tapirus indicus,Tapir de la India,Spanish; Castilian,false
+21472,Tapirus indicus,Tapir de l'Inde,French,false
+21472,Tapirus indicus,Tapir Malais,French,false
+21472,Tapirus indicus,Tenor,Malay,false
+21472,Tapirus indicus,Malay Tapir,English,true
+21473,Tapirus pinchaque,Andean Tapir,English,false
+21473,Tapirus pinchaque,Woolly Tapir,English,false
+21473,Tapirus pinchaque,Danta Cordillerana,Spanish; Castilian,false
+21473,Tapirus pinchaque,Danta de Montaña,Spanish; Castilian,false
+21473,Tapirus pinchaque,Danta de Páramo,Spanish; Castilian,false
+21473,Tapirus pinchaque,Danta Lanuda,Spanish; Castilian,false
+21473,Tapirus pinchaque,Danta Negra,Spanish; Castilian,false
+21473,Tapirus pinchaque,Gran Bestia,Spanish; Castilian,false
+21473,Tapirus pinchaque,Pinchaque,Spanish; Castilian,false
+21473,Tapirus pinchaque,Tapir Andino,Spanish; Castilian,false
+21473,Tapirus pinchaque,Tapir des Andes,French,false
+21473,Tapirus pinchaque,Tapir pinchaque,French,false
+21473,Tapirus pinchaque,Mountain Tapir,English,true
+3326,Bunolagus monticularis,Bushman Hare,English,false
+3326,Bunolagus monticularis,Bushman Rabbit,English,false
+3326,Bunolagus monticularis,Boshaas,Afrikaans,false
+3326,Bunolagus monticularis,Buschmannhase,German,false
+3326,Bunolagus monticularis,Oewerkonyn,Afrikaans,false
+3326,Bunolagus monticularis,Pondhaas,Afrikaans,false
+3326,Bunolagus monticularis,Vleihaas,Afrikaans,false
+3326,Bunolagus monticularis,Riverine Rabbit,English,true
+3833,Caprolagus hispidus,Assam Rabbit,English,false
+3833,Caprolagus hispidus,Bristly Rabbit,English,false
+3833,Caprolagus hispidus,Hispid Hare,English,false
+3833,Caprolagus hispidus,Assam-Borstenkaninchen,German,false
+3833,Caprolagus hispidus,Borstenkaninchen,German,false
+3833,Caprolagus hispidus,Conejo de Assam,Spanish; Castilian,false
+3833,Caprolagus hispidus,Ha Ha Pahoo,Assamese,false
+3833,Caprolagus hispidus,Kharayo,Nepali,false
+3833,Caprolagus hispidus,Khargorkata,Assamese,false
+3833,Caprolagus hispidus,Laghukarna Kharayo,Nepali,false
+3833,Caprolagus hispidus,Lapin de l'Assam,French,false
+3833,Caprolagus hispidus,Hispid Hare,English,true
+11790,Lepus flavigularis,Tehuantepec Hare,English,false
+11790,Lepus flavigularis,Tehuantepec Jack Rabbit,English,false
+11790,Lepus flavigularis,Tropical Hare,English,false
+11790,Lepus flavigularis,Biana,Zapotec,false
+11790,Lepus flavigularis,Liebre de Tehuantepec,Spanish; Castilian,false
+11790,Lepus flavigularis,Liebre Tehuana,Spanish; Castilian,false
+11790,Lepus flavigularis,Tehuantepec Jackrabbit,English,true
+11793,Lepus hainanus,Chinese Pinyin,English,false
+11793,Lepus hainanus,Hainan Tu,Chinese,false
+11793,Lepus hainanus,Ye Tu,Chinese,false
+11793,Lepus hainanus,Hainan Hare,English,true
+15046,Ochotona koslowi,Keshi Shutu,Chinese,false
+15046,Ochotona koslowi,Kozlov's Pika,English,true
+15050,Ochotona iliensis,Yili Shutu,Chinese,false
+15050,Ochotona iliensis,Ili Pika,English,true
+16559,Pentalagus furnessi,Ryukyu Rabbit,English,false
+16559,Pentalagus furnessi,Amaminokurousagi,Japanese,false
+16559,Pentalagus furnessi,Amami Rabbit,English,true
+19742,Romerolagus diazi,Conejo De Díaz,Spanish; Castilian,false
+19742,Romerolagus diazi,Conejo De Los Volcanes,Spanish; Castilian,false
+19742,Romerolagus diazi,Conejo Zacatuche,Spanish; Castilian,false
+19742,Romerolagus diazi,Lapin De Diaz,French,false
+19742,Romerolagus diazi,Lapin Des Volcans,French,false
+19742,Romerolagus diazi,Teporingo,Spanish; Castilian,false
+19742,Romerolagus diazi,Zacatuche,Spanish; Castilian,false
+19742,Romerolagus diazi,Volcano Rabbit,English,true
+21206,Sylvilagus graysoni,Conejo De Las Isles Marías,Spanish; Castilian,false
+21206,Sylvilagus graysoni,Tres Marias Cottontail,English,true
+40800,Ochotona hoffmanni,Pischuha Hoffmanna,Russian,false
+40800,Ochotona hoffmanni,Hoffmann's Pika,English,true
+41209,Nesolagus timminsi,Annamite Striped Rabbit,English,true
+87491102,Sylvilagus brasiliensis,Forest Rabbit,English,false
+87491102,Sylvilagus brasiliensis,Forest Rabbit,English,false
+87491102,Sylvilagus brasiliensis,Tapeti,English,false
+87491102,Sylvilagus brasiliensis,Tapetí,English,false
+87491102,Sylvilagus brasiliensis,Conejo Tropical,Spanish; Castilian,false
+87491102,Sylvilagus brasiliensis,Conejo Tropical,Spanish; Castilian,false
+87491102,Sylvilagus brasiliensis,Tapetí,Portuguese,false
+87491102,Sylvilagus brasiliensis,Tapeti,English,true
+41986,Ochotona argentata,Helan Shan Pika,English,false
+41986,Ochotona argentata,Jianlu Shutu,Chinese,false
+41986,Ochotona argentata,Silver Pika,English,true
+4806,Chrotogale owstoni,Owston's Banded Civet,English,false
+4806,Chrotogale owstoni,Owston's Banded Palm Civet,English,false
+4806,Chrotogale owstoni,Owston's Palm Civet,English,false
+4806,Chrotogale owstoni,Fleckenroller,German,false
+4806,Chrotogale owstoni,Owston's Civet,English,true
+6082,Cynogale bennettii,Otter-civet,English,false
+6082,Cynogale bennettii,Sunda Otter Civet,English,false
+6082,Cynogale bennettii,Cibeta Nutria,Spanish; Castilian,false
+6082,Cynogale bennettii,Civette-loutre De Sumatra,French,false
+6082,Cynogale bennettii,Otter Civet,English,true
+8834,Galidictis grandidieri,Giant-striped Mongoose,English,false
+8834,Galidictis grandidieri,Grandidier's Mongoose,English,false
+8834,Galidictis grandidieri,Grandidier’s Vontsira,English,true
+13110,Melogale everetti,Everett's Ferret Badger,English,false
+13110,Melogale everetti,Kinabalu Ferret Badger,English,false
+13110,Melogale everetti,Biul Slentek,Malay,false
+13110,Melogale everetti,Bornean Ferret Badger,English,true
+13923,Mungotictis decemlineata,Malagasy Narrow-striped Mongoose,English,false
+13923,Mungotictis decemlineata,Narrow-striped Mongoose,English,false
+13923,Mungotictis decemlineata,Bakiaky,Undetermined,false
+13923,Mungotictis decemlineata,Boky-boky,Malagasy,false
+13923,Mungotictis decemlineata,Teraboky,Undetermined,false
+13923,Mungotictis decemlineata,Bokiboky,English,true
+14018,Mustela lutreola,Bisoi Europarra,Basque,false
+14018,Mustela lutreola,Euroopa naarits,Estonian,false
+14018,Mustela lutreola,Europäischer Nerz,German,false
+14018,Mustela lutreola,Evropeyskaya norka,Russian,false
+14018,Mustela lutreola,Nurca Europeană,Romanian,false
+14018,Mustela lutreola,Visó Europeu,Catalan; Valencian,false
+14018,Mustela lutreola,Vison d'Europe,French,false
+14018,Mustela lutreola,Visón Europeo,Spanish; Castilian,false
+14018,Mustela lutreola,Европейская норка,Russian,false
+14018,Mustela lutreola,European Mink,English,true
+14020,Mustela nigripes,Putois à pieds noirs,French,false
+14020,Mustela nigripes,Turón Patinegro Americano,Spanish; Castilian,false
+14020,Mustela nigripes,Black-footed Ferret,English,true
+18267,Procyon pygmaeus,Cozumel Island Raccoon,English,false
+18267,Procyon pygmaeus,Cozumel Raccoon,English,false
+18267,Procyon pygmaeus,Cozumel Raccoon Bear,English,false
+18267,Procyon pygmaeus,Pygmy Raccoon,English,true
+23036,Viverra civettina,Malabar Large-spotted Civet,English,false
+23036,Viverra civettina,Malabar Civet,English,true
+39547,Eupleres major,Western Falanouc,English,true
+40784,Neogale macrodon,Vison de mer,French,false
+40784,Neogale macrodon,Visón Marino,Spanish; Castilian,false
+40784,Neogale macrodon,Sea Mink,English,true
+41707,Viverra megaspila,Large-spotted Civet,English,true
+136456,Cryptoprocta spelea,Giant Fossa,English,false
+136456,Cryptoprocta spelea,Giant Fosa,English,true
+2057,Arctocephalus galapagoensis,Galapagos Islands Fur Seal,English,false
+2057,Arctocephalus galapagoensis,Arctocéphale des Galapagos,French,false
+2057,Arctocephalus galapagoensis,Lobo de dos pelos de Galápagos,Spanish; Castilian,false
+2057,Arctocephalus galapagoensis,Lobo fino de Galapágos,Spanish; Castilian,false
+2057,Arctocephalus galapagoensis,Oso Marino de las Galápagos,Spanish; Castilian,false
+2057,Arctocephalus galapagoensis,Galápagos Fur Seal,English,true
+13655,Neomonachus tropicalis,West Indian Monk Seal,English,false
+13655,Neomonachus tropicalis,West Indian Seal,English,false
+13655,Neomonachus tropicalis,Foca Fraile del Caribe,Spanish; Castilian,false
+13655,Neomonachus tropicalis,Caribbean Monk Seal,English,true
+14549,Neophoca cinerea,Australian Sealion,English,false
+14549,Neophoca cinerea,Australian Sea Lion,English,true
+41668,Zalophus wollebaeki,Galápagos Seelöwe,German,false
+41668,Zalophus wollebaeki,Leon Marino de Galápagos,Spanish; Castilian,false
+41668,Zalophus wollebaeki,Lobo de un Pelo de Galápagos,Spanish; Castilian,false
+41668,Zalophus wollebaeki,Lobo Marino de Galápagos,Spanish; Castilian,false
+41668,Zalophus wollebaeki,Galápagos Sea Lion,English,true
+41669,Pusa caspica,Caspian Seal,English,true
+7140,Elephas maximus,Indian Elephant,English,false
+7140,Elephas maximus,Elefante Asiático,Spanish; Castilian,false
+7140,Elephas maximus,Eléphant d'Asie,French,false
+7140,Elephas maximus,Eléphant d'Inde,French,false
+7140,Elephas maximus,Asian Elephant,English,true
+46251646,Microcebus marohita,Marohita Mouse Lemur,English,true
+2890,Bos sauveli,Grey Ox,English,false
+2890,Bos sauveli,Boeuf gris Cambodgien,French,false
+2890,Bos sauveli,Kouprey,German,false
+2890,Bos sauveli,Toro Cuprey,Spanish; Castilian,false
+2890,Bos sauveli,Kouprey,English,true
+3126,Bubalus depressicornis,Anoa,English,false
+3126,Bubalus depressicornis,Anoa De Ilanura,Spanish; Castilian,false
+3126,Bubalus depressicornis,Anoa Des Plaines,French,false
+3126,Bubalus depressicornis,Flachlandanoa,German,false
+3126,Bubalus depressicornis,Tieflandanoa,German,false
+3126,Bubalus depressicornis,Tiefland-Anoa,German,false
+3126,Bubalus depressicornis,Lowland Anoa,English,true
+3128,Bubalus quarlesi,Anoa de Montaña,Spanish; Castilian,false
+3128,Bubalus quarlesi,Anoa de quarle,French,false
+3128,Bubalus quarlesi,Anoa des montagnes,French,false
+3128,Bubalus quarlesi,Berganoa,German,false
+3128,Bubalus quarlesi,Berg-Anoa,German,false
+3128,Bubalus quarlesi,Mountain Anoa,English,true
+3129,Bubalus arnee,Asian Buffalo,English,false
+3129,Bubalus arnee,Asiatic Buffalo,English,false
+3129,Bubalus arnee,Indian Buffalo,English,false
+3129,Bubalus arnee,Indian Water Buffalo,English,false
+3129,Bubalus arnee,Water Buffalo,English,false
+3129,Bubalus arnee,Wild Asian Buffalo,English,false
+3129,Bubalus arnee,Arna,Hindi,false
+3129,Bubalus arnee,Arni,German,false
+3129,Bubalus arnee,Arni,Hindi,false
+3129,Bubalus arnee,Asiatischer Wasserbüffel,German,false
+3129,Bubalus arnee,Búfalo arni,Spanish; Castilian,false
+3129,Bubalus arnee,Buffle d'Eau,French,false
+3129,Bubalus arnee,Buffle de l'Inde,French,false
+3129,Bubalus arnee,Taw-kywe,Burmese,false
+3129,Bubalus arnee,Trau,Vietnamese,false
+3129,Bubalus arnee,Wild Water Buffalo,English,true
+47992992,Lophuromys pseudosikapusi,Sheko Forest Brush-furred Rat,English,true
+48008221,Otomys cheesmani,Cheesman's Vlei Rat,English,true
+12561,Macaca sylvanus,Barbary Ape,English,false
+12561,Macaca sylvanus,Kird,Arabic,false
+12561,Macaca sylvanus,Lkird,Arabic,false
+12561,Macaca sylvanus,Macaque de Gibraltar,French,false
+12561,Macaca sylvanus,Magot,French,false
+12561,Macaca sylvanus,Magot commun,French,false
+12561,Macaca sylvanus,Mona de Berbería,Spanish; Castilian,false
+12561,Macaca sylvanus,Mona de Gibraltar,Spanish; Castilian,false
+12561,Macaca sylvanus,Mono de Berberea,Spanish; Castilian,false
+12561,Macaca sylvanus,Mono de Gibraltar,Spanish; Castilian,false
+12561,Macaca sylvanus,Zaatoot,Berber (Other),false
+12561,Macaca sylvanus,Barbary Macaque,English,true
+512,Addax nasomaculatus,Addax,French,false
+512,Addax nasomaculatus,Addax,German,false
+512,Addax nasomaculatus,Antilope blanche,French,false
+512,Addax nasomaculatus,Mendesantilope,German,false
+512,Addax nasomaculatus,Addax,English,true
+4140,Cephalophus jentinki,Céphalophe de Jentink,French,false
+4140,Cephalophus jentinki,Duiquero de Jentink,Spanish; Castilian,false
+4140,Cephalophus jentinki,Jentinkducker,German,false
+4140,Cephalophus jentinki,Jentink's Duiker,English,true
+4151,Cephalophus spadix,Minde,English,false
+4151,Cephalophus spadix,Abbottducker,German,false
+4151,Cephalophus spadix,Abbott-Ducker,German,false
+4151,Cephalophus spadix,Céphalophe d'Abbott,French,false
+4151,Cephalophus spadix,Abbott's Duiker,English,true
+6234,Beatragus hunteri,Herola,English,false
+6234,Beatragus hunteri,Hunter's Antelope,English,false
+6234,Beatragus hunteri,Hunter’s Hartebeest,English,false
+6234,Beatragus hunteri,Antilope Hirola,French,false
+6234,Beatragus hunteri,Hirolaantilope,German,false
+6234,Beatragus hunteri,Hirola,English,true
+8968,Nanger dama,Addra Gazelle,English,false
+8968,Nanger dama,Mhorr Gazelle,English,false
+8968,Nanger dama,Damagazelle,German,false
+8968,Nanger dama,Gacela Dama,Spanish; Castilian,false
+8968,Nanger dama,Gazelle Dama,French,false
+8968,Nanger dama,Dama Gazelle,English,true
+8989,Gazella gazella,Ha'tsviha'Israeli,English,false
+8989,Gazella gazella,Idmi,English,false
+8989,Gazella gazella,Gacela Idmi,Spanish; Castilian,false
+8989,Gazella gazella,Gazelle edmi,French,false
+8989,Gazella gazella,Mountain Gazelle,English,true
+8972,Gazella leptoceros,Dunengazelle,German,false
+8972,Gazella leptoceros,Gacela de Astas Delgadas,Spanish; Castilian,false
+8972,Gazella leptoceros,Gazelle à cornes fines,French,false
+8972,Gazella leptoceros,Gazelle leptocère,French,false
+8972,Gazella leptoceros,Ghazal abiad,Arabic,false
+8972,Gazella leptoceros,Reem,Arabic,false
+8972,Gazella leptoceros,Slender-horned Gazelle,English,true
+8975,Gazella spekei,Dhero,Somali,false
+8975,Gazella spekei,Gazelle de Speke,French,false
+8975,Gazella spekei,Spekegazelle,German,false
+8975,Gazella spekei,Speke's Gazelle,English,true
+8980,Gazella saudiya,Afri,Arabic,false
+8980,Gazella saudiya,Gacela Saudi,Spanish; Castilian,false
+8980,Gazella saudiya,Gazelle Saoudite,French,false
+8980,Gazella saudiya,Saudi Gazelle,English,true
+8987,Gazella bilkis,Yemen Gazelle,English,false
+8987,Gazella bilkis,Gacela de Yemen,Spanish; Castilian,false
+8987,Gazella bilkis,Gazelle du Yemen,French,false
+8987,Gazella bilkis,Queen of Sheba's Gazelle,English,true
+8991,Eudorcas tilonura,Eritrean Gazelle,English,false
+8991,Eudorcas tilonura,Eritreagazelle,German,false
+8991,Eudorcas tilonura,Gazelle d'Erythrée,French,false
+8991,Eudorcas tilonura,Heuglin's Gazelle,English,true
+10168,Hippotragus leucophaeus,Blue Antelope,English,false
+10168,Hippotragus leucophaeus,Blaubock,German,false
+10168,Hippotragus leucophaeus,Blaubok,Afrikaans,false
+10168,Hippotragus leucophaeus,Bluebuck,English,true
+11034,Kobus megaceros,Nile Lechwe,English,true
+15571,Oryx beisa,Be'id,Somali,false
+15571,Oryx beisa,Choroa,Swahili,false
+15571,Oryx beisa,Eritrea-Spiessbock,German,false
+15571,Oryx beisa,Oryx Beisa,French,false
+15571,Oryx beisa,Beisa Oryx,English,true
+18230,Procapra przewalskii,Gacela de Przewalski,Spanish; Castilian,false
+18230,Procapra przewalskii,Gazelle de Przewalski,French,false
+18230,Procapra przewalskii,Przewalskigazelle,German,false
+18230,Procapra przewalskii,Przewalski's Gazelle,English,true
+19391,Redunca fulvorufula,Bergriedbock,German,false
+19391,Redunca fulvorufula,Redunca de montagne,French,false
+19391,Redunca fulvorufula,Rooiribbock,Afrikaans,false
+19391,Redunca fulvorufula,Mountain Reedbuck,English,true
+63543,Camelus ferus,Khavtgai,Mongolian,false
+63543,Camelus ferus,Ye Luo Tuo,Chinese,false
+63543,Camelus ferus,Wild Camel,English,true
+10831,Inia geoffrensis,Pink Dolphin,English,false
+10831,Inia geoffrensis,Boto,Portuguese,false
+10831,Inia geoffrensis,Boto-cor-de-rosa,Portuguese,false
+10831,Inia geoffrensis,Boto-vermelho,Portuguese,false
+10831,Inia geoffrensis,Bufeo,Spanish; Castilian,false
+10831,Inia geoffrensis,Dauphin De L'Amazone,French,false
+10831,Inia geoffrensis,Dauphin Rose,French,false
+10831,Inia geoffrensis,Delfin Rosado,Spanish; Castilian,false
+10831,Inia geoffrensis,Tonina,Spanish; Castilian,false
+10831,Inia geoffrensis,Amazon River Dolphin,English,true
+12119,Lipotes vexillifer,Baiji,English,false
+12119,Lipotes vexillifer,Yangtze River Dolphin,English,false
+12119,Lipotes vexillifer,Baiji,French,false
+12119,Lipotes vexillifer,Baiji,Chinese,true
+41711,Eubalaena japonica,Японский гладкий кит,Russian,false
+41711,Eubalaena japonica,"セミクジラ, 背美鯨",Japanese,false
+41711,Eubalaena japonica,North Pacific Right Whale,English,true
+41754,Neophocaena asiaeorientalis,Finless Porpoise,English,false
+41754,Neophocaena asiaeorientalis,Marsopa Lisa,Spanish; Castilian,false
+41754,Neophocaena asiaeorientalis,Marsouin aptère,French,false
+41754,Neophocaena asiaeorientalis,Narrow-ridged Finless Porpoise,English,true
+41756,Platanista gangetica,Ganges Dolphin,English,false
+41756,Platanista gangetica,Gangetic Dolphin,English,false
+41756,Platanista gangetica,Bhagirath,Hindi,false
+41756,Platanista gangetica,Delfín del Ganges,Spanish; Castilian,false
+41756,Platanista gangetica,Hiho,Assamese,false
+41756,Platanista gangetica,Hihu,Assamese,false
+41756,Platanista gangetica,Hurchum,Bengali,false
+41756,Platanista gangetica,Hush,Bengali,false
+41756,Platanista gangetica,Pani Suar,Afro-Asiatic (Other),false
+41756,Platanista gangetica,Plataniste du Gange,French,false
+41756,Platanista gangetica,Shishumar,Afro-Asiatic (Other),false
+41756,Platanista gangetica,Shus,Nepali,false
+41756,Platanista gangetica,Shush,Bengali,false
+41756,Platanista gangetica,Shushuk,Bengali,false
+41756,Platanista gangetica,Soans,Hindi,false
+41756,Platanista gangetica,Socho,Hindi,false
+41756,Platanista gangetica,Soons,Hindi,false
+41756,Platanista gangetica,Soos,Hindi,false
+41756,Platanista gangetica,Sousou,French,false
+41756,Platanista gangetica,Suongsu,Nepali,false
+41756,Platanista gangetica,Ganges River Dolphin,English,true
+41759,Mesoplodon perrini,Perrin's Beaked Whale,English,false
+41759,Mesoplodon perrini,Mésoplodon de Perrin,French,false
+41759,Mesoplodon perrini,Zifio de Perrin,Spanish; Castilian,false
+41759,Mesoplodon perrini,Perrin's Beaked Whale,English,true
+190871,Sotalia fluviatilis,Bufeo Negro,Spanish; Castilian,false
+190871,Sotalia fluviatilis,Bufo Negro,Spanish; Castilian,false
+190871,Sotalia fluviatilis,Dauphin de l'Amazon,French,false
+190871,Sotalia fluviatilis,Delfín Gris de Rio,Spanish; Castilian,false
+190871,Sotalia fluviatilis,Sotalie,French,false
+190871,Sotalia fluviatilis,Tucuxi,English,true
+18148,Prionailurus planiceps,Chat à tête plate,French,false
+18148,Prionailurus planiceps,Gato Cabeciancho,Spanish; Castilian,false
+18148,Prionailurus planiceps,Kucing Tandang,Indonesian,false
+18148,Prionailurus planiceps,Flat-headed Cat,English,true
+3127,Bubalus mindorensis,Mindoro Dwarf Buffalo,English,false
+3127,Bubalus mindorensis,Búfalo de Mindoro,Spanish; Castilian,false
+3127,Bubalus mindorensis,Mindorobüffel,German,false
+3127,Bubalus mindorensis,Mindoro-Büffel,German,false
+3127,Bubalus mindorensis,Tamarau,French,false
+3127,Bubalus mindorensis,Tamarau,German,false
+3127,Bubalus mindorensis,Tamaraw,English,true
+15188,Okapia johnstoni,Okapi,English,true
+13895,Moschus chrysogaster,Himalayan Musk Deer,English,false
+13895,Moschus chrysogaster,Alpine Musk Deer,English,true
+13896,Moschus fuscus,Dusky Musk Deer,English,false
+13896,Moschus fuscus,Black Musk Deer,English,true
+13901,Moschus leucogaster,Himalayan Musk-deer,English,false
+13901,Moschus leucogaster,Himalayan Musk Deer,English,false
+13901,Moschus leucogaster,Himalayan Muskdeer,English,true
+22065,Tragulus nigricans,Balabac Chevrotain,English,false
+22065,Tragulus nigricans,Philippine Mouse-deer,English,false
+22065,Tragulus nigricans,Chevrotain de Balbac,French,false
+22065,Tragulus nigricans,Balabac Mouse Deer,English,true
+136643,Moschus anhuiensis,Anhui Musk Deer,English,true
+136750,Moschus cupreus,Kashmir Musk-deer,English,false
+136750,Moschus cupreus,Kashmir Muskdeer,English,true
+64588047,Rhinolophus mabuensis,Mount Mabu Horseshoe Bat,English,true
+67359375,Pseudoromicia roseveari,Rosevear's Serotine,English,true
+71514046,Antechinus arktos,Black-tailed Marsupial Mouse,English,false
+71514046,Antechinus arktos,Schwarzschwanz-Breitfußbeutelmaus,German,false
+71514046,Antechinus arktos,Black-tailed Dusky Antechinus,English,true
+72261777,Nasuella meridensis,Eastern Mountain Coati,English,true
+5953,Cuon alpinus,Asiatic Wild Dog,English,false
+5953,Cuon alpinus,Indian Wild Dog,English,false
+5953,Cuon alpinus,Red Dog,English,false
+5953,Cuon alpinus,Chien sauvage d'Asie,French,false
+5953,Cuon alpinus,Cuon d'Asie,French,false
+5953,Cuon alpinus,Der Alpenwolf,German,false
+5953,Cuon alpinus,Perro Salvaje Asiático,Spanish; Castilian,false
+5953,Cuon alpinus,Rotwolf,German,false
+5953,Cuon alpinus,Dhole,English,true
+4015,Catagonus wagneri,Tagua,English,false
+4015,Catagonus wagneri,Chaco Argentino,Spanish; Castilian,false
+4015,Catagonus wagneri,Chacopekari,German,false
+4015,Catagonus wagneri,Pécari du Chaco,French,false
+4015,Catagonus wagneri,Quimilero,Spanish; Castilian,false
+4015,Catagonus wagneri,Chacoan Peccary,English,true
+2447,Axis kuhlii,Bawean Hog Deer,English,false
+2447,Axis kuhlii,Kuhl's Hog Deer,English,false
+2447,Axis kuhlii,Bawean-Schweinshirsch,German,false
+2447,Axis kuhlii,Cerf-cochon de Bawean,French,false
+2447,Axis kuhlii,Ciervo de Kuhl,Spanish; Castilian,false
+2447,Axis kuhlii,Ciervo Porquerizo de Kuhl,Spanish; Castilian,false
+2447,Axis kuhlii,Kuhlhirsch,German,false
+2447,Axis kuhlii,Bawean Deer,English,true
+5796,Ctenomys australis,Southern Tuco-tuco,English,true
+136557,Tympanoctomys aureus,Golden Vizcacha Rat,English,true
+136714,Tympanoctomys loschalchalerosorum,Chalchalero Viscacha Rat,English,true
+4288,Rucervus schomburgki,Schomburgk's Deer,English,true
+4084,Cebus malitiosus,Santa Marta White-fronted Capuchin,English,true
+39952,Cebus versicolor,Varied Capuchin,English,false
+39952,Cebus versicolor,Varied White-fronted Capuchin,English,true
+6923,Dusicyon australis,Falkland Islands Wolf,English,false
+6923,Dusicyon australis,Zorro Antártico,Spanish; Castilian,false
+6923,Dusicyon australis,Zorro-Lobo de las Malvinas,Spanish; Castilian,false
+6923,Dusicyon australis,Zorro Malvinense,Spanish; Castilian,false
+6923,Dusicyon australis,Falklands Wolf,English,true
+82346260,Rhinolophus willardi,Willard's Horseshoe Bat,English,true
+82347204,Rhinolophus kahuzi,Kahuzi Horseshoe Bat,English,true
+84457227,Desmalopex microleucopterus,Mindoro Mottle-winged Flying Fox,English,true
+84487939,Murina balaensis,Bala Tube-nosed Bat,English,true
+84562293,Murina harpioloides,Dalat Tube-nosed Bat,English,true
+84882966,Pteropus allenorum,Small Samoan Flying Fox,English,true
+85202881,Hypsugo lanzai,Socotran Pipistrelle,English,true
+85707170,Rhinolophus perditus,Yaeyama Kokikugashira Koumori,Japanese,false
+85707170,Rhinolophus perditus,Yaeyama Little Horseshoe Bat,English,true
+18743,Pteropus niger,Black-Spined Fruit Bat,English,false
+18743,Pteropus niger,Mauritian Flying Fox,English,false
+18743,Pteropus niger,Mauritius Fruit Bat,English,false
+18743,Pteropus niger,Grande roussette des Mascareignes,French,false
+18743,Pteropus niger,Roussette noire,French,false
+18743,Pteropus niger,Zorro Volador Negro de Mauricio,Spanish; Castilian,false
+18743,Pteropus niger,Greater Mascarene Flying Fox,English,true
+7950,Equus grevyi,Cebra de Grévy,Spanish; Castilian,false
+7950,Equus grevyi,Da-ama,Afar,false
+7950,Equus grevyi,Harie Dido,Oromo,false
+7950,Equus grevyi,Loiborkurum,Masai,false
+7950,Equus grevyi,Punda Milia,Swahili,false
+7950,Equus grevyi,Zèbre de Grévy,French,false
+7950,Equus grevyi,Grevy's Zebra,English,true
+40783,Hippopotamus madagascariensis,Madagascan Pygmy Hippo,English,false
+40783,Hippopotamus madagascariensis,Malagasy Hippo,English,false
+40783,Hippopotamus madagascariensis,Madagascan Dwarf Hippopotamus,English,true
+40782,Hippopotamus lemerlei,Madagascan Dwarf Hippopotamus,English,false
+40782,Hippopotamus lemerlei,Malagasy Hippo,English,false
+9128,Gerbillus hesperinus,Western Gerbil,English,true
+42655,Spalax zemni,Podolsk Blind Mole-rat,English,false
+42655,Spalax zemni,Podolsk Blind Mole Rat,English,false
+42655,Spalax zemni,Podolian Mole Rat,English,true
+4206,Cercocebus lunulatus,White-collared Mangabey,English,false
+4206,Cercocebus lunulatus,Mangabey couronné,French,false
+4206,Cercocebus lunulatus,Mangabey de cuello blanco,Spanish; Castilian,false
+4206,Cercocebus lunulatus,White-naped Mangabey,English,true
+92252436,Erythrocebus baumstarki,Southern Patas Monkey,English,true
+4245,Cercopithecus diana,Diana Guenon,English,false
+4245,Cercopithecus diana,Cercopiteco Diana,Spanish; Castilian,false
+4245,Cercopithecus diana,Cercopithèque Diane,French,false
+4245,Cercopithecus diana,Diana-Meerkatze,German,false
+4245,Cercopithecus diana,Diana Monkey,English,true
+4232,Cercopithecus roloway,Roloway Guenon,English,false
+4232,Cercopithecus roloway,Cercopiteco Roloway,Spanish; Castilian,false
+4232,Cercopithecus roloway,Cercopithèque roloway,French,false
+4232,Cercopithecus roloway,Roloway-Meerkatze,German,false
+4232,Cercopithecus roloway,Roloway Monkey,English,true
+41026,Piliocolobus preussi,Colobe de Preuss,French,false
+41026,Piliocolobus preussi,Colobo Rojo de Camerún,Spanish; Castilian,false
+41026,Piliocolobus preussi,Preuss’s Red Colobus,English,true
+41025,Piliocolobus pennantii,Bioko Red Colobus,English,false
+41025,Piliocolobus pennantii,Colobe de Pennant,French,false
+41025,Piliocolobus pennantii,Colobo Rojo de Bioko,Spanish; Castilian,false
+41025,Piliocolobus pennantii,Pennant's Red Colobus,English,true
+41024,Piliocolobus epieni,Colobe epien,French,false
+41024,Piliocolobus epieni,Colobo Rojo del Niger,Spanish; Castilian,false
+41024,Piliocolobus epieni,Niger Delta Red Colobus,English,true
+18252,Piliocolobus foai,Colobe de Foa,French,false
+18252,Piliocolobus foai,Colobo Rojo del Ouroua,Spanish; Castilian,false
+18252,Piliocolobus foai,Foa's Red Colobus,English,true
+80263386,Eudiscoderma thongareeae,Thongaree’s Disc-nosed Bat,English,true
+82345696,Rhinopoma hadramauticum,Yemeni Mouse-tailed Bat,English,true
+84457541,Dyacopterus rickarti,Rickart's Dyak Fruit Bat,English,true
+84931267,Pteropus coxi,Large Samoan Flying Fox,English,true
+12305,Lontra provocax,Huillin,English,false
+12305,Lontra provocax,Huillín,Spanish; Castilian,false
+12305,Lontra provocax,Lobito Patagonica,Spanish; Castilian,false
+12305,Lontra provocax,Loutre du Chili,French,false
+12305,Lontra provocax,Nutria de Chile,Spanish; Castilian,false
+12305,Lontra provocax,Southern River Otter,English,true
+18262,Piliocolobus lulindicus,Kahuzi Red Colobus,English,false
+18262,Piliocolobus lulindicus,Ulindi Red Colobus,English,false
+18262,Piliocolobus lulindicus,Ulindi River Red Colobus,English,true
+62015,Microgale jenkinsae,Jenkins' Shrew Tenrec,English,true
+41763,Equus ferus,Asian Wild Horse,English,false
+41763,Equus ferus,Mongolian Wild Horse,English,false
+41763,Equus ferus,Caballo de Przewalski,Spanish; Castilian,false
+41763,Equus ferus,Cheval de Przewalski,French,false
+41763,Equus ferus,Takh,Mongolian,false
+41763,Equus ferus,Ye-ma,Chinese,false
+41763,Equus ferus,Przewalski's Horse,English,true
+6232,Dama mesopotamica,Mesopotamian Fallow Deer,English,false
+6232,Dama mesopotamica,Persian Fallow Deer,English,true
+102206468,Antechinus vandycki,Tasman Peninsula Dusky Antechinus,English,true
+15932,Pan paniscus,Dwarf Chimpazee,English,false
+15932,Pan paniscus,Gracile Chimpanzee,English,false
+15932,Pan paniscus,Pygmy Chimpanzee,English,false
+15932,Pan paniscus,Bonobo,Spanish; Castilian,false
+15932,Pan paniscus,Bonobo,French,false
+15932,Pan paniscus,Bonobo,German,false
+15932,Pan paniscus,Bonobo,English,true
+13894,Moschus berezovskii,Chinese Forest Musk Deer,English,false
+13894,Moschus berezovskii,Dwarf Musk Deer,English,false
+13894,Moschus berezovskii,South China Forest Musk Deer,English,false
+13894,Moschus berezovskii,Forest Musk Deer,English,true
+41586,Lycalopex fulvipes,Payne Guru,Mapudungun; Mapuche,false
+41586,Lycalopex fulvipes,Zorro Azul,Spanish; Castilian,false
+41586,Lycalopex fulvipes,Zorro Chilote,Spanish; Castilian,false
+41586,Lycalopex fulvipes,Zorro de Chiloé,Spanish; Castilian,false
+41586,Lycalopex fulvipes,Zorro de Darwin,Spanish; Castilian,false
+41586,Lycalopex fulvipes,Darwin's Fox,English,true
+13219,Mesocricetus auratus,Golden Hamster,English,true
+714,Ailurus fulgens,Lesser Panda,English,false
+714,Ailurus fulgens,Red Cat-bear,English,false
+714,Ailurus fulgens,Katzenbär,German,false
+714,Ailurus fulgens,Kleiner Panda,German,false
+714,Ailurus fulgens,Panda Chico,Spanish; Castilian,false
+714,Ailurus fulgens,Panda éclatant,French,false
+714,Ailurus fulgens,Panda Rojo,Spanish; Castilian,false
+714,Ailurus fulgens,Panda roux,French,false
+714,Ailurus fulgens,Petit panda,French,false
+714,Ailurus fulgens,Red Panda,English,true
+5529,Cricetus cricetus,Black-bellied Hamster,English,false
+5529,Cricetus cricetus,European Hamster,English,false
+5529,Cricetus cricetus,Chomik europejski,Polish,false
+5529,Cricetus cricetus,Criceto comune,Italian,false
+5529,Cricetus cricetus,Grand Hamster,French,false
+5529,Cricetus cricetus,Hámster Común,Spanish; Castilian,false
+5529,Cricetus cricetus,Mezei hörcsög,Hungarian,false
+5529,Cricetus cricetus,обыкновенный хомяк,Russian,false
+5529,Cricetus cricetus,Common Hamster,English,true
+20497,Urocitellus brunneus,Northern Idaho Ground Squirrel,English,true
+112503346,Crocidura mdumai,Mduma’s Shrew,English,true
+4037,Catopuma badia,Bay Cat,English,false
+4037,Catopuma badia,Bornean Bay Cat,English,false
+4037,Catopuma badia,Borneo-Goldkatze,German,false
+4037,Catopuma badia,Borneo-katze,German,false
+4037,Catopuma badia,Chat bai,French,false
+4037,Catopuma badia,Gato Rojo de Borneo,Spanish; Castilian,false
+4037,Catopuma badia,Kucing Merah,Indonesian,false
+4037,Catopuma badia,Borneo Bay Cat,English,true
+41667,Zalophus japonicus,Japanese Sea Lion,English,true
+2816,Biswamoyopterus biswasi,Namdapha Giant Flying Squirrel,English,false
+2816,Biswamoyopterus biswasi,Namdapha-Gleithörnchen,German,false
+2816,Biswamoyopterus biswasi,Namdapha Flying Squirrel,English,true
+5558,Crocidura ansellorum,Ansell's Shrew,English,true
+5580,Crocidura phaeura,Guramba Shrew,English,true
+5594,Crocidura thomensis,Sao Tomé Shrew,English,false
+5594,Crocidura thomensis,São Tomé Shrew,English,true
+5595,Crocidura andamanensis,Andaman Shrew,English,false
+5595,Crocidura andamanensis,Andaman White-toothed Shrew,English,true
+5604,Crocidura jenkinsi,Jenkin’s Andaman Spiny Shrew,English,false
+5604,Crocidura jenkinsi,Jenkin's Shrew,English,true
+5610,Crocidura nicobarica,Nicobar White-tailed Shrew,English,false
+5610,Crocidura nicobarica,Nicobar Shrew,English,true
+5622,Crocidura bottegoides,Bale Shrew,English,true
+5633,Crocidura harenna,Harenna Shrew,English,true
+6270,Dasymys montanus,Montane Dasymys,English,false
+6270,Dasymys montanus,Montane Shaggy Rat,English,false
+6270,Dasymys montanus,Rwenzori Dasymys,English,false
+6270,Dasymys montanus,Rwenzori Shaggy Rat,English,true
+9456,Grammomys gigas,Giant Thicket Rat,English,true
+10278,Hybomys basilii,Bioko Hybomys,English,false
+10278,Hybomys basilii,Father Basilio's Striped Mouse,English,true
+10846,Iomys sipora,Mentawi Flying Squirrel,English,true
+11202,Lamottemys okuensis,Mt. Oku Rat,English,false
+11202,Lamottemys okuensis,Mount Oku Rat,English,true
+12646,Macrotarsomys ingens,Greater Big-footed Mouse,English,false
+12646,Macrotarsomys ingens,Long-tailed Big-footed Mouse,English,true
+13114,Melomys aerosus,Dusky Mosaic-tailed Rat,English,false
+13114,Melomys aerosus,Dusky Seram Melomys,English,true
+14107,Myosorex geata,Geata Mouse Shrew,English,true
+14113,Myosorex rumpii,Rumpi Mouse Shrew,English,true
+14560,Neopteryx frosti,Small-toothed Fruit Bat,English,true
+14821,Niviventer hinpoon,Limestone Rat,English,false
+14821,Niviventer hinpoon,Limestone Niviventer,English,true
+16212,Paraxerus vincenti,Vincent's Bush Squirrel,English,true
+16426,Paulamys naso,Flores Long-nosed Rat,English,false
+16426,Paulamys naso,Paula’s Long-nosed Rat,English,true
+18118,Praomys morio,Cameroon Praomys,English,false
+18118,Praomys morio,Cameroon Soft-furred Mouse,English,true
+19334,Rattus hainaldi,Hainald's Rat,English,false
+19334,Rattus hainaldi,Hainald’s Flores Island Rat,English,true
+19359,Rattus ranjiniae,Kerala Rat,English,false
+19359,Rattus ranjiniae,Ranjini’s Field Rat,English,true
+19362,Rattus simalurensis,Simalur Rat,English,false
+19362,Rattus simalurensis,Simalur Archipelago Rat,English,true
+21142,Suncus dayi,Day's Shrew,English,true
+21146,Suncus mertensi,Flores Shrew,English,true
+21221,Sylvisorex morio,Mt. Cameroon Forest Shrew,English,false
+21221,Sylvisorex morio,Arrogant Shrew,English,true
+21293,Tachyoryctes macrocephalus,Giant Mole Rat,English,true
+22046,Tragelaphus buxtoni,Gedemsa,English,false
+22046,Tragelaphus buxtoni,Nyale des montagnes,French,false
+22046,Tragelaphus buxtoni,Mountain Nyala,English,true
+22454,Tupaia nicobarica,Nicobar Tree Shrew,English,false
+22454,Tupaia nicobarica,Toupaïe Des Îles Nicobar,French,false
+22454,Tupaia nicobarica,Nicobar Treeshrew,English,true
+45056,Lophuromys dieterleni,Mount Oku Brush-furred Rat,English,false
+45056,Lophuromys dieterleni,Mt Oku Brush-furred Mouse,English,false
+45056,Lophuromys dieterleni,Dieterlen's Brush-furred Mouse,English,true
+136320,Melomys talaudium,Long-tailed Talaud Melomys,English,true
+136330,Nesomys lambertoni,Lowland Red Forest Rat,English,true
+136343,Congosorex phillipsorum,Phillips’ Congo Shrew,English,true
+136372,Vandeleuria nilagirica,Nilgiri Long-tailed Tree Mouse,English,true
+136648,Alticola olchonensis,Lake Baikal Mountain Vole,English,false
+136648,Alticola olchonensis,Olchon-Gebirgswühlmaus,German,false
+136648,Alticola olchonensis,Olkhonskaya Polyovka,Russian,false
+136648,Alticola olchonensis,Olkhon Mountain Vole,English,true
+136715,Melomys caurinus,Short-tailed Talaud Melomys,English,true
+138,Acerodon humilis,Talaud Acerodon,English,false
+138,Acerodon humilis,Talaud Flying-fox,English,false
+138,Acerodon humilis,Talaud Flying Fox,English,false
+138,Acerodon humilis,Talaud-Flughund,German,false
+138,Acerodon humilis,Zorro Volador De Talaud,Spanish; Castilian,false
+138,Acerodon humilis,Talaud Fruit Bat,English,true
+868,Allocebus trichotis,Allocèbe,French,false
+868,Allocebus trichotis,Büschelohriger Katzenmaki,German,false
+868,Allocebus trichotis,Büschelohrmaki,German,false
+868,Allocebus trichotis,Cheirogale aux oreilles poilues,French,false
+868,Allocebus trichotis,Chirogale aux oreilles poilues,French,false
+868,Allocebus trichotis,Kleiner Katzenmaki,German,false
+868,Allocebus trichotis,Lemur Orejipeludo,Spanish; Castilian,false
+868,Allocebus trichotis,Hairy-eared Dwarf Lemur,English,true
+4085,Cebus trinitatis,Trinidad White-fronted Capuchin,English,true
+6302,Daubentonia madagascariensis,Aye-aye,English,true
+8202,Eulemur mongoz,Dredrika,Malagasy,false
+8202,Eulemur mongoz,Lemur Mangosta,Spanish; Castilian,false
+8202,Eulemur mongoz,Lémur Mongoz,French,false
+8202,Eulemur mongoz,Maki Mongoz,French,false
+8202,Eulemur mongoz,Mongoose Lemur,English,true
+8205,Eulemur cinereiceps,Grey-headed Lemur,English,false
+8205,Eulemur cinereiceps,White-collared Brown Lemur,English,false
+8205,Eulemur cinereiceps,White-collared Lemur,English,true
+8206,Eulemur collaris,Red-collared Lemur,English,false
+8206,Eulemur collaris,Varika,Malagasy,false
+8206,Eulemur collaris,Collared Brown Lemur,English,true
+8211,Eulemur flavifrons,Sclater's Black Lemur,English,false
+8211,Eulemur flavifrons,Sclater’s Lemur,English,false
+8211,Eulemur flavifrons,Blue-eyed Black Lemur,English,true
+9672,Hapalemur aureus,Golden Lemur,English,false
+9672,Hapalemur aureus,Hapalémur Doré,French,false
+9672,Hapalemur aureus,Lemur Cariancho,Spanish; Castilian,false
+9672,Hapalemur aureus,Golden Bamboo Lemur,English,true
+9674,Prolemur simus,Broad-nosed Gentle Lemur,English,false
+9674,Prolemur simus,Godrogodroka,Malagasy,false
+9674,Prolemur simus,Godroka,Malagasy,false
+9674,Prolemur simus,Grand Hapalémur,French,false
+9674,Prolemur simus,Hapalémur Simien,French,false
+9674,Prolemur simus,Lemur Cariancho,Spanish; Castilian,false
+9674,Prolemur simus,Ramaimbangy,Malagasy,false
+9674,Prolemur simus,Varibolo,Malagasy,false
+9674,Prolemur simus,Varibolomavo,Malagasy,false
+9674,Prolemur simus,Greater Bamboo Lemur,English,true
+10826,Indri indri,Amboanala,Malagasy,false
+10826,Indri indri,Babakoto,Malagasy,false
+10826,Indri indri,Endrina,Malagasy,false
+10826,Indri indri,Indri À Queue Courte,French,false
+10826,Indri indri,Indri Colicorto,Spanish; Castilian,false
+10826,Indri indri,Indry,Malagasy,false
+10826,Indri indri,Indri,English,true
+11496,Lemur catta,Lémur Catta,French,false
+11496,Lemur catta,Lemur Colianillado,Spanish; Castilian,false
+11496,Lemur catta,Maki Catta,French,false
+11496,Lemur catta,Ring-tailed Lemur,English,true
+11617,Lepilemur edwardsi,Lemur Comadreja de Edwards,Spanish; Castilian,false
+11617,Lepilemur edwardsi,Milne-Edwards's Sportive Lemur,English,true
+11618,Lepilemur leucopus,Dry-bush Weasel Lemur,English,false
+11618,Lepilemur leucopus,Lemur Comadreja de Pies Blancos,Spanish; Castilian,false
+11618,Lepilemur leucopus,White-footed Sportive Lemur,English,true
+11619,Lepilemur microdon,Light-necked Sportive Lemur,English,false
+11619,Lepilemur microdon,Microdon Sportive Lemur,English,false
+11619,Lepilemur microdon,Lemur Comadreja de Dientes Pequeños,Spanish; Castilian,false
+11619,Lepilemur microdon,Small-toothed Sportive Lemur,English,true
+11621,Lepilemur ruficaudatus,Lesser Weasel Lemur,English,false
+11621,Lepilemur ruficaudatus,Petit Lépilémur,French,false
+11621,Lepilemur ruficaudatus,Red-tailed Sportive Lemur,English,true
+11622,Lepilemur septentrionalis,Northern Sportive Lemur,English,false
+11622,Lepilemur septentrionalis,Lemur Comadreja Septentrional,Spanish; Castilian,false
+11622,Lepilemur septentrionalis,Sahafary Sportive Lemur,English,true
+13584,Mirza coquereli,Coquerel's Dwarf Lemur,English,false
+13584,Mirza coquereli,Coquerel's Mouse-lemur,English,false
+13584,Mirza coquereli,Coquerel's Giant Mouse Lemur,English,true
+16872,Phaner furcifer,Eastern Fork-marked Lemur,English,false
+16872,Phaner furcifer,Masoala Fork-marked Lemur,English,true
+16873,Phaner parienti,Pariente's Fork-marked Lemur,English,false
+16873,Phaner parienti,Sambirano Fork-marked Lemur,English,true
+16874,Phaner pallescens,Western Fork-marked Lemur,English,false
+16874,Phaner pallescens,Tanta,Malagasy,false
+16874,Phaner pallescens,Tantaraolana,Malagasy,false
+16874,Phaner pallescens,Vakivoho,Malagasy,false
+16874,Phaner pallescens,Pale Fork-marked Lemur,English,true
+16875,Phaner electromontis,Amber Mountain Fork-marked Lemur,English,false
+16875,Phaner electromontis,Lémurien à fourche de la Montagne d’Ambre,French,false
+16875,Phaner electromontis,Montagne d’Ambre-Gabelstreifenmaki,German,false
+16875,Phaner electromontis,Phaner de la Montagne d’Ambre,French,false
+16875,Phaner electromontis,Tanta,Malagasy,false
+18352,Propithecus tattersalli,Tattersalli's Sifaka,English,false
+18352,Propithecus tattersalli,Ankomba malandy,Malagasy,false
+18352,Propithecus tattersalli,Indris Sifaca,Spanish; Castilian,false
+18352,Propithecus tattersalli,Propithèque de Tattersall,French,false
+18352,Propithecus tattersalli,Simpona,Malagasy,false
+18352,Propithecus tattersalli,Tattersall’s-Sifaka,German,false
+18352,Propithecus tattersalli,Golden-crowned Sifaka,English,true
+18354,Propithecus verreauxi,Propithèque de Verreaux,French,false
+18354,Propithecus verreauxi,Verreaux's Sifaka,English,true
+18355,Propithecus coquereli,Crowned Sifaka,English,false
+18355,Propithecus coquereli,Coquerel's Sifaka,English,true
+18356,Propithecus coronatus,Propithèque couronné,French,false
+18356,Propithecus coronatus,Tsibahaka Sifaka,Malagasy,false
+18356,Propithecus coronatus,Crowned Sifaka,English,true
+18357,Propithecus deckenii,Decken's Sifaka,English,false
+18357,Propithecus deckenii,Propithèque de von der Decken,French,false
+18357,Propithecus deckenii,Sifaka,Malagasy,false
+18357,Propithecus deckenii,Tsibahaka,Malagasy,false
+18357,Propithecus deckenii,Von der Decken’s Sifaka,German,false
+18357,Propithecus deckenii,Van der Decken’s Sifaka,English,true
+18358,Propithecus diadema,Amboala,Malagasy,false
+18358,Propithecus diadema,Propithèque à diadème,French,false
+18358,Propithecus diadema,Sadabe,Malagasy,false
+18358,Propithecus diadema,Simpona,Malagasy,false
+18358,Propithecus diadema,Diademed Sifaka,English,true
+18359,Propithecus edwardsi,Milne-Edwards’s Simpona,English,false
+18359,Propithecus edwardsi,Milne-Edward's Sifaka,English,true
+18360,Propithecus candidus,Silky Simpona,English,false
+18360,Propithecus candidus,Propithèque soyeux,French,false
+18360,Propithecus candidus,Silky Sifaka,English,true
+18361,Propithecus perrieri,Perrier’s Sifaka,English,true
+22918,Varecia variegata,Ruffed Lemur,English,false
+22918,Varecia variegata,Lemur de Collar,Spanish; Castilian,false
+22918,Varecia variegata,Lemur de Gola,Spanish; Castilian,false
+22918,Varecia variegata,Lemur de Gorguera,Spanish; Castilian,false
+22918,Varecia variegata,Lémur vari,French,false
+22918,Varecia variegata,Maki vari,French,false
+22918,Varecia variegata,Varijatsy,Malagasy,false
+22918,Varecia variegata,Black-and-white Ruffed Lemur,English,true
+22920,Varecia rubra,Red-ruffed Lemur,English,false
+22920,Varecia rubra,Vari roux,French,false
+22920,Varecia rubra,Red Ruffed Lemur,English,true
+39994,Gorilla beringei,Gorilla Oriental,Spanish; Castilian,false
+39994,Gorilla beringei,Gorille de l'Est,French,false
+39994,Gorilla beringei,Östlicher Gorilla,German,false
+39994,Gorilla beringei,Eastern Gorilla,English,true
+41572,Microcebus sambiranensis,Sambirano Mouse Lemur,English,true
+41576,Cheirogaleus sibreei,Rückenstreifen-Fettschwanzmaki,German,false
+41576,Cheirogaleus sibreei,Sibree's Dwarf Lemur,English,true
+41579,Avahi unicolor,Sambirano Avahi,English,false
+41579,Avahi unicolor,Nordwestlicher Wollmaki,German,false
+41579,Avahi unicolor,Sambirano-Wollmaki,German,false
+41579,Avahi unicolor,Sambirano Woolly Lemur,English,true
+136206,Microcebus mamiratra,Claire's Mouse Lemur,English,true
+136254,Lepilemur randrianasoloi,Randrianasolo's Sportive Lemur,English,true
+136263,Lepilemur fleuretae,Andohahela Sportive Lemur,English,false
+136263,Lepilemur fleuretae,Pondiky,Malagasy,false
+136263,Lepilemur fleuretae,Madame Fleurette’s Sportive Lemur,English,true
+136311,Lepilemur wrightae,Wright's Sportive Lemur,English,true
+136335,Avahi cleesei,John Cleese's Avahi,English,false
+136335,Avahi cleesei,Cleese-Wollmaki,German,false
+136335,Avahi cleesei,Bemaraha Woolly Lemur,English,true
+136369,Avahi meridionalis,Fotsyfe,Malagasy,false
+136369,Avahi meridionalis,Südlicher Wollmaki,German,false
+136369,Avahi meridionalis,Southern Woolly Lemur,English,true
+136376,Lepilemur aeeclis,Antafia Sportive Lemur,English,true
+136491,Lepilemur jamesorum,Manombo Sportive Lemur,English,false
+136491,Lepilemur jamesorum,James' Sportive Lemur,English,true
+136537,Microcebus bongolavensis,Bongolava Mouse Lemur,English,true
+136609,Lepilemur milanoii,Daraina Sportive Lemur,English,true
+136645,Lepilemur sahamalaza,Sahamalaza Peninsula Sportive Lemur,English,false
+136645,Lepilemur sahamalaza,Lépilémur de Sahamalaza,French,false
+136645,Lepilemur sahamalaza,Sahamalaza Sportive Lemur,English,true
+136662,Lepilemur betsileo,Betsileo Sportive Lemur,English,true
+136677,Lepilemur petteri,Petter's Sportive Lemur,English,true
+136709,Lepilemur tymerlachsoni,Hawks' Sportive Lemur,English,false
+136709,Lepilemur tymerlachsoni,Nosy Be Sportive Lemur,English,true
+136731,Lepilemur ankaranensis,Ankarana Sportive Lemur,English,true
+163314538,Microcebus simmonsi,Lémur ratón de Simmons,Spanish; Castilian,false
+163314538,Microcebus simmonsi,Microcèbe de Simmons,French,false
+163314538,Microcebus simmonsi,Simmons' Mouse Lemur,English,true
+136761,Lepilemur hubbardorum,Hubbard's Sportive Lemur,English,true
+136767,Avahi betsileo,Betsileo-Wollmaki,German,false
+136767,Avahi betsileo,Betsileo Woolly Lemur,English,true
+136771,Lepilemur grewcockorum,Grewcock's Sportive Lemur,English,true
+136796,Lepilemur otto,Otto's Sportive Lemur,English,true
+16971364,Microcebus margotmarshae,Antafondro Mouse Lemur,English,false
+16971364,Microcebus margotmarshae,Margot Marsh's Mouse Lemur,English,true
+16971425,Microcebus macarthurii,Anjiahely Mouse Lemur,English,false
+16971425,Microcebus macarthurii,MacArthur's Mouse Lemur,English,true
+16971489,Lepilemur hollandorum,Mananara-Nord Sportive Lemur,English,false
+16971489,Lepilemur hollandorum,Holland's Sportive Lemur,English,true
+16971518,Lepilemur scottorum,Masoala Sportive Lemur,English,false
+16971518,Lepilemur scottorum,Fitsidiky,Malagasy,false
+16971518,Lepilemur scottorum,Scott's Sportive Lemur,English,true
+16971566,Avahi mooreorum,Masoala Woolly Lemur,English,false
+16971566,Avahi mooreorum,Fotsife,Malagasy,false
+16971566,Avahi mooreorum,Moore-Wollmaki,German,false
+16971566,Avahi mooreorum,Moore's Woolly Lemur,English,true
+116990322,Hybomys eisentrauti,Eisentraut's Striped Mouse,English,true
+120659170,Nomascus annamensis,Northern Buff-cheeked Gibbon,English,false
+120659170,Nomascus annamensis,Northern Yellow-cheeked Crested Gibbon,English,true
+12761,Manis crassicaudata,Thick-tailed Pangolin,English,false
+12761,Manis crassicaudata,Grand pangolin de l'Inde,French,false
+12761,Manis crassicaudata,Pangolin à grosse queue,French,false
+12761,Manis crassicaudata,Pangolín Indio,Spanish; Castilian,false
+12761,Manis crassicaudata,Indian Pangolin,English,true
+12762,Smutsia gigantea,Giant Pangolin,English,false
+12762,Smutsia gigantea,Grand pangolin,French,false
+12762,Smutsia gigantea,Pangolin géant,French,false
+12762,Smutsia gigantea,Pangolín Gigante,Spanish; Castilian,false
+12762,Smutsia gigantea,Giant Ground Pangolin,English,true
+12763,Manis javanica,Malayan Pangolin,English,false
+12763,Manis javanica,Pangolin Javanais,French,false
+12763,Manis javanica,Pangolin Malais,French,false
+12763,Manis javanica,Pangolín Malayo,Spanish; Castilian,false
+12763,Manis javanica,Sunda Pangolin,English,true
+12767,Phataginus tricuspis,African White-bellied Pangolin,English,false
+12767,Phataginus tricuspis,Three-cusped Pangolin,English,false
+12767,Phataginus tricuspis,Tree Pangolin,English,false
+12767,Phataginus tricuspis,Pangolin à écailles tricuspides,French,false
+12767,Phataginus tricuspis,Pangolin commun,French,false
+12767,Phataginus tricuspis,Tricuspide,French,false
+12767,Phataginus tricuspis,White-bellied Pangolin,English,true
+136497,Manis culionensis,Palawan Pangolin,English,false
+136497,Manis culionensis,Balintong,Filipino; Pilipino,false
+136497,Manis culionensis,Philippine Pangolin,English,true
+15419,Orcaella brevirostris,Delfín Del Irrawaddy,Spanish; Castilian,false
+15419,Orcaella brevirostris,Iraboti,Bengali,false
+15419,Orcaella brevirostris,Labai,Burmese,false
+15419,Orcaella brevirostris,Lampasut,Philippine (Other),false
+15419,Orcaella brevirostris,Lumba lumba,Malay,false
+15419,Orcaella brevirostris,Orcelle,French,false
+15419,Orcaella brevirostris,Pa kha,Lao,false
+15419,Orcaella brevirostris,Pesut,Indonesian,false
+15419,Orcaella brevirostris,Pla loma hooa baht,Thai,false
+15419,Orcaella brevirostris,Irrawaddy Dolphin,English,true
+20425,Sousa teuszii,Atlantic Hump-backed Dolphin,English,false
+20425,Sousa teuszii,Atlantic Humpbacked Dolphin,English,false
+20425,Sousa teuszii,Cameroon Dolphin,English,false
+20425,Sousa teuszii,Cameroon River Dolphin,English,false
+20425,Sousa teuszii,Teusz's Dolphin,English,false
+20425,Sousa teuszii,Bufeo Africano,Spanish; Castilian,false
+20425,Sousa teuszii,Dauphin à bosse de l'Atlantique,French,false
+20425,Sousa teuszii,Dauphin du Cameroun,French,false
+20425,Sousa teuszii,Delfín Blanco Africano,Spanish; Castilian,false
+20425,Sousa teuszii,Delfín Jorobado del Atlántico,Spanish; Castilian,false
+20425,Sousa teuszii,Furian,Susu,false
+20425,Sousa teuszii,Golfinho-corcundo-do-Atlantico,Portuguese,false
+20425,Sousa teuszii,Kameroendolfijn,Dutch; Flemish,false
+20425,Sousa teuszii,Kamerun Delphin,German,false
+20425,Sousa teuszii,Kamerun-Flussdelphin,German,false
+20425,Sousa teuszii,Kposso,Ewe,false
+20425,Sousa teuszii,Pueyegue,Susu,false
+20425,Sousa teuszii,West-Afrikaanse Kustdolfijn,Dutch; Flemish,false
+20425,Sousa teuszii,Atlantic Humpback Dolphin,English,true
+48269619,Cryptotis griseoventris,Dark Mexican Broad-clawed Shrew,English,true
+18658,Pteralopex pulchra,Montane Monkey-faced Bat,English,true
+15933,Pan troglodytes,Common Chimpanzee,English,false
+15933,Pan troglodytes,Robust Chimpanzee,English,false
+15933,Pan troglodytes,Chimpancé,Spanish; Castilian,false
+15933,Pan troglodytes,Chimpanzé,French,false
+15933,Pan troglodytes,Chimpanzee,English,true
+2475,Balaenoptera borealis,보리고래,Korean,false
+2475,Balaenoptera borealis,Baleia Sei,Portuguese,false
+2475,Balaenoptera borealis,Balenottera boreale,Italian,false
+2475,Balaenoptera borealis,Ballena Sei,Spanish; Castilian,false
+2475,Balaenoptera borealis,イワシクジラ (Iwashi Kujira),Japanese,false
+2475,Balaenoptera borealis,Noordse vinvis,Dutch; Flemish,false
+2475,Balaenoptera borealis,Rorcual Boreal,Spanish; Castilian,false
+2475,Balaenoptera borealis,Rorcual Norteño,Spanish; Castilian,false
+2475,Balaenoptera borealis,Rorqual Boréal,French,false
+2475,Balaenoptera borealis,Rorqual Sei,French,false
+2475,Balaenoptera borealis,Sandreyður,Icelandic,false
+2475,Balaenoptera borealis,Seihval,Norwegian,false
+2475,Balaenoptera borealis,Seihvalur,Faroese,false
+2475,Balaenoptera borealis,Seiwal,German,false
+2475,Balaenoptera borealis,Sejhval,Danish,false
+2475,Balaenoptera borealis,Tikaagulliusaarnaq,Kalaallisut; Greenlandic,false
+2475,Balaenoptera borealis,Ивасевый кит,Russian,false
+2475,Balaenoptera borealis,Сейвал,Russian,false
+2475,Balaenoptera borealis,Sei Whale,English,true
+21210,Sylvilagus mansuetus,Conejo de la Isla San José,Spanish; Castilian,false
+21210,Sylvilagus mansuetus,Conejo de Matorral de San José,Spanish; Castilian,false
+21210,Sylvilagus mansuetus,San José Brush Rabbit,English,true
+9404,Gorilla gorilla,Lowland Gorilla,English,false
+9404,Gorilla gorilla,Gorila Occidental,Spanish; Castilian,false
+9404,Gorilla gorilla,Gorille de l'Ouest,French,false
+9404,Gorilla gorilla,Westlicher Gorilla,German,false
+9404,Gorilla gorilla,Western Gorilla,English,true
+6089,Cynomys mexicanus,Mexican Prairie Marmot,English,false
+6089,Cynomys mexicanus,Chien de prairie du Mexique,French,false
+6089,Cynomys mexicanus,Perrito de las Praderas,Spanish; Castilian,false
+6089,Cynomys mexicanus,Perrito Llanero Mexicano,Spanish; Castilian,false
+6089,Cynomys mexicanus,Perrito Mexicano de las Praderas,Spanish; Castilian,false
+6089,Cynomys mexicanus,Mexican Prairie Dog,English,true
+16668,Peromyscus interparietalis,San Lorenzo Mouse,English,false
+16668,Peromyscus interparietalis,San Lorenzo Deermouse,English,true
+16687,Peromyscus pseudocrinitus,False Canyon Mouse,English,false
+16687,Peromyscus pseudocrinitus,Coronados Deer Mouse,English,true
+16690,Peromyscus slevini,Slevin's Mouse,English,false
+16690,Peromyscus slevini,Slevins's Mouse,English,false
+16690,Peromyscus slevini,Catalina Deer Mouse,English,true
+6985,Callistomys pictus,Painted Tree Rat,English,false
+6985,Callistomys pictus,Gezeichnete Baumstachelratte,German,false
+6985,Callistomys pictus,rato-do-cacau,Portuguese,false
+6985,Callistomys pictus,saruê-beju,Portuguese,false
+6985,Callistomys pictus,Painted Tree-rat,English,true
+6557,Diceros bicornis,Black Rhino,English,false
+6557,Diceros bicornis,Hook-lipped Rhinoceros,English,false
+6557,Diceros bicornis,Rhinocéros noir,French,false
+6557,Diceros bicornis,Rinoceronte Negro,Spanish; Castilian,false
+6557,Diceros bicornis,Swartrenoster,Afrikaans,false
+6557,Diceros bicornis,Black Rhinoceros,English,true
+4201,Cercocebus torquatus,Collared Mangabey,English,false
+4201,Cercocebus torquatus,Red-crowned Mangabey,English,false
+4201,Cercocebus torquatus,Sooty Mangabey,English,false
+4201,Cercocebus torquatus,White-collared Mangabey,English,false
+4201,Cercocebus torquatus,Cercocèbe à collier blanc,French,false
+4201,Cercocebus torquatus,Halsband-Mangabe,German,false
+4201,Cercocebus torquatus,Mangabey à collier blanc,French,false
+4201,Cercocebus torquatus,Mangabey de Collar Blanco,Spanish; Castilian,false
+4201,Cercocebus torquatus,Mangabey de sombrero rojo,Spanish; Castilian,false
+4201,Cercocebus torquatus,Mangabey enfumé,French,false
+4201,Cercocebus torquatus,Rotokopfmangabe,German,false
+4201,Cercocebus torquatus,Red-capped Mangabey,English,true
+2477,Balaenoptera musculus,Baleia-azul,Portuguese,false
+2477,Balaenoptera musculus,Baleine bleue,French,false
+2477,Balaenoptera musculus,Ballena Azul,Spanish; Castilian,false
+2477,Balaenoptera musculus,Blåhval,Norwegian,false
+2477,Balaenoptera musculus,Blåhval,Danish,false
+2477,Balaenoptera musculus,Blåkval,Norwegian,false
+2477,Balaenoptera musculus,Blauwal,German,false
+2477,Balaenoptera musculus,Blauwe vinvis,Dutch; Flemish,false
+2477,Balaenoptera musculus,Royður,Faroese,false
+2477,Balaenoptera musculus,Royður,Faroese,false
+2477,Balaenoptera musculus,Steypireyður,Icelandic,false
+2477,Balaenoptera musculus,Blue Whale,English,true
+9918,Arabitragus jayakari,Wa’al Al ‘arabi,Arabic,false
+9918,Arabitragus jayakari,Arabian Tahr,English,true
+5635,Crocidura macowi,Nyiro Shrew,English,false
+5635,Crocidura macowi,Macow's Shrew,English,true
+5592,Crocidura raineyi,Rainey's Shrew,English,false
+5592,Crocidura raineyi,Rainey Shrew,English,true
+10946,Juscelinomys candango,Candango Mouse,English,true
+15786,Oxymycterus hucucha,Quechuan Hocicudo,English,true
+4227,Allochrocebus preussi,Preuss's Guenon,English,false
+4227,Allochrocebus preussi,Cercopiteco de Preuss,Spanish; Castilian,false
+4227,Allochrocebus preussi,Cercopithèque de Preuss,French,false
+4227,Allochrocebus preussi,Mono de Preuss,Spanish; Castilian,false
+4227,Allochrocebus preussi,Preuß-Bartmeerkatze,German,false
+4227,Allochrocebus preussi,Westliche Vollbartmeerkatze,German,false
+4227,Allochrocebus preussi,Preuss’s Monkey,English,true
+161247840,Piliocolobus badius,Upper Guinea Red Colobus,English,false
+161247840,Piliocolobus badius,Colobe bai,French,false
+161247840,Piliocolobus badius,Colobo Rojo Occidental,Spanish; Castilian,false
+161247840,Piliocolobus badius,Western Red Colobus,English,true
+163015864,Nycticebus bancanus,Bangka Slow Loris,English,true
+163019804,Nycticebus hilleri,Sumatran Slow Loris,English,true
+163020756,Cheirogaleus shethi,Sheth's Dwarf Lemur,English,false
+163020756,Cheirogaleus shethi,Ankarana Dwarf Lemur,English,true
+163021607,Cheirogaleus andysabini,Andy Sabin's Dwarf Lemur,English,false
+163021607,Cheirogaleus andysabini,Montagne d'Ambre Dwarf Lemur,English,true
+163022131,Cheirogaleus lavasoensis,Cheirogale du Lavasoa,French,false
+163022131,Cheirogaleus lavasoensis,Lavasoa-F Fettschwanzmaki,German,false
+163022131,Cheirogaleus lavasoensis,Lavasoa Dwarf Lemur,English,true
+163024481,Microcebus tanosi,Anosy Mouse Lemur,English,true
+163022885,Cheirogaleus thomasi,Thomas' Dwarf Lemur,English,true
+163313085,Microcebus ganzhorni,Ganzhorn's Mouse Lemur,English,true
+163313848,Microcebus manitatra,Bemanasy Mouse Lemur,English,true
+3747,Canis rufus,Rotwolf,German,false
+3747,Canis rufus,Red Wolf,English,true
+1802,Aotus miconax,Mono Lechuza,English,false
+1802,Aotus miconax,Peruvian Night Monkey,English,false
+1802,Aotus miconax,Anden-Rotkehl-Nachtaffe,German,false
+1802,Aotus miconax,Mono Nocturno,Spanish; Castilian,false
+1802,Aotus miconax,Musmuqui,Spanish; Castilian,false
+1802,Aotus miconax,Tutamono,Spanish; Castilian,false
+1802,Aotus miconax,Andean Night Monkey,English,true
+12421,Lutra sumatrana,Loutre de Sumatra,French,false
+12421,Lutra sumatrana,Nutria de Sumatra,Spanish; Castilian,false
+12421,Lutra sumatrana,Hairy-nosed Otter,English,true
+41309,Sylvilagus cognatus,Manzano Mountain Cottontail,English,true
+18597,Pseudoryx nghetinhensis,Saola,French,false
+18597,Pseudoryx nghetinhensis,Saola,English,true
+13217,Mesocapromys nanus,Jutía Enana,Spanish; Castilian,false
+13217,Mesocapromys nanus,Dwarf Hutia,English,true
+118355648,Hoolock tianxing,Gaoligong Hoolock Gibbon,English,false
+118355648,Hoolock tianxing,Skywalker Hoolock Gibbon,English,true
+136939,Piliocolobus rufomitratus,Colobe de la Tana,French,false
+136939,Piliocolobus rufomitratus,Colobo Rojo del Tana,Spanish; Castilian,false
+136939,Piliocolobus rufomitratus,Tana River Red Colobus,English,true
+40648,Piliocolobus parmentieri,Lomami River Red Colobus,English,false
+40648,Piliocolobus parmentieri,Colobe de la Lomami,French,false
+40648,Piliocolobus parmentieri,Colobo Rojo del Lomami,Spanish; Castilian,false
+40648,Piliocolobus parmentieri,Lomami Red Colobus,English,true
+18261,Piliocolobus langi,Kisangani Red Colobus,English,false
+18261,Piliocolobus langi,Maiko Red Colobus,English,false
+18261,Piliocolobus langi,Colobe de Lang,French,false
+18261,Piliocolobus langi,Colobo Rojo del Lualaba,Spanish; Castilian,false
+18261,Piliocolobus langi,Lang's Red Colobus,English,true
+47992974,Lophuromys chercherensis,Mount Chercher Brush-furred Rat,English,true
+120569706,Uromys vika,Vika,Austronesian (Other),false
+120569706,Uromys vika,Vangunu Giant Rat ,English,true
+18248,Piliocolobus waldroni,Miss Waldron's Bay Colobus,English,false
+18248,Piliocolobus waldroni,Colobe de Waldron,French,false
+18248,Piliocolobus waldroni,Colobo Rojo de Ghana,Spanish; Castilian,false
+18248,Piliocolobus waldroni,Miss Waldron’s Red Colobus,English,true
+167462770,Fukomys hanangensis,Hanang Mole-rat,English,true
+12764,Manis pentadactyla,Pangolin à queue courte,French,false
+12764,Manis pentadactyla,Pangolín Chino,Spanish; Castilian,false
+12764,Manis pentadactyla,Pangolin de Chine,French,false
+12764,Manis pentadactyla,Chinese Pangolin,English,true
+39992,Piliocolobus kirkii,Kirk's Red Colobus,English,false
+39992,Piliocolobus kirkii,Colobe de Zanzibar,French,false
+39992,Piliocolobus kirkii,Colobo Rojo de Zanzibar,Spanish; Castilian,false
+39992,Piliocolobus kirkii,Zanzibar Red Colobus,English,true
+5146,Colobus vellerosus,Geoffroy's Black-and-White Colobus,English,false
+5146,Colobus vellerosus,Ursine Colobus,English,false
+5146,Colobus vellerosus,White-thighed Black-and-White Colobus,English,false
+5146,Colobus vellerosus,Colobe de Geoffroy,French,false
+5146,Colobus vellerosus,Colobo de Muslos Blancos,Spanish; Castilian,false
+5146,Colobus vellerosus,White-thighed Colobus,English,true
+41291,Oryctolagus cuniculus,Coney,English,false
+41291,Oryctolagus cuniculus,Coelho,Portuguese,false
+41291,Oryctolagus cuniculus,Conejo común,Spanish; Castilian,false
+41291,Oryctolagus cuniculus,Conejo de monte,Spanish; Castilian,false
+41291,Oryctolagus cuniculus,Conejo europeo,Spanish; Castilian,false
+41291,Oryctolagus cuniculus,Coniglio selvatico europeo,Italian,false
+41291,Oryctolagus cuniculus,Lapin commun,French,false
+41291,Oryctolagus cuniculus,Lapin de garenne,French,false
+41291,Oryctolagus cuniculus,Wildkaninchen,German,false
+41291,Oryctolagus cuniculus,Αγριοκούνελο,"Greek, Modern (1453-)",false
+41291,Oryctolagus cuniculus,European Rabbit,English,true
+18256,Piliocolobus tephrosceles,Uganda Red Colobus,English,false
+18256,Piliocolobus tephrosceles,Colobe d'Ouganda,French,false
+18256,Piliocolobus tephrosceles,Colobo Rojo de Tanzania,Spanish; Castilian,false
+18256,Piliocolobus tephrosceles,Ashy Red Colobus,English,true
+172272064,Plecturocebus grovesi,Groves’ Titi,English,true
+175862145,Trachypithecus phayrei,Phayre's Langur,English,false
+175862145,Trachypithecus phayrei,Phayre's Leaf Monkey,English,false
+175862145,Trachypithecus phayrei,Semnopithèque de Phayre,French,false
+175862145,Trachypithecus phayrei,Phayre’s Leaf-monkey,English,true
+41712,Eubalaena glacialis,Black Right Whale,English,false
+41712,Eubalaena glacialis,Arfiviit Arlaat,Kalaallisut; Greenlandic,false
+41712,Eubalaena glacialis,Atlantischer Nordkaper,German,false
+41712,Eubalaena glacialis,Baleine de Biscaye,French,false
+41712,Eubalaena glacialis,Ballena Franca del Norte,Spanish; Castilian,false
+41712,Eubalaena glacialis,Noordkaper,Dutch; Flemish,false
+41712,Eubalaena glacialis,Nordkaper,Norwegian,false
+41712,Eubalaena glacialis,Nordkaper,Danish,false
+41712,Eubalaena glacialis,Sléttbakur,Icelandic,false
+41712,Eubalaena glacialis,North Atlantic Right Whale,English,true
+39758,Nycticebus bengalensis,Ashy Slow Loris,English,false
+39758,Nycticebus bengalensis,Bengal Loris,English,false
+39758,Nycticebus bengalensis,Northern Slow Loris,English,false
+39758,Nycticebus bengalensis,Bengal Slow Loris,English,true
+136458,Microcebus jollyae,Tsi-tsidy,Malagasy,false
+136458,Microcebus jollyae,Jolly's Mouse Lemur,English,true
+39895,Nomascus leucogenys,White-cheeked Gibbon,English,false
+39895,Nomascus leucogenys,Gibbon à favoris blancs du Nord,French,false
+39895,Nomascus leucogenys,vượn bạc má,Vietnamese,false
+39895,Nomascus leucogenys,vượn đen má trắng,Vietnamese,false
+39895,Nomascus leucogenys,vượn má trắng bắc,Vietnamese,false
+39895,Nomascus leucogenys,Northern White-cheeked Gibbon,English,true
+180990825,Hipposideros pomona,Andersen's Roundleaf Bat,English,true
+8212,Eulemur macaco,Akomba,Malagasy,false
+8212,Eulemur macaco,Ankomba,Malagasy,false
+8212,Eulemur macaco,Ankomba Joby,Malagasy,false
+8212,Eulemur macaco,Komba,Malagasy,false
+8212,Eulemur macaco,Black Lemur,English,true
+8210,Eulemur sanfordi,Sanford's Brown Lemur,English,true
+9676,Hapalemur alaotrensis,Alaotran Gentle Lemur,English,false
+9676,Hapalemur alaotrensis,Lac Alaotra Bamboo Lemur,English,false
+9676,Hapalemur alaotrensis,Lake Alaotra Gentle Lemur,English,false
+9676,Hapalemur alaotrensis,Bandro,Malagasy,false
+9676,Hapalemur alaotrensis,Hapalémur du Lac Alaotra,French,false
+9676,Hapalemur alaotrensis,Lac Alaotra-Bambuslemur,German,false
+9676,Hapalemur alaotrensis,Alaotra Reed Lemur,English,true
+8199,Eulemur coronatus,Lémur à Couronne,French,false
+8199,Eulemur coronatus,Lemur Coronado,Spanish; Castilian,false
+8199,Eulemur coronatus,Crowned Lemur,English,true
+918,Alouatta ululata,Red-handed Howling Monkey,English,false
+918,Alouatta ululata,Guariba-da-Caatinga,Portuguese,false
+918,Alouatta ululata,Guariba-de-mãos-vermelhas,Portuguese,false
+918,Alouatta ululata,Maranhão-Brüllaffe,German,false
+918,Alouatta ululata,Maranhão Red-handed Howler Monkey,English,true
+2276,Ateles belzebuth,Long-haired Spider Monkey,English,false
+2276,Ateles belzebuth,Atèle Belzébuth,French,false
+2276,Ateles belzebuth,Coatá,Portuguese,false
+2276,Ateles belzebuth,Goldstirn-Klammeraffe,German,false
+2276,Ateles belzebuth,Macaco-aranha,Portuguese,false
+2276,Ateles belzebuth,Macaco Aranha,Spanish; Castilian,false
+2276,Ateles belzebuth,Maquisapa,Spanish; Castilian,false
+2276,Ateles belzebuth,Marimona,Spanish; Castilian,false
+2276,Ateles belzebuth,Marimonda,Spanish; Castilian,false
+2276,Ateles belzebuth,Mono Araña Común,Spanish; Castilian,false
+2276,Ateles belzebuth,Mono Araña De Vientre Amarillo,Spanish; Castilian,false
+2276,Ateles belzebuth,Weißstirn-Klammeraffe,German,false
+2276,Ateles belzebuth,White-bellied Spider Monkey,English,true
+41547,Ateles chamek,Black-faced Black Spider Monkey,English,false
+41547,Ateles chamek,Chamek Spider Monkey,English,false
+41547,Ateles chamek,Peruvian Black Spider Monkey,English,false
+41547,Ateles chamek,Atèle à face noire,French,false
+41547,Ateles chamek,Coatá-preto,Portuguese,false
+41547,Ateles chamek,Macaco-aranha-de-cara-preta,Portuguese,false
+41547,Ateles chamek,Maquisapa,Spanish; Castilian,false
+41547,Ateles chamek,Marimono,Spanish; Castilian,false
+41547,Ateles chamek,Mono Araña negro,Spanish; Castilian,false
+41547,Ateles chamek,Schwarzgesicht-Klammeraffe,German,false
+41547,Ateles chamek,Black Spider Monkey,English,true
+135446,Ateles fusciceps,Black-headed Spider Monkey,English,false
+135446,Ateles fusciceps,Bracilargo,Spanish; Castilian,false
+135446,Ateles fusciceps,Braunkopf-Klammeraffe,German,false
+135446,Ateles fusciceps,Marimonda del Chocó,Spanish; Castilian,false
+135446,Ateles fusciceps,Mono araña de cabeza negra,Spanish; Castilian,false
+135446,Ateles fusciceps,Brown-headed Spider Monkey,English,true
+2279,Ateles geoffroyi,Black-handed Spider Monkey,English,false
+2279,Ateles geoffroyi,Geoffroy’s Spider Monkey,English,false
+2279,Ateles geoffroyi,Mono Colorado,English,false
+2279,Ateles geoffroyi,Atèle de Geoffroy,French,false
+2279,Ateles geoffroyi,Geoffroy-Klammeraffe,German,false
+2279,Ateles geoffroyi,Mico,Spanish; Castilian,false
+2279,Ateles geoffroyi,Mono Araña,Spanish; Castilian,false
+2279,Ateles geoffroyi,Central American Spider Monkey,English,true
+2282,Ateles marginatus,White-cheeked Spider Monkey,English,false
+2282,Ateles marginatus,Cuamba,Portuguese,false
+2282,Ateles marginatus,Guatá,Portuguese,false
+2282,Ateles marginatus,Macaco Aranha,Spanish; Castilian,false
+2282,Ateles marginatus,Macaco Aranha,Portuguese,false
+2282,Ateles marginatus,Weißwangen-Klammeraffe,German,false
+2282,Ateles marginatus,White-whiskered Spider Monkey,English,true
+2993,Brachyteles arachnoides,Muriqui,English,false
+2993,Brachyteles arachnoides,Woolly Spider Monkey,English,false
+2993,Brachyteles arachnoides,Atèle Arachnoïde,French,false
+2993,Brachyteles arachnoides,Eroïde,French,false
+2993,Brachyteles arachnoides,Mono,Portuguese,false
+2993,Brachyteles arachnoides,Mono Carvoeiro,Spanish; Castilian,false
+2993,Brachyteles arachnoides,Mono Grande,Spanish; Castilian,false
+2993,Brachyteles arachnoides,Muriki,Spanish; Castilian,false
+2993,Brachyteles arachnoides,Muriqui-do-sul,Portuguese,false
+2993,Brachyteles arachnoides,Singe-araignée Laineux,French,false
+2993,Brachyteles arachnoides,Southern Muriqui,English,true
+2994,Brachyteles hypoxanthus,Fleckengesicht-Spinnenaffe,German,false
+2994,Brachyteles hypoxanthus,Muriqui,Spanish; Castilian,false
+2994,Brachyteles hypoxanthus,Muriqui-do Norte,Portuguese,false
+2994,Brachyteles hypoxanthus,Nördlicher Spinnenaffe,German,false
+2994,Brachyteles hypoxanthus,Nord-Muriki,German,false
+2994,Brachyteles hypoxanthus,Northern Muriqui,English,true
+3570,Callithrix aurita,White-eared Marmoset,English,false
+3570,Callithrix aurita,Marmouset À Oreilles Blanches,French,false
+3570,Callithrix aurita,Ohrbüschel-Seidenäffchen,German,false
+3570,Callithrix aurita,Oustiti À Oreilles Blanches,French,false
+3570,Callithrix aurita,Oustiti Oreillard,French,false
+3570,Callithrix aurita,Sagüi-da-serra-escuro,Portuguese,false
+3570,Callithrix aurita,Weißohrseidenaffe,German,false
+3570,Callithrix aurita,Weißohr-Seidenaffe,German,false
+3570,Callithrix aurita,Buffy-tufted-ear Marmoset,English,true
+3571,Callithrix flaviceps,Gelbkopf-Büscheläffchen,German,false
+3571,Callithrix flaviceps,Gelbkopf-Büschelaffe,German,false
+3571,Callithrix flaviceps,Gelbkopf-Seidenäffchen,German,false
+3571,Callithrix flaviceps,Ouistiti À Tête Jaune,French,false
+3571,Callithrix flaviceps,Sagüi-da-serra-claro,Portuguese,false
+3571,Callithrix flaviceps,Buffy-headed Marmoset,English,true
+4081,Cebus aequatorialis,Ecuadorian Capuchin,English,false
+4081,Cebus aequatorialis,Machín Blanco de Occidente,Spanish; Castilian,false
+4081,Cebus aequatorialis,Mono Capuchino,Spanish; Castilian,false
+4081,Cebus aequatorialis,Ecuadorian White-fronted Capuchin,English,true
+39929,Callicebus barbarabrownae,Barbara Brown's Titi,English,false
+39929,Callicebus barbarabrownae,Northern Bahian Blond Titi,English,false
+39929,Callicebus barbarabrownae,Northern Bahian Blond Titi Monkey,English,false
+39929,Callicebus barbarabrownae,Guigó,Spanish; Castilian,false
+39929,Callicebus barbarabrownae,Guigó-da-caatinga,Portuguese,false
+39929,Callicebus barbarabrownae,Nordbahia-Springaffe,German,false
+39929,Callicebus barbarabrownae,Sauá,Spanish; Castilian,false
+39929,Callicebus barbarabrownae,Blond Titi Monkey,English,true
+39956,Chiropotes satanas,Bearded Saki,English,false
+39956,Chiropotes satanas,Black Cuxiú,English,false
+39956,Chiropotes satanas,Black Saki,English,false
+39956,Chiropotes satanas,Cuxiú,Portuguese,false
+39956,Chiropotes satanas,Cuxiú-preto,Portuguese,false
+39956,Chiropotes satanas,Kusiu,Tupi languages,false
+39956,Chiropotes satanas,KuSiwu,Tupi languages,false
+39956,Chiropotes satanas,Macaco-Preto,Portuguese,false
+39956,Chiropotes satanas,Satansaffe,German,false
+39956,Chiropotes satanas,Schwarzer Saki,German,false
+39956,Chiropotes satanas,Black Bearded Saki,English,true
+40019,Cebus kaapori,Caiarara ka’apor,Portuguese,false
+40019,Cebus kaapori,Ka’apor-Kapuzineraffe,German,false
+40019,Cebus kaapori,Ka’apor Capuchin,English,true
+39924,Lagothrix flavicauda,Yellow-tailed Woolly Monkey,English,false
+39924,Lagothrix flavicauda,Barrigudo Andino,Spanish; Castilian,false
+39924,Lagothrix flavicauda,Maquisapa Chusco,Spanish; Castilian,false
+39924,Lagothrix flavicauda,Mono Choro de Cola Amarilla,Spanish; Castilian,false
+39924,Lagothrix flavicauda,Singe Laineux À Queue Jaune,French,false
+39924,Lagothrix flavicauda,Peruvian Yellow-tailed Woolly Monkey,English,true
+11506,Leontopithecus rosalia,Mico-leão-dourado,Portuguese,false
+11506,Leontopithecus rosalia,Sauí-piranga,Portuguese,false
+11506,Leontopithecus rosalia,Singe-lion,French,false
+11506,Leontopithecus rosalia,Tamarin Soyeux,French,false
+11506,Leontopithecus rosalia,Golden Lion Tamarin,English,true
+40643,Leontopithecus chrysomelas,Mico-leão-de-cara-dourada,Portuguese,false
+40643,Leontopithecus chrysomelas,Tamarino León De Cabeza Dorada,Spanish; Castilian,false
+40643,Leontopithecus chrysomelas,Golden-headed Lion Tamarin,English,true
+14699281,Plecturocebus caquetensis,Caquetá-Springaffe,German,false
+14699281,Plecturocebus caquetensis,Tongo,Spanish; Castilian,false
+14699281,Plecturocebus caquetensis,Caquetá Tití Monkey,English,true
+19823,Oedipomidas oedipus,Cotton-top Tamarin,English,false
+19823,Oedipomidas oedipus,Bichichi,Spanish; Castilian,false
+19823,Oedipomidas oedipus,Tamarin à perruque,French,false
+19823,Oedipomidas oedipus,Tamarin d'Oedipe,French,false
+19823,Oedipomidas oedipus,Tamarin pinché,French,false
+19823,Oedipomidas oedipus,Tití cabeciblanco,Spanish; Castilian,false
+19823,Oedipomidas oedipus,Tití de Cabeza Blanca,Spanish; Castilian,false
+19823,Oedipomidas oedipus,Tití Leoncito,Spanish; Castilian,false
+19823,Oedipomidas oedipus,Tití Pielroja,Spanish; Castilian,false
+19823,Oedipomidas oedipus,Cotton-headed Tamarin,English,true
+40644,Saguinus bicolor,Brazilian Bare-faced Tamarin,English,false
+40644,Saguinus bicolor,Pied Bare-faced Tamarin,English,false
+40644,Saguinus bicolor,Pied Bare-face Tamarin,English,false
+40644,Saguinus bicolor,Sagui-bicolor,Portuguese,false
+40644,Saguinus bicolor,Sagüi-de-cara-nua,Portuguese,false
+40644,Saguinus bicolor,Sagüi-de-duas-cores,Portuguese,false
+40644,Saguinus bicolor,Sagüi-de Duas-cores,Spanish; Castilian,false
+40644,Saguinus bicolor,Sauim-de-coleira,Portuguese,false
+40644,Saguinus bicolor,Sauim-de Manaus,Portuguese,false
+40644,Saguinus bicolor,Pied Tamarin,English,true
+4074,Sapajus xanthosternos,Yellow-breasted Capuchin,English,false
+4074,Sapajus xanthosternos,Gelbbrust-Kapuzineraffe,German,false
+4074,Sapajus xanthosternos,Macaco-prego,Portuguese,false
+4074,Sapajus xanthosternos,Macaco-prego-de-peito-amarelo,Portuguese,false
+4074,Sapajus xanthosternos,Buff-headed Capuchin,English,true
+42697,Sapajus robustus,Robust Tufted Capuchin,English,false
+42697,Sapajus robustus,Macaco Prego,Portuguese,false
+42697,Sapajus robustus,macaco prego de crista,Portuguese,false
+42697,Sapajus robustus,Schopfkapuzineraffe,German,false
+42697,Sapajus robustus,Crested Capuchin,English,true
+136253,Sapajus flavius,Marcgrave's Capuchin Monkey,English,false
+136253,Sapajus flavius,Blonder Kapuzineraffe,German,false
+136253,Sapajus flavius,Blonde Capuchin,English,true
+14352,Nasalis larvatus,Long-nosed Monkey,English,false
+14352,Nasalis larvatus,Mono Narigudo,Spanish; Castilian,false
+14352,Nasalis larvatus,Nasique,French,false
+14352,Nasalis larvatus,Proboscis Monkey,English,true
+4082,Cebus cesarae,Capachino del César,Spanish; Castilian,false
+4082,Cebus cesarae,Rio-Cesar-Kapuzineraffe,German,false
+4082,Cebus cesarae,Sapajou du Cesar,French,false
+4082,Cebus cesarae,Río Cesar White-fronted Capuchin,English,true
+39828,Pygathrix nigripes,Black-shanked Douc,English,false
+39828,Pygathrix nigripes,Black-shanked Douc Monkey,English,false
+39828,Pygathrix nigripes,Voọc chà vá chân đen,Vietnamese,false
+39828,Pygathrix nigripes,Black-shanked Douc Langur,English,true
+40789,Trachypithecus hatinhensis,Stripe-headed Black Langur,English,false
+40789,Trachypithecus hatinhensis,Vooc den gáy trang,Vietnamese,false
+40789,Trachypithecus hatinhensis,Vooc Hà Tinh,Vietnamese,false
+40789,Trachypithecus hatinhensis,Hatinh Langur,English,true
+136843,Lepilemur ahmansoni,Ahmanson’s Sportive Lemur,English,true
+19596,Rhinopithecus roxellana,Sichuan Golden Snub-nosed Monkey,English,false
+19596,Rhinopithecus roxellana,Golden Snub-nosed Monkey,English,true
+15568,Oryx dammah,Begar al Ouach,Arabic,false
+15568,Oryx dammah,Orix de Cimitarra,Spanish; Castilian,false
+15568,Oryx dammah,Oryx Algazelle,French,false
+15568,Oryx dammah,Oryx de Libye,French,false
+15568,Oryx dammah,Säbelantilope,German,false
+15568,Oryx dammah,Wach,Arabic,false
+15568,Oryx dammah,Scimitar-horned Oryx,English,true
+12553,Macaca maura,Celebes Macaque,English,false
+12553,Macaca maura,Ceba,Indonesian,false
+12553,Macaca maura,Darre,Makasar,false
+12553,Macaca maura,Macaca Mora,Spanish; Castilian,false
+12553,Macaca maura,Macaque Maure,French,false
+12553,Macaca maura,Mohrenmakak,German,false
+12553,Macaca maura,Moor Macaque,English,true
+39808,Presbytis canicrus,Miller’s Grizzled Langur,English,true
+136920,Trachypithecus crepusculus,Indochinese Grey Langur,English,false
+136920,Trachypithecus crepusculus,Voọc xám,Vietnamese,false
+136920,Trachypithecus crepusculus,Indochinese Gray Langur,English,true
+181007989,Loxodonta cyclotis,Forest Elephant,English,false
+181007989,Loxodonta cyclotis,Elefante de Bosque,Spanish; Castilian,false
+181007989,Loxodonta cyclotis,Éléphant de forêt,French,false
+181007989,Loxodonta cyclotis,African Forest Elephant,English,true
+39805,Presbytis percura,Nokah/Kokah,Multiple languages,false
+39805,Presbytis percura,East Sumatran Banded Langur,English,true
+205889816,Macaca leucogenys,White-cheeked Macaque,English,true
+39761,Nycticebus javanicus,Javan Slow Loris,English,true
+11503,Leontopithecus caissara,Mico-caiçara,Portuguese,false
+11503,Leontopithecus caissara,Mico-leão Caiçara,Portuguese,false
+11503,Leontopithecus caissara,Mico-leão-de-cara-preta,Portuguese,false
+11503,Leontopithecus caissara,Black-faced Lion Tamarin,English,true
+14176,Myotis lucifugus,Little Brown Myotis,English,false
+14176,Myotis lucifugus,Little Brown Bat,English,true
+215823373,Balaenoptera ricei,Gulf of Mexico Whale,English,false
+215823373,Balaenoptera ricei,Rice's Whale,English,true
+45954382,Myosorex gnoskei,Nyika Burrowing Shrew,English,false
+45954382,Myosorex gnoskei,Nyika Mouse Shrew,English,true
+16887,Pharotis imogene,New Guinea Big-eared Bat,English,false
+16887,Pharotis imogene,Thomas's Big-eared Bat,English,true
+1933,Aproteles bulmerae,Bulmer-Nacktrückenflughund,German,false
+1933,Aproteles bulmerae,Bulmer's Fruit Bat,English,true
+136248,Rhinolophus montanus,Timorese Horseshoe Bat,English,true
+10968,Kerivoula agnella,St. Aignan's Trumpet-eared Bat,English,false
+10968,Kerivoula agnella,Louisiade Woolly Bat,English,true
+136769,Pipistrellus murrayi,Christmas Island Pipistrelle,English,true
+4309,Mops bregullae,Fijian Mastiff Bat,English,false
+4309,Mops bregullae,Fidschi-Bulldoggfledermaus,German,false
+4309,Mops bregullae,Fijian Free-tailed Bat,English,true
+14192,Myotis pruinosus,Blackish Whiskered Bat,English,false
+14192,Myotis pruinosus,Frosted Myotis,English,true
+29484,Myotis yanbarensis,Yanbaru Hoohige Koumori,Japanese,false
+29484,Myotis yanbarensis,Yanbaru Whiskered Bat,English,true
+136765,Nyctalus furvus,Koyama Koumori,Japanese,false
+136765,Nyctalus furvus,Japanese Noctule,English,true
+13564,Miniopterus fuscus,Ryukyu YubinagaKoumori,Japanese,false
+13564,Miniopterus fuscus,Southeast Asian Long-fingered Bat,English,true
+4216,Chlorocebus dryas,Dryad Monkey,English,false
+4216,Chlorocebus dryas,Dryas Guenon,English,false
+4216,Chlorocebus dryas,Salonga Guenon,English,false
+4216,Chlorocebus dryas,Cercopiteco dryas,Spanish; Castilian,false
+4216,Chlorocebus dryas,Cercopithèque dryas,French,false
+4216,Chlorocebus dryas,Dryasmeerkatze,German,false
+4216,Chlorocebus dryas,Mono Dryas,Spanish; Castilian,false
+4216,Chlorocebus dryas,Dryas Monkey,English,true
+18250,Piliocolobus bouvieri,Colobe de Bouvier,French,false
+18250,Piliocolobus bouvieri,Colobo Rojo de Bouvier,Spanish; Castilian,false
+18250,Piliocolobus bouvieri,Niaou,Lingala,false
+18250,Piliocolobus bouvieri,Bouvier’s Red Colobus,English,true
+210368667,Lepilemur dorsalis,Grey-backed Sportive Lemur,English,false
+210368667,Lepilemur dorsalis,Nossi-bé Sportive Lemur,English,false
+210368667,Lepilemur dorsalis,Lemur Comadreja de Ambanja,Spanish; Castilian,false
+210368667,Lepilemur dorsalis,Gray’s Sportive Lemur,English,true
+39875,Trachypithecus margarita,khang,Lao,false
+39875,Trachypithecus margarita,taloung,Lao,false
+39875,Trachypithecus margarita,Voọc bạc Trung Bộ,Vietnamese,false
+39875,Trachypithecus margarita,Elliot’s Silver Langur,English,true
+61925,Bradypus pygmaeus,Pygmy Three-fingered Sloth,English,false
+61925,Bradypus pygmaeus,Perezoso Pigmeo,Spanish; Castilian,false
+61925,Bradypus pygmaeus,Perezoso Pigmeo de Tres Dedos,Spanish; Castilian,false
+61925,Bradypus pygmaeus,Preguiça Anã,Portuguese,false
+61925,Bradypus pygmaeus,Zwergfaultier,German,false
+61925,Bradypus pygmaeus,Pygmy Three-toed Sloth,English,true
+17315,Pipistrellus maderensis,Madeira Pipistrelle,English,false
+17315,Pipistrellus maderensis,Pipistrelle de Madère,French,false
+17315,Pipistrellus maderensis,Pipistrello di Madeira,Italian,false
+17315,Pipistrellus maderensis,Murciélago de Madeira,Spanish; Castilian,true
+136503,Plecotus sardus,Orecchione sardo,Italian,false
+136503,Plecotus sardus,Oreillard sarde,French,false
+136503,Plecotus sardus,Orejudo Sardo,Spanish; Castilian,false
+136503,Plecotus sardus,Sardinian Long-eared Bat,English,true
+215482954,Plecotus teneriffae,Canary Big-eared Bat,English,false
+215482954,Plecotus teneriffae,Tenerife Long-eared Bat,English,false
+215482954,Plecotus teneriffae,Orecchione delle Canarie,Italian,false
+215482954,Plecotus teneriffae,Oreillard de Tenerife,French,false
+215482954,Plecotus teneriffae,Orejudo Canario,Spanish; Castilian,false
+215482954,Plecotus teneriffae,Canary Long-eared Bat,English,true
+17028,Phocoena sinus,Gulf of California Harbour Porpoise,English,false
+17028,Phocoena sinus,Gulf of California Porpoise,English,false
+17028,Phocoena sinus,Gulf Porpoise,English,false
+17028,Phocoena sinus,Marsouin du golfe de Californie,French,false
+17028,Phocoena sinus,Vaquita Marina,Spanish; Castilian,false
+17028,Phocoena sinus,Vaquita,English,true
+15955,Panthera tigris,Baagh,Bengali,false
+15955,Panthera tigris,Baagh,Hindi,false
+15955,Panthera tigris,Bāgha,Nepali,false
+15955,Panthera tigris,con hổ,Vietnamese,false
+15955,Panthera tigris,Harimau,Indonesian,false
+15955,Panthera tigris,Huli,Kannada,false
+15955,Panthera tigris,kaṭuva,Malayalam,false
+15955,Panthera tigris,Kyarr gyi,Burmese,false
+15955,Panthera tigris,Lǎohǔ,Chinese,false
+15955,Panthera tigris,Macan,Javanese,false
+15955,Panthera tigris,Maung,Sundanese,false
+15955,Panthera tigris,Puli,Tamil,false
+15955,Panthera tigris,Rimueng,Achinese,false
+15955,Panthera tigris,S̄eụ̄x krong,Thai,false
+15955,Panthera tigris,seu yai,Lao,false
+15955,Panthera tigris,Taag,Dzongkha,false
+15955,Panthera tigris,Tiger,German,false
+15955,Panthera tigris,Tigr,Russian,false
+15955,Panthera tigris,Tigre,French,false
+15955,Panthera tigris,Tigre,Spanish; Castilian,false
+15955,Panthera tigris,Vāgha,Gujarati,false
+15955,Panthera tigris,Tiger,English,true
+41573,Microcebus berthae,Berthe's Mouse Lemur,English,false
+41573,Microcebus berthae,Berthe’s Mouse Lemur,English,false
+41573,Microcebus berthae,Madame Berthe's Mouse Lemur,English,true
+39801,Presbytis femoralis,Banded Leaf Monkey,English,false
+39801,Presbytis femoralis,Kaka,Malay,false
+39801,Presbytis femoralis,Raffles' Banded Langur,English,true
+12303,Lontra felina,Sea Cat,English,false
+12303,Lontra felina,Anzumo,Spanish; Castilian,false
+12303,Lontra felina,Chinchimen,Spanish; Castilian,false
+12303,Lontra felina,Chingungo,Spanish; Castilian,false
+12303,Lontra felina,Chungungo,French,false
+12303,Lontra felina,Gato de Mar,Spanish; Castilian,false
+12303,Lontra felina,Gato Marino,Spanish; Castilian,false
+12303,Lontra felina,Huallaca,Spanish; Castilian,false
+12303,Lontra felina,Loutre de mer,French,false
+12303,Lontra felina,Nutria de Mar,Spanish; Castilian,false
+12303,Lontra felina,Marine Otter,English,true
+19595,Rhinopithecus brelichi,Gray Snub-nosed Monkey,English,false
+19595,Rhinopithecus brelichi,Guizhou Snub-nosed Monkey,English,false
+19595,Rhinopithecus brelichi,Grey Snub-nosed Monkey,English,true
+10714,Hypogeomys antimena,Malagasy Giant Rat,English,false
+10714,Hypogeomys antimena,Vositse,Malagasy,false
+10714,Hypogeomys antimena,Votsotsa,Undetermined,false
+10714,Hypogeomys antimena,Malagasy Giant Jumping Rat,English,true
+217035435,Perameles myosuros,Marl,Australian languages,true
+217035453,Perameles notina,South-eastern striped bandicoot,English,true
+217035476,Perameles papillon,Nullarbor Barred Bandicoot,English,true
+217035752,Chaeropus ecaudatus,Pig-footed Bandicoot,English,false
+217035752,Chaeropus ecaudatus,Bandicoot à pied de porc,French,false
+217035752,Chaeropus ecaudatus,Bandicoot à pieds de cochon sans queue,French,false
+217035752,Chaeropus ecaudatus,Bandicoot pieds de cochon,French,false
+217035752,Chaeropus ecaudatus,Boda,Australian languages,false
+217035752,Chaeropus ecaudatus,Boodal,Australian languages,false
+217035752,Chaeropus ecaudatus,Cangurito Piedecerdo,Spanish; Castilian,false
+217035752,Chaeropus ecaudatus,Landwang,Australian languages,false
+217035752,Chaeropus ecaudatus,Péramèle anoure,French,false
+217035752,Chaeropus ecaudatus,Schweinsfuß,German,false
+217035752,Chaeropus ecaudatus,Schweinsfußnasenbeutler,German,false
+217035752,Chaeropus ecaudatus,Schweinsfuß-Nasenbeutler,German,false
+217035752,Chaeropus ecaudatus,Woda,Australian languages,false
+217035752,Chaeropus ecaudatus,Southern Pig-footed Bandicoot,English,true
+217036096,Chaeropus yirratji,Northern Pig-footed Bandicoot,English,false
+217036096,Chaeropus yirratji,Yirratji,Australian languages,true
+40579,Petauroides volans,Greater Gliding Possum,English,false
+40579,Petauroides volans,Greater Glider,English,true
+97250154,Spalax istricus,Oltenia Blind Mole-rat,English,true
+39874,Trachypithecus germaini,Germain’s Langur,English,false
+39874,Trachypithecus germaini,Germain’s Silver Langur,English,false
+39874,Trachypithecus germaini,Indochinese Lutung,English,false
+39874,Trachypithecus germaini,Khang,Lao,false
+39874,Trachypithecus germaini,Voọc bạc Đông Dương,Vietnamese,false
+39874,Trachypithecus germaini,Indochinese Silvered Langur,English,true
+12375,Loris tardigradus,Slender Loris,English,false
+12375,Loris tardigradus,Sri Lanka Slender Loris,English,false
+12375,Loris tardigradus,Sri Lanka Wet zone Slender Loris,English,false
+12375,Loris tardigradus,Loris Fino,Spanish; Castilian,false
+12375,Loris tardigradus,Loris grèle,French,false
+12375,Loris tardigradus,Red Slender Loris,English,true
+18338,Prolagus sardus,Pika de Cerdeña,Spanish; Castilian,false
+18338,Prolagus sardus,Pika Sarde,French,false
+18338,Prolagus sardus,Sardinian Pika,English,true
+7750,Enhydra lutris,Loutre de mer,French,false
+7750,Enhydra lutris,Nutria del Kamtchatka,Spanish; Castilian,false
+7750,Enhydra lutris,Nutria Marina,Spanish; Castilian,false
+7750,Enhydra lutris,Sea Otter,English,true
+6678,Dipodomys ingens,Giant Kangaroo Rat,English,true
+12436,Lycaon pictus,Cape Hunting Dog,English,false
+12436,Lycaon pictus,Painted Dog,English,false
+12436,Lycaon pictus,Cynhyene,French,false
+12436,Lycaon pictus,Hyänenhund,German,false
+12436,Lycaon pictus,Licaon,Spanish; Castilian,false
+12436,Lycaon pictus,Licaone,Italian,false
+12436,Lycaon pictus,Loup-peint,French,false
+12436,Lycaon pictus,Lycaon,French,false
+12436,Lycaon pictus,Wildehond,Afrikaans,false
+12436,Lycaon pictus,African Wild Dog,English,true
+5560,Crocidura canariensis,Canarian Shrew,English,false
+5560,Crocidura canariensis,Canarian White-toothed Shrew,English,false
+5560,Crocidura canariensis,Crocidure des Canaries,French,false
+5560,Crocidura canariensis,Musaraña Canaria,Spanish; Castilian,false
+5560,Crocidura canariensis,Canary Shrew,English,true
+221733873,Sicista severtzovi,Severtzov's Birch Mouse,English,true
+97250195,Spalax antiquus,Mehely's Blind Mole-rat,English,false
+97250195,Spalax antiquus,Méhely’s Blind Mole-rat,English,true
+92332716,Sicista trizona,Csikos szöcskeegér,Hungarian,false
+92332716,Sicista trizona,Hungarian Birch Mouse,English,true
+20472,Spermophilus citellus,European Souslik,English,false
+20472,Spermophilus citellus,European Squirrel,English,false
+20472,Spermophilus citellus,Ardilla Terrestre,Spanish; Castilian,false
+20472,Spermophilus citellus,Citello comune,Italian,false
+20472,Spermophilus citellus,Europäischer Ziesel,German,false
+20472,Spermophilus citellus,Souslik D'Europe,French,false
+20472,Spermophilus citellus,Λαγόγυρος,"Greek, Modern (1453-)",false
+20472,Spermophilus citellus,European Ground Squirrel,English,true
+20492,Spermophilus suslicus,Spotted Souslik,English,false
+20492,Spermophilus suslicus,Ardilla Terrestre Moteada,Spanish; Castilian,false
+20492,Spermophilus suslicus,Citello pomellato,Italian,false
+20492,Spermophilus suslicus,Souslik Tacheté,French,false
+20492,Spermophilus suslicus,Speckled Ground Squirrel,English,true
+110500058,Sicista loriger,Nordmann’s Birch Mouse,English,true
+70330181,Plecturocebus vieirai,Zogue-zogue,Portuguese,false
+70330181,Plecturocebus vieirai,Vieira's Titi Monkey,English,true
+210363264,Mico schneideri,Sagui-de-Schneider,Portuguese,false
+210363264,Mico schneideri,Soim,Portuguese,false
+210363264,Mico schneideri,Schneider’s Marmoset,English,true
+181008073,Loxodonta africana,African Bush Elephant,English,false
+181008073,Loxodonta africana,African Savannah Elephant,English,false
+181008073,Loxodonta africana,Savanna Elephant,English,false
+181008073,Loxodonta africana,Savannah Elephant,English,false
+181008073,Loxodonta africana,Elefante de Sabana,Spanish; Castilian,false
+181008073,Loxodonta africana,Éléphant de savane,French,false
+181008073,Loxodonta africana,Njobvu,Chichewa; Chewa; Nyanja,false
+181008073,Loxodonta africana,African Savanna Elephant,English,true
+12555,Macaca nemestrina,Pig-tailed Macaque,English,false
+12555,Macaca nemestrina,Pigtail Macaque,English,false
+12555,Macaca nemestrina,Sundaland Pigtail Macaque,English,false
+12555,Macaca nemestrina,Sunda Pig-tailed Macaque,English,false
+12555,Macaca nemestrina,beruk,Indonesian,false
+12555,Macaca nemestrina,Macaca Cola De Cerdo,Spanish; Castilian,false
+12555,Macaca nemestrina,Macaque À Queue De Cochon,French,false
+12555,Macaca nemestrina,Südlicher Schweinsaffe,German,false
+12555,Macaca nemestrina,Southern Pig-tailed Macaque,English,true
+9002,Geocapromys ingrahami,Bahaman Hutia,English,false
+9002,Geocapromys ingrahami,Ingraham's Hutia,English,false
+9002,Geocapromys ingrahami,Hutia des Bahamas,French,false
+9002,Geocapromys ingrahami,Jutía de Bahamas,Spanish; Castilian,false
+9002,Geocapromys ingrahami,Bahamian Hutia,English,true
+5588,Crocidura zimmermanni,Cretan White-toothed Shrew,English,false
+5588,Crocidura zimmermanni,Zimmermann's Shrew,English,false
+5588,Crocidura zimmermanni,Crocidure de Zimmermann,French,false
+5588,Crocidura zimmermanni,Musaraña de Creta,Spanish; Castilian,false
+5588,Crocidura zimmermanni,Κρητική μυγαλή,"Greek, Modern (1453-)",false
+5588,Crocidura zimmermanni,Cretan Shrew,English,true
+8826,Galemys pyrenaicus,Pyrenean Desman,English,false
+8826,Galemys pyrenaicus,Desman dei Pirenei,Italian,false
+8826,Galemys pyrenaicus,Desman des Pyrénées,French,false
+8826,Galemys pyrenaicus,Desmán Ibérico,Spanish; Castilian,false
+8826,Galemys pyrenaicus,Toupeira-de-água,Portuguese,false
+8826,Galemys pyrenaicus,Iberian Desman,English,true
+82031633,Sousa plumbea,Boggelrugdolfyn,Afrikaans,false
+82031633,Sousa plumbea,Dauphin à bosse,French,false
+82031633,Sousa plumbea,Dukhs,Arabic,false
+82031633,Sousa plumbea,Fesobory,Malagasy,false
+82031633,Sousa plumbea,Fesodoby,Malagasy,false
+82031633,Sousa plumbea,Fesoke Manjavany,Malagasy,false
+82031633,Sousa plumbea,Fukariyo,Gujarati,false
+82031633,Sousa plumbea,Gada reda,Marathi,false
+82031633,Sousa plumbea,Gad/Gaadha reda,Kannada,false
+82031633,Sousa plumbea,Goonu,Telugu,false
+82031633,Sousa plumbea,Kadal ongi,Malayalam,false
+82031633,Sousa plumbea,Kadal panni,Malayalam,false
+82031633,Sousa plumbea,Kushuku,Swahili,false
+82031633,Sousa plumbea,Malhar,Sindhi,false
+82031633,Sousa plumbea,Paru vedan,Hindi,false
+82031633,Sousa plumbea,Pomboo mweupe,Swahili,false
+82031633,Sousa plumbea,Pomboo nundu,Swahili,false
+82031633,Sousa plumbea,Sori vedan,Tamil,false
+82031633,Sousa plumbea,Thella thoralu,Telugu,false
+82031633,Sousa plumbea,Vella ongi,Tamil,false
+82031633,Sousa plumbea,Υβοδέλφινο του Ινδικού,"Greek, Modern (1453-)",false
+82031633,Sousa plumbea,Indian Ocean Humpback Dolphin,English,true
+6506,Desmana moschata,Desman de Moscovie,French,false
+6506,Desmana moschata,Vykhukhol',Russian,false
+6506,Desmana moschata,Russian Desman,English,true
+136574,Prosciurillus rosenbergii,Sanghir Squirrel,English,true
+3329,Bunomys coelestis,Lompobatang Bunomys,English,false
+3329,Bunomys coelestis,Himmlische Bergratte,German,false
+3329,Bunomys coelestis,Lompobatang-Bergratte,German,false
+3329,Bunomys coelestis,Heavenly Hill Rat,English,true
+19347,Rattus mollicomulus,Little Soft-furred Rat,English,false
+19347,Rattus mollicomulus,Lompobatang Sulawesi Rat,English,true
+237137603,Bradypus torquatus,Preguiça-de-coleira do Nordeste,Portuguese,false
+237137603,Bradypus torquatus,Northern Maned Sloth,English,true
+237133936,Bradypus crinitus,Southern Maned Three-toed Sloth,English,false
+237133936,Bradypus crinitus,Preguiça-de-coleira do Sudeste,Portuguese,false
+237133936,Bradypus crinitus,Southern Maned Sloth,English,true
+136721,Bos primigenius,Auerochse,German,false
+136721,Bos primigenius,Auroch,French,false
+136721,Bos primigenius,Eurasischer Auerochse,German,false
+136721,Bos primigenius,Uro,Spanish; Castilian,false
+136721,Bos primigenius,Aurochs,English,true
+14106,Myosorex eisentrauti,Eisentraut's Mouse Shrew,English,true
+41757,Platanista minor,Blind Dolphin,English,false
+41757,Platanista minor,Indus Blind Dolphin,English,false
+41757,Platanista minor,Indus Dolphin,English,false
+41757,Platanista minor,Bhulan,Sindhi,false
+41757,Platanista minor,Delfín del Indo,Spanish; Castilian,false
+41757,Platanista minor,Plataniste de l'Indus,French,false
+41757,Platanista minor,Indus River Dolphin,English,true
+18711,Pteronura brasiliensis,Giant Brazilian Otter,English,false
+18711,Pteronura brasiliensis,Arirai,Spanish; Castilian,false
+18711,Pteronura brasiliensis,Ariranha,Portuguese,false
+18711,Pteronura brasiliensis,Lobito de Cola Ancha,Spanish; Castilian,false
+18711,Pteronura brasiliensis,Lobo del Río,Spanish; Castilian,false
+18711,Pteronura brasiliensis,Lobo de Rio,Spanish; Castilian,false
+18711,Pteronura brasiliensis,Lobo de Río Grande,Spanish; Castilian,false
+18711,Pteronura brasiliensis,Lobo Gargantilla,Spanish; Castilian,false
+18711,Pteronura brasiliensis,Loutre géante du Brésil,French,false
+18711,Pteronura brasiliensis,Perro de Agua,Spanish; Castilian,false
+18711,Pteronura brasiliensis,Giant Otter,English,true
+136773,Uromys boeadii,Biak Giant Rat,English,true
+248107314,Myotis nustrale,Korsican Mausohr,German,false
+248107314,Myotis nustrale,murin de Corse,French,false
+248107314,Myotis nustrale,murin nustrale,Corsican,false
+248107314,Myotis nustrale,Corsican Myotis,English,true
+253585790,Xanthonycticebus pygmaeus,Pygmy Loris,English,false
+253585790,Xanthonycticebus pygmaeus,Southern Lesser Slow Loris,English,false
+253585790,Xanthonycticebus pygmaeus,Anee,Central Khmer,false
+253585790,Xanthonycticebus pygmaeus,Cu Li,Vietnamese,false
+253585790,Xanthonycticebus pygmaeus,Khi gio,Vietnamese,false
+253585790,Xanthonycticebus pygmaeus,Ling Lom Noy,Thai,false
+253585790,Xanthonycticebus pygmaeus,Linh lom,Lao,false
+253585790,Xanthonycticebus pygmaeus,Phony ly,Vietnamese,false
+253585790,Xanthonycticebus pygmaeus,Xau ho,Vietnamese,false
+253585790,Xanthonycticebus pygmaeus,Southern Pygmy Loris,English,true
+253587364,Xanthonycticebus intermedius,Northern Lesser Slow Loris,English,false
+253587364,Xanthonycticebus intermedius,Anee,Vietnamese,false
+253587364,Xanthonycticebus intermedius,Cu li,Vietnamese,false
+253587364,Xanthonycticebus intermedius,Khi gio,Vietnamese,false
+253587364,Xanthonycticebus intermedius,Ling lom noy,Thai,false
+253587364,Xanthonycticebus intermedius,Linh lom,Lao,false
+253587364,Xanthonycticebus intermedius,Phony ly,Vietnamese,false
+253587364,Xanthonycticebus intermedius,Xau ho,Vietnamese,false
+253587364,Xanthonycticebus intermedius,Northern Pygmy Loris,English,true
+5223,Conilurus albipes,Rabbit-eared Tree-rat,English,false
+5223,Conilurus albipes,White-footed Rabbit Rat,English,false
+5223,Conilurus albipes,White-footed Tree-rat,English,false
+5223,Conilurus albipes,White-footed Rabbit-rat,English,true
+11633,Leporillus apicalis,White-tipped Stick-nest Rat,English,false
+11633,Leporillus apicalis,Tjooyalpi,Australian languages,false
+11633,Leporillus apicalis,Lesser Stick-nest Rat,English,true
+45958541,Notomys robustus,Broad-cheeked Hopping-mouse,English,false
+45958541,Notomys robustus,Broad-cheeked Hopping Mouse,English,true
+18557,Pseudomys shortridgei,Shortridge's Native Mouse,English,false
+18557,Pseudomys shortridgei,Fausse souris de Shortridge,French,false
+18557,Pseudomys shortridgei,Raton Bastardo Crestado,Spanish; Castilian,false
+18557,Pseudomys shortridgei,Heath Mouse,English,true
+18564,Pseudomys glaucus,Blue-gray Mouse,English,false
+18564,Pseudomys glaucus,Blue-grey Mouse,English,true
+14861,Notomys amplus,Ratones Saltadores de Australia,Spanish; Castilian,false
+14861,Notomys amplus,Souris sauteuse,French,false
+14861,Notomys amplus,Yoontoo,Australian languages,false
+14861,Notomys amplus,Short-tailed Hopping-mouse,English,true
+14862,Notomys aquilo,Ratones Saltadores De Australia,Spanish; Castilian,false
+14862,Notomys aquilo,Souris Sauteuse,French,false
+14862,Notomys aquilo,Wurrendinda,Australian languages,false
+14862,Notomys aquilo,Northern Hopping-mouse,English,true
+19344,Rattus macleari,Maclear's Rat,English,true
+14864,Notomys longicaudatus,Long-tailed Hopping-mouse,English,false
+14864,Notomys longicaudatus,Koolawa,Australian languages,false
+14864,Notomys longicaudatus,Ratones Saltadores de Australia,Spanish; Castilian,false
+14864,Notomys longicaudatus,Souris sauteuse,French,false
+14864,Notomys longicaudatus,Long-tailed Hopping Mouse,English,true
+14865,Notomys macrotis,Big-eared Hopping-mouse,English,false
+14865,Notomys macrotis,Large-eared Hopping-mouse,English,false
+14865,Notomys macrotis,Noompa,Australian languages,false
+14865,Notomys macrotis,Ratones Saltadores de Australia,Spanish; Castilian,false
+14865,Notomys macrotis,Souris sauteuse,French,false
+14865,Notomys macrotis,Big-eared Hopping Mouse,English,true
+14866,Notomys mordax,Darling Downs Hopping-mouse,English,false
+14866,Notomys mordax,Payi,Australian languages,false
+14866,Notomys mordax,Ratones Saltadores de Australia,Spanish; Castilian,false
+14866,Notomys mordax,Souris sauteuse,French,false
+14866,Notomys mordax,Darling Downs Hopping Mouse,English,true
+19351,Rattus nativitatis,Christmas Island Burrowing Rat,English,false
+19351,Rattus nativitatis,Bulldog Rat,English,true
+75927841,Conilurus capricornensis,Capricorn Rabbit-rat,English,true
+136379,Crocidura trichura,Christmas Island Shrew,English,true
+13132,Melomys rubicola,Bramble Cay Mosaic-tailed Rat,English,false
+13132,Melomys rubicola,Bramble Cay Melomys,English,true
+75927882,Pseudomys auritus,Long-eared Mouse,English,true
+45958849,Rattus nikenii,Niken's Rat,English,true
+112139816,Rattus detentus,Admiralties Rat,English,false
+112139816,Rattus detentus,Manus Island Spiny Rat,English,false
+112139816,Rattus detentus,Admiralty Rat,English,true
+15331,Onychogalea lunata,Crescent Nailtail Wallaby,English,false
+15331,Onychogalea lunata,Canguro Rabipelado Occidental,Spanish; Castilian,false
+15331,Onychogalea lunata,Onychogale Croissant,French,false
+15331,Onychogalea lunata,Tjawalpa,Australian languages,false
+15331,Onychogalea lunata,Wallaby À Queue Cornée,French,false
+15331,Onychogalea lunata,Wurrung,Australian languages,false
+15331,Onychogalea lunata,Crescent Nail-tailed Wallaby,English,true
+3626,Caloprymnus campestris,Buff-nosed Rat-kangaroo,English,false
+3626,Caloprymnus campestris,Desert Rat Kangaroo,English,false
+3626,Caloprymnus campestris,Plains Rat-kangaroo,English,false
+3626,Caloprymnus campestris,Canguro-rata Desértico,Spanish; Castilian,false
+3626,Caloprymnus campestris,Kangourou-rat Du Désert,French,false
+3626,Caloprymnus campestris,Nacktbrustkänguru,German,false
+3626,Caloprymnus campestris,ngudlukanta,Australian languages,false
+3626,Caloprymnus campestris,Desert Rat-kangaroo,English,true
+136805,Bettongia pusilla,Nullarbor Dwarf Bettong,English,true
+18103,Potorous platyops,Moda,Australian languages,false
+18103,Potorous platyops,Broad-faced Potoroo,English,true
+16570,Perameles eremiana,Orange-backed Bandicoot,English,false
+16570,Perameles eremiana,Péramèle Du Désert,French,false
+16570,Perameles eremiana,Desert Bandicoot,English,true
+2787,Bettongia tropica,Nördliches Bürstenkänguru,German,false
+2787,Bettongia tropica,Nördliches Rattenkänguru,German,false
+2787,Bettongia tropica,Northern Bettong,English,true
+71510353,Bettongia anhydra,Desert Bettong,English,true
+12625,Notamacropus greyi,Toolache Wallaby,English,true
+21866,Thylacinus cynocephalus,Tasmanian Tiger,English,false
+21866,Thylacinus cynocephalus,Tasmanian Wolf,English,false
+21866,Thylacinus cynocephalus,Lobo de Tasamania,Spanish; Castilian,false
+21866,Thylacinus cynocephalus,Lobo Marsupial,Spanish; Castilian,false
+21866,Thylacinus cynocephalus,Loup marsupial,French,false
+21866,Thylacinus cynocephalus,Thylacine,English,true
+12651,Macrotis leucura,Lesser Bilby,English,false
+12651,Macrotis leucura,Bandicoot-lapin À Queue Blanche,French,false
+12651,Macrotis leucura,Bandicoot-lapin Mineur,French,false
+12651,Macrotis leucura,Cangurito Narigudo Coliblanco,Spanish; Castilian,false
+12651,Macrotis leucura,Petit Bandicoot-lapin,French,false
+12651,Macrotis leucura,Petit Péramèle-lapin,French,false
+12651,Macrotis leucura,Yallara,English,true
+11160,Lagorchestes asomatus,Central Hare-wallaby,English,false
+11160,Lagorchestes asomatus,Central Hare Wallaby,English,false
+11160,Lagorchestes asomatus,Kuluwarri,English,true
+11163,Lagorchestes leporides,Eastern Hare Wallaby,English,false
+11163,Lagorchestes leporides,Eastern Hare-wallaby,English,true
+120588639,Pongo tapanuliensis,Orang-outan de Tapanuli,French,false
+120588639,Pongo tapanuliensis,Orangután de Tapanuli,Spanish; Castilian,false
+120588639,Pongo tapanuliensis,Tapanuli-Orang-Utan,German,false
+120588639,Pongo tapanuliensis,Tapanuli Orangutan,English,true
+17975,Pongo pygmaeus,Orang-outan de Bornéo,French,false
+17975,Pongo pygmaeus,Orang-után,Spanish; Castilian,false
+17975,Pongo pygmaeus,Bornean Orangutan,English,true
+121097935,Pongo abelii,Orang-outan de Sumatra,French,false
+121097935,Pongo abelii,Orangután de Sumatra,Spanish; Castilian,false
+121097935,Pongo abelii,Sumatra-Orang-Utan,German,false
+121097935,Pongo abelii,Sumatran Orangutan,English,true
+45959348,Phyllotis alisosiensis,Cinnamon Belly Leaf-eared Mouse,English,false
+45959348,Phyllotis alisosiensis,Pericote de Los Alisos,Spanish; Castilian,false
+45959348,Phyllotis alisosiensis,Andean Alder Leaf-eared Mouse,English,true
+45954361,Cryptotis aroensis,Aroa Small-eared Shrew,English,true
+45954370,Cryptotis oreoryctes,Yalijux Shrew,English,false
+45954370,Cryptotis oreoryctes,Highland Broad-clawed Shrew,English,true
+22037,Trachypithecus geei,Gee's Golden Langur,English,false
+22037,Trachypithecus geei,Golden Leaf Monkey,English,false
+22037,Trachypithecus geei,Entelle Dorée,French,false
+22037,Trachypithecus geei,Langur Dorado,Spanish; Castilian,false
+22037,Trachypithecus geei,Langur Doré,French,false
+22037,Trachypithecus geei,Semnopithèque De Gee,French,false
+22037,Trachypithecus geei,Semnopithèque Doré,French,false
+22037,Trachypithecus geei,Gee’s Golden Langur,English,true
+199838,Pennatomys nivalis,St. Eustatius Rice Rat,English,false
+199838,Pennatomys nivalis,St. Kitts Rice Rat,English,false
+199838,Pennatomys nivalis,Nevis Rice Rat,English,true
+5499,Crateromys australis,Dinagat Crateromys,English,false
+5499,Crateromys australis,Dinagat Hairy-tailed Cloud Rat,English,false
+5499,Crateromys australis,Dinagat Island Cloud Rat,English,false
+5499,Crateromys australis,Dinagat Bushy-tailed Cloud Rat,English,true
+6671,Diplothrix legata,Ryukyu Islands Tree Rat,English,false
+6671,Diplothrix legata,Ryukyu Long-haired Rat,English,false
+6671,Diplothrix legata,Ryukyu Long-tailed Giant Rat,English,false
+6671,Diplothrix legata,Ryukyu Rat,English,false
+6671,Diplothrix legata,Ryukyu Long-furred Rat,English,true
+5590,Crocidura orii,Orii's Shrew,English,false
+5590,Crocidura orii,Ryukyu Shrew,English,false
+5590,Crocidura orii,Amami Shrew,English,true
+13604,Mogera etigo,Echigo Mole,English,false
+13604,Mogera etigo,Etigo Mole,English,true
+10591,Hylomyscus baeri,Baer's Hylomyscus,English,false
+10591,Hylomyscus baeri,Baer's Wood Mouse,English,true
+6989,Phyllomys thomasi,"Cururá, cururuá",Portuguese,false
+6989,Phyllomys thomasi,Giant Atlantic Tree Rat,English,true
+20428,Spalax arenarius,Sandy Mole Rat,English,false
+20428,Spalax arenarius,Sandy Mole-rat,English,true
+2888,Bos javanicus,Tembadau,English,false
+2888,Bos javanicus,Banteng,German,false
+2888,Bos javanicus,Taw Nwar (aka) Sai,Burmese,false
+2888,Bos javanicus,Banteng,English,true
+270997532,Crocidura australis,Southwest Peninsula White-toothed Shrew,English,true
+271000210,Crocidura parva,Tiny Sulawesi White-toothed Shrew,English,true
+4652,Chinchilla laniger,Chinchilla,English,false
+4652,Chinchilla laniger,Chinchilla à longue queue,French,false
+4652,Chinchilla laniger,Chinchilla Costina,Spanish; Castilian,false
+4652,Chinchilla laniger,Chinchilla de Cola Larga,Spanish; Castilian,false
+4652,Chinchilla laniger,Langschwanz-Chinchilla,German,false
+4652,Chinchilla laniger,Long-tailed Chinchilla,English,true
+5112,Coleura seychellensis,Seychelles Sheath-tailed Bat,English,false
+5112,Coleura seychellensis,Coléoure des Seychelles,French,false
+5112,Coleura seychellensis,Sousouri Bannann,"Creoles and pidgins, French-based (Other)",false
+5112,Coleura seychellensis,Seychelles Sheath-tailed Bat,English,true
+12551,Macaca fascicularis,Crab-eating Macaque,English,false
+12551,Macaca fascicularis,Cynomolgus Macaque,English,false
+12551,Macaca fascicularis,kakravuk banor,Bengali,false
+12551,Macaca fascicularis,kera,Indonesian,false
+12551,Macaca fascicularis,Khi đuôi dà,Vietnamese,false
+12551,Macaca fascicularis,ลิง หางยาว ling hăang yao,Thai,false
+12551,Macaca fascicularis,Ling hang yao ລີງຫາງຍາວ,Lao,false
+12551,Macaca fascicularis,ลิง เเสม ling sà-mɛ̌ɛ,Thai,false
+12551,Macaca fascicularis,lomba leji banor,Bengali,false
+12551,Macaca fascicularis,matsing,Tagalog,false
+12551,Macaca fascicularis,monyet ekor panjang,Indonesian,false
+12551,Macaca fascicularis,parailla banor,Bengali,false
+12551,Macaca fascicularis,ស្វាក្ដាម sva kdam,Central Khmer,false
+12551,Macaca fascicularis,unggoy,Tagalog,false
+12551,Macaca fascicularis,မျောက်တံငါ myauk ta-nga,Burmese,false
+12551,Macaca fascicularis,长尾猕猴 Cháng wěi míhóu,Chinese,false
+12551,Macaca fascicularis,Long-tailed Macaque,English,true
+44781,Rhinolophus hilli,Hill's Horseshoe Bat,English,true
+23115,Xenomys nelsoni,Magdalena Rat,English,false
+23115,Xenomys nelsoni,Magdelena Wood Rat,English,true
+10009,Heteromys nelsoni,Nelson's Spiny Pocket Mouse,English,true
+16664,Peromyscus guardia,Angel Island Mouse,English,true
+18732,Pteropus livingstonii,Comoro Black Flying Fox,English,false
+18732,Pteropus livingstonii,Livingstone’s Fruit Bat,English,false
+18732,Pteropus livingstonii,M'la Manga Moudou,Swahili,false
+18732,Pteropus livingstonii,Ndema,Swahili,false
+18732,Pteropus livingstonii,Ntremela,Swahili,false
+18732,Pteropus livingstonii,Roussette de Livingstone,French,false
+18732,Pteropus livingstonii,Zorro Volador De Livingston,Spanish; Castilian,false
+18732,Pteropus livingstonii,Livingstone's Flying Fox,English,true
+277172812,Halmaheramys wallacei,Bisa Rat,English,false
+277172812,Halmaheramys wallacei,tikus-duri besar,Indonesian,false
+277172812,Halmaheramys wallacei,Wallace's Large Spiny Rat,English,true
+277177325,Callosciurus honkhoaiensis,Hon Khoai Squirrel,English,true
+277177486,Chingawaemys rarus,Chingawa Forest Rat,English,true
+136616,Habromys schmidlyi,Schmidly's Deer Mouse,English,true
+6204,Cystophora cristata,Blöðruselur,Icelandic,false
+6204,Cystophora cristata,Foca de Casco,Spanish; Castilian,false
+6204,Cystophora cristata,Klapmyds,Danish,false
+6204,Cystophora cristata,Klappmütze,German,false
+6204,Cystophora cristata,Phoque à capuchon,French,false
+6204,Cystophora cristata,Hooded Seal,English,true
+136520,Cavia intermedia,Moleques do Sul Guinea Pig,English,false
+136520,Cavia intermedia,Santa-Catarina-Meerschweinchen,German,false
+136520,Cavia intermedia,Santa Catarina's Guinea Pig,English,true
+15452,Leopardus jacobita,Andean Mountain Cat,English,false
+15452,Leopardus jacobita,Mountain Cat,English,false
+15452,Leopardus jacobita,aqatiri mallku,Aymara,false
+15452,Leopardus jacobita,awatiri,Aymara,false
+15452,Leopardus jacobita,Chat des Andes,French,false
+15452,Leopardus jacobita,Gato Andino,Spanish; Castilian,false
+15452,Leopardus jacobita,Gato de las Peñas,Spanish; Castilian,false
+15452,Leopardus jacobita,Gato Lince,Spanish; Castilian,false
+15452,Leopardus jacobita,Gato Montés,Spanish; Castilian,false
+15452,Leopardus jacobita,Gato Once,Spanish; Castilian,false
+15452,Leopardus jacobita,kita misi,Quechua,false
+15452,Leopardus jacobita,oscollo,Quechua,false
+15452,Leopardus jacobita,Osjo,Quechua,false
+15452,Leopardus jacobita,oskhollo,Quechua,false
+15452,Leopardus jacobita,samiri,Aymara,false
+15452,Leopardus jacobita,tite,Aymara,false
+15452,Leopardus jacobita,Titi,Aymara,false
+15452,Leopardus jacobita,titi mallku,Aymara,false
+15452,Leopardus jacobita,titi misi,Aymara,false
+15452,Leopardus jacobita,titi phisi,Aymara,false
+15452,Leopardus jacobita,usqullu,Quechua,false
+15452,Leopardus jacobita,Andean Cat,English,true
+13215,Mesocapromys angelcabrerai,Jutia conguina,Spanish; Castilian,false
+13215,Mesocapromys angelcabrerai,Cabrera's Hutia,English,true
+13218,Mesocapromys sanfelipensis,San Felipe Hutia,English,false
+13218,Mesocapromys sanfelipensis,jutia de la tierra,Spanish; Castilian,false
+13218,Mesocapromys sanfelipensis,Little Earth Hutia,English,true

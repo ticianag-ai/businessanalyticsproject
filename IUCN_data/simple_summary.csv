@@ -1,0 +1,889 @@
+assessmentId,internalTaxonId,scientificName,kingdomName,phylumName,orderName,className,familyName,genusName,speciesName,infraType,infraName,infraAuthority,authority,redlistCategory,redlistCriteria,criteriaVersion,populationTrend,scopes
+1306343,17026,Phocarctos hookeri,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,OTARIIDAE,Phocarctos,hookeri,,,,"(Gray, 1844)",Endangered,A4bd,3.1,Decreasing,Global
+9775825,3339,Burramys parvus,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,BURRAMYIDAE,Burramys,parvus,,,,"Broom, 1896",Critically Endangered,"B1ab(iii,v)+2ab(iii,v)",3.1,Decreasing,Global
+10051312,3748,Canis simensis,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,CANIDAE,Canis,simensis,,,,"Rüppell, 1840",Endangered,"B1ab(iii,v); C1+2a(i); D",3.1,Decreasing,Global
+10331066,40540,Sarcophilus harrisii,ANIMALIA,CHORDATA,DASYUROMORPHIA,MAMMALIA,DASYURIDAE,Sarcophilus,harrisii,,,,"(Boitard, 1841)",Endangered,A2be+3e,3.1,Decreasing,Global
+13026736,9917,Nilgiritragus hylocrius,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Nilgiritragus,hylocrius,,,,"(Ogilby, 1838)",Endangered,C2a(i),3.1,Decreasing,Global
+16971464,16971461,Microcebus gerpi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Microcebus,gerpi,,,,"Radespiel, Ratsimbazafy, Rasoloharijaona, Raveloson, Andriaholinirina, Rakotondravony, Randrianarison  &amp; Randrianambinina, 2012",Critically Endangered,"B1ab(i,ii,iii)+2ab(i,ii,iii)",3.1,Decreasing,Global
+17926000,914,Alouatta pigra,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,ATELIDAE,Alouatta,pigra,,,,"Lawrence, 1933",Endangered,A4cd,3.1,Decreasing,Global
+17929680,39961,Ateles hybridus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,ATELIDAE,Ateles,hybridus,,,,"I. Geoffroy Saint-Hilaire, 1829",Critically Endangered,A4cd,3.1,Decreasing,Global
+17935400,11505,Leontopithecus chrysopygus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CALLITRICHIDAE,Leontopithecus,chrysopygus,,,,"(Mikan, 1823)",Endangered,A3ce,3.1,Decreasing,Global
+17940474,19839,Saimiri vanzolinii,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CEBIDAE,Saimiri,vanzolinii,,,,"Ayres, 1985",Endangered,A3c; B1ab(iii),3.1,Decreasing,Global
+17940807,19836,Saimiri oerstedii,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CEBIDAE,Saimiri,oerstedii,,,,"(Reinhardt, 1872)",Endangered,A2cd,3.1,Decreasing,Global
+17941247,39826,Pygathrix nemaeus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Pygathrix,nemaeus,,,,"(Linnaeus, 1771)",Critically Endangered,A2acd+3cd,3.1,Decreasing,Global
+17941672,39827,Pygathrix cinerea,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Pygathrix,cinerea,,,,"Nadler, 1997",Critically Endangered,A2acd+3cd,3.1,Decreasing,Global
+17943210,39833,Semnopithecus ajax,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Semnopithecus,ajax,,,,"(Pocock, 1928)",Endangered,C2a(i),3.1,Decreasing,Global
+17943490,13508501,Rhinopithecus strykeri,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Rhinopithecus,strykeri,,,,"Geissmann, Ngwe Lwin, Saw Soe Aung, Thet Naing Aung, Zin Myo Aung, Tony Htin Hla, Grindley &amp; Momberg, 2011",Critically Endangered,A4cd,3.1,Decreasing,Global
+17943738,19597,Rhinopithecus bieti,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Rhinopithecus,bieti,,,,"Milne-Edwards, 1897",Endangered,C2a(i),3.1,Stable,Global
+17944213,19594,Rhinopithecus avunculus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Rhinopithecus,avunculus,,,,"(Dollman, 1912)",Critically Endangered,A2acd+3cd; C1+2a(i),3.1,Decreasing,Global
+17944855,5144,Colobus polykomos,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Colobus,polykomos,,,,"(E.A.W. Zimmermann, 1780)",Endangered,A2bcd,3.1,Decreasing,Global
+17945814,4229,Cercopithecus sclateri,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Cercopithecus,sclateri,,,,"Pocock, 1904",Endangered,A2cd,3.1,Decreasing,Global
+17946182,4217,Cercopithecus erythrogaster,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Cercopithecus,erythrogaster,,,,"Gray, 1866",Endangered,A2cd+4cd,3.1,Decreasing,Global
+17948833,136569,Macaca munzala,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Macaca,munzala,,,,"Madhusudan &amp; Mishra, 2005",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+17949710,39795,Macaca siberu,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Macaca,siberu,,,,"Fuentes &amp; Olson, 1995",Endangered,A2acd+4acd,3.1,Decreasing,Global
+17949995,39794,Macaca pagensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Macaca,pagensis,,,,"(Miller, 1903)",Critically Endangered,A2acd+4acd,3.1,Decreasing,Global
+17950422,12556,Macaca nigra,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Macaca,nigra,,,,"(Desmarest, 1822)",Critically Endangered,A2cd,3.1,Decreasing,Global
+17951229,12560,Macaca sinica,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Macaca,sinica,,,,"(Linneaus, 1771)",Endangered,A2cd+4cd,3.1,Decreasing,Global
+17951402,12559,Macaca silenus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Macaca,silenus,,,,"(Linnaeus, 1758)",Endangered,C2a(i),3.1,Decreasing,Global
+17952490,12753,Mandrillus leucophaeus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Mandrillus,leucophaeus,,,,"(F. Cuvier, 1807)",Endangered,A2cd,3.1,Decreasing,Global
+17953422,20229,Simias concolor,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Simias,concolor,,,,"Miller, 1903",Critically Endangered,A2acd,3.1,Decreasing,Global
+17954271,39811,Presbytis melalophos,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Presbytis,melalophos,,,,"(Raffles, 1821)",Endangered,A2acd+4acd,3.1,Decreasing,Global
+17954456,39815,Presbytis potenziani,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Presbytis,potenziani,,,,"(Bonaparte, 1856)",Critically Endangered,A2cd+4cd,3.1,Decreasing,Global
+17955321,39803,Presbytis chrysomelas,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Presbytis,chrysomelas,,,,"(Müller, 1838)",Critically Endangered,A2ac+3c,3.1,Decreasing,Global
+17955753,4203,Cercocebus sanjei,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Cercocebus,sanjei,,,,"Mittermeier, 1986",Endangered,"B1ab(ii,iii,v)+2ab(ii,iii,v)",3.1,Decreasing,Global
+17956177,4207,Cercocebus chrysogaster,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Cercocebus,chrysogaster,,,,"Lydekker, 1900",Endangered,A4cd,3.1,Decreasing,Global
+17956330,4200,Cercocebus galeritus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Cercocebus,galeritus,,,,"Peters, 1879",Critically Endangered,A3c,3.1,Decreasing,Global
+17958817,39853,Trachypithecus francoisi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Trachypithecus,francoisi,,,,"(Pousargues, 1898)",Endangered,A2acd+3cd; C1+2a(i),3.1,Decreasing,Global
+17958988,22043,Trachypithecus delacouri,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Trachypithecus,delacouri,,,,"(Osgood, 1932)",Critically Endangered,A2cd; C2a(i),3.1,Decreasing,Global
+17959133,22044,Trachypithecus laotum,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Trachypithecus,laotum,,,,"(Thomas, 1911)",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+17959452,22042,Semnopithecus vetulus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Semnopithecus,vetulus,,,,"(Erxleben, 1777)",Endangered,A2cd+3cd,3.1,Decreasing,Global
+17959804,39871,Trachypithecus poliocephalus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Trachypithecus,poliocephalus,,,,"(Pousargues, 1898)",Critically Endangered,D,3.1,Increasing,Global
+17960562,22039,Trachypithecus obscurus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Trachypithecus,obscurus,,,,"(Reid, 1837)",Endangered,A2cd,3.1,Decreasing,Global
+17961202,39869,Trachypithecus shortridgei,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Trachypithecus,shortridgei,,,,"Wroughton, 1915",Endangered,A2cd+3cd,3.1,Decreasing,Global
+17961368,136791,Rungwecebus kipunji,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Rungwecebus,kipunji,,,,"(Ehardt, Butynski, Jones &amp; Davenport, 2005)",Endangered,"B1ab(ii,iii,iv,v)+2ab(ii,iii,iv,v)",3.1,Decreasing,Global
+17962115,40652,Paragalago rondoensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,GALAGIDAE,Paragalago,rondoensis,,,,"(Honess in Kingdon, 1997)",Endangered,"B2ab(ii,iii,v)",3.1,Decreasing,Global
+17966495,10550,Hylobates moloch,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Hylobates,moloch,,,,"(Audebert, 1798)",Endangered,A4cd,3.1,Decreasing,Global
+17966665,10552,Hylobates pileatus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Hylobates,pileatus,,,,"Gray, 1861",Endangered,A2cd+3cd,3.1,Decreasing,Global
+17967053,39879,Hylobates albibarbis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Hylobates,albibarbis,,,,"Lyon, 1911",Endangered,A4cd,3.1,Decreasing,Global
+17967253,10548,Hylobates lar,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Hylobates,lar,,,,"(Linneaus, 1771)",Endangered,A2cd+3cd,3.1,Decreasing,Global
+17967475,10547,Hylobates klossii,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Hylobates,klossii,,,,"(G.S. Miller, 1903)",Endangered,A4cd,3.1,Decreasing,Global
+17967655,10543,Hylobates agilis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Hylobates,agilis,,,,"F. Cuvier, 1821",Endangered,A2cd+4cd,3.1,Decreasing,Global
+17967873,39779,Symphalangus syndactylus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Symphalangus,syndactylus,,,,"(Raffles, 1821)",Endangered,A4cd,3.1,Decreasing,Global
+17968083,39876,Hoolock hoolock,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Hoolock,hoolock,,,,"(Harlan, 1834)",Endangered,A4acd,3.1,Decreasing,Global
+17968556,39775,Nomascus concolor,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Nomascus,concolor,,,,"(Harlan, 1826)",Critically Endangered,A2acd+3cd,3.1,Decreasing,Global
+17968765,39896,Nomascus siki,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Nomascus,siki,,,,"(Delacour, 1951)",Critically Endangered,A4cd,3.1,Decreasing,Global
+17968950,128073282,Nomascus gabriellae,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Nomascus,gabriellae,,,,"(Thomas, 1909)",Endangered,A4cd,3.1,Decreasing,Global
+17969392,41643,Nomascus hainanus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Nomascus,hainanus,,,,"(Thomas, 1892)",Critically Endangered,A2acd; B1ab(iii); D,3.1,Stable,Global
+17969578,41642,Nomascus nasutus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Nomascus,nasutus,,,,"(Kunkel d'Herculais, 1884)",Critically Endangered,"A2cd; C1+2a(i,ii); D",3.1,Decreasing,Global
+17970966,163017685,Nycticebus coucang,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LORISIDAE,Nycticebus,coucang,,,,"(Boddaert, 1785)",Endangered,A2acde+4acde,3.1,Decreasing,Global
+17971784,136532,Palaeopropithecus ingens,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,PALAEOPROPITHECIDAE,Palaeopropithecus,ingens,,,,"G. Grandidier, 1899",Extinct,,3.1,,Global
+17972422,39954,Callicebus coimbrai,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,PITHECIIDAE,Callicebus,coimbrai,,,,"Kobayashi &amp; Langguth, 1999",Endangered,"B2ab(ii,iii,iv,v); C2a(i,ii)",3.1,Decreasing,Global
+17972778,41550,Plecturocebus modestus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,PITHECIIDAE,Plecturocebus,modestus,,,,"Lönnberg, 1939",Endangered,A3cd,3.1,Decreasing,Global
+17975319,3553,Plecturocebus oenanthe,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,PITHECIIDAE,Plecturocebus,oenanthe,,,,"Thomas, 1924",Critically Endangered,A2cd,3.1,Decreasing,Global
+17975516,3554,Plecturocebus olallae,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,PITHECIIDAE,Plecturocebus,olallae,,,,"Lönnberg, 1939",Critically Endangered,A3cd,3.1,Decreasing,Global
+17976302,136515,Xenothrix mcgregori,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,PITHECIIDAE,Xenothrix,mcgregori,,,,"Williams &amp; Koopman, 1952",Extinct,,3.1,,Global
+17977202,179234,Tarsius tumpara,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,TARSIIDAE,Tarsius,tumpara,,,,"Shekelle, Groves, Merker &amp; Supriatna, 2008",Critically Endangered,"A2acd+4acd; B1ab(iii,v)",3.1,Decreasing,Global
+17977351,21493,Tarsius sangirensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,TARSIIDAE,Tarsius,sangirensis,,,,"Meyer, 1897",Endangered,B1ab(iii),3.1,Decreasing,Global
+17977515,21494,Tarsius pelengensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,TARSIIDAE,Tarsius,pelengensis,,,,"Sody, 1949",Endangered,"B1ab(ii,iii)",3.1,Decreasing,Global
+17977980,21490,Tarsius pumilus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,TARSIIDAE,Tarsius,pumilus,,,,"Miller &amp; Hollister, 1921",Endangered,B2ab(iii),3.1,Decreasing,Global
+17981252,81237954,Cebus brunneus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CEBIDAE,Cebus,brunneus,,,,"Allen, 1914",Endangered,A4cd,3.1,Decreasing,Global
+17986913,136912,Presbytis sumatrana,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Presbytis,sumatrana,,,,"(Müller &amp; Schlegel, 1841)",Endangered,A2cd+4cd,3.1,Decreasing,Global
+17986963,39816,Presbytis siberu,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Presbytis,siberu,,,,"(Chasen &amp; Kloss, 1928)",Endangered,A2cd+4cd,3.1,Decreasing,Global
+17987041,39810,Presbytis sabana,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Presbytis,sabana,,,,"(Thomas, 1893)",Endangered,A2acd+4acd,3.1,Decreasing,Global
+17988378,39872,Trachypithecus leucocephalus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Trachypithecus,leucocephalus,,,,"Tan, 1955",Critically Endangered,A2cd; C2a(i),3.1,Decreasing,Global
+17990856,39890,Hylobates funereus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Hylobates,funereus,,,,"I. Geoffroy, 1850",Endangered,A4cd,3.1,Decreasing,Global
+17990882,39889,Hylobates abbotti,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Hylobates,abbotti,,,,"Kloss, 1929",Endangered,A4cd,3.1,Decreasing,Global
+17990934,39888,Hylobates muelleri,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Hylobates,muelleri,,,,"Martin, 1841",Endangered,A4cd,3.1,Decreasing,Global
+18493355,6553,Dicerorhinus sumatrensis,ANIMALIA,CHORDATA,PERISSODACTYLA,MAMMALIA,RHINOCEROTIDAE,Dicerorhinus,sumatrensis,,,,"(G. Fischer, 1814)",Critically Endangered,A2cd+3cd+4cd; C2a(i); D,3.1,Decreasing,Global
+18493900,19495,Rhinoceros sondaicus,ANIMALIA,CHORDATA,PERISSODACTYLA,MAMMALIA,RHINOCEROTIDAE,Rhinoceros,sondaicus,,,,"Desmarest, 1822",Critically Endangered,D,3.1,Stable,Global
+18567171,10032,Choeropsis liberiensis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,HIPPOPOTAMIDAE,Choeropsis,liberiensis,,,,"(Morton, 1849)",Endangered,C1,3.1,Decreasing,Global
+21282528,136628,Microgale jobihely,ANIMALIA,CHORDATA,AFROSORICIDA,MAMMALIA,TENRECIDAE,Microgale,jobihely,,,,"Goodman, Raxworthy, Maminirina &amp; Olson, 2006",Endangered,B2ab(iii),3.1,Unknown,Global
+21283546,1087,Neamblysomus gunningi,ANIMALIA,CHORDATA,AFROSORICIDA,MAMMALIA,CHRYSOCHLORIDAE,Neamblysomus,gunningi,,,,"(Broom, 1908)",Endangered,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+21284544,62007,Amblysomus marleyi,ANIMALIA,CHORDATA,AFROSORICIDA,MAMMALIA,CHRYSOCHLORIDAE,Amblysomus,marleyi,,,,"Roberts, 1931",Endangered,"B1ab(ii,iii,v)+2ab(ii,iii,v)",3.1,Unknown,Global
+21285354,1089,Neamblysomus julianae,ANIMALIA,CHORDATA,AFROSORICIDA,MAMMALIA,CHRYSOCHLORIDAE,Neamblysomus,julianae,,,,"(Meester, 1972)",Endangered,B2ab(iii),3.1,Unknown,Global
+21286235,5749,Cryptochloris zyli,ANIMALIA,CHORDATA,AFROSORICIDA,MAMMALIA,CHRYSOCHLORIDAE,Cryptochloris,zyli,,,,"Shortridge & Carter, 1938",Endangered,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+21287143,5748,Cryptochloris wintoni,ANIMALIA,CHORDATA,AFROSORICIDA,MAMMALIA,CHRYSOCHLORIDAE,Cryptochloris,wintoni,,,,"(Broom, 1907)",Critically Endangered,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+21287265,19705,Rhynchocyon chrysopygus,ANIMALIA,CHORDATA,MACROSCELIDEA,MAMMALIA,MACROSCELIDIDAE,Rhynchocyon,chrysopygus,,,,"A. Günther, 1881",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+21289898,4828,Chrysospalax trevelyani,ANIMALIA,CHORDATA,AFROSORICIDA,MAMMALIA,CHRYSOCHLORIDAE,Chrysospalax,trevelyani,,,,"(Günther, 1875)",Endangered,"B2ab(i,ii,iii,iv,v)",3.1,Decreasing,Global
+21944584,16138,Parantechinus apicalis,ANIMALIA,CHORDATA,DASYUROMORPHIA,MAMMALIA,DASYURIDAE,Parantechinus,apicalis,,,,"(Gray, 1842)",Endangered,"B2ab(i,iii,iv,v)",3.1,Decreasing,Global
+21947190,6296,Dasyurus viverrinus,ANIMALIA,CHORDATA,DASYUROMORPHIA,MAMMALIA,DASYURIDAE,Dasyurus,viverrinus,,,,"(Shaw, 1800)",Endangered,A2b,3.1,Decreasing,Global
+21947321,6295,Dasyurus hallucatus,ANIMALIA,CHORDATA,DASYUROMORPHIA,MAMMALIA,DASYURIDAE,Dasyurus,hallucatus,,,,"Gould, 1842",Endangered,A2ce+3ce+4ce,3.1,Decreasing,Global
+21949380,14222,Myrmecobius fasciatus,ANIMALIA,CHORDATA,DASYUROMORPHIA,MAMMALIA,MYRMECOBIIDAE,Myrmecobius,fasciatus,,,,"Waterhouse, 1836",Endangered,C2a(i),3.1,Decreasing,Global
+21949526,136218,Ailurops melanotis,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,PHALANGERIDAE,Ailurops,melanotis,,,,"(O. Thomas, 1898)",Critically Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+21949788,20639,Spilocuscus rufoniger,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,PHALANGERIDAE,Spilocuscus,rufoniger,,,,"(Zimara, 1937)",Critically Endangered,A4cd,3.1,Decreasing,Global
+21950078,136443,Spilocuscus wilsoni,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,PHALANGERIDAE,Spilocuscus,wilsoni,,,,"K.M. Helgen &amp; Flannery, 2004",Critically Endangered,A2cd,3.1,Decreasing,Global
+21950608,16858,Phalanger alexandrae,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,PHALANGERIDAE,Phalanger,alexandrae,,,,"Flannery &amp; Boeadi, 1995",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+21950802,16851,Phalanger matanim,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,PHALANGERIDAE,Phalanger,matanim,,,,"Flannery, 1987",Critically Endangered,D,3.1,Unknown,Global
+21951419,16846,Phalanger lullulae,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,PHALANGERIDAE,Phalanger,lullulae,,,,"O. Thomas, 1896",Endangered,B1ab(iii),3.1,Stable,Global
+21952571,6794,Dorcopsis atrata,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Dorcopsis,atrata,,,,"Van Deusen, 1957",Critically Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+21955087,16761,Petrogale concinna,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Petrogale,concinna,,,,"Gould, 1842",Endangered,A3bce,3.1,Decreasing,Global
+21955261,16752,Petrogale coenensis,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Petrogale,coenensis,,,,"Eldridge &amp; Close, 1992",Endangered,B2ab(iii); C2a(i),3.1,Decreasing,Global
+21955635,16747,Petrogale persephone,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Petrogale,persephone,,,,"Maynes, 1982",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+21956108,6437,Dendrolagus mbaiso,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Dendrolagus,mbaiso,,,,"Flannery, Boeadi &amp; Szalay, 1995",Endangered,A2cd,3.1,Decreasing,Global
+21956375,6435,Dendrolagus scottae,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Dendrolagus,scottae,,,,"Flannery &amp; Seri, 1990",Critically Endangered,A2d,3.1,Stable,Global
+21956650,6433,Dendrolagus matschiei,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Dendrolagus,matschiei,,,,"Förster &amp; Rothschild, 1907",Endangered,C2a(ii),3.1,Decreasing,Global
+21956785,136668,Dendrolagus mayri,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Dendrolagus,mayri,,,,"Rothschild &amp; Dollman, 1933",Critically Endangered,D,3.1,Unknown,Global
+21957010,136732,Dendrolagus notatus,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Dendrolagus,notatus,,,,"Matschie, 1916",Endangered,A2cd,3.1,Decreasing,Global
+21957219,136696,Dendrolagus pulcherrimus,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Dendrolagus,pulcherrimus,,,,"Flannery, 1993",Critically Endangered,A1ad,3.1,Stable,Global
+21957524,6429,Dendrolagus goodfellowi,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Dendrolagus,goodfellowi,,,,"Thomas, 1908",Endangered,A2cd,3.1,Decreasing,Global
+21958371,136255,Thylogale lanata,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Thylogale,lanata,,,,"O. Thomas, 1922",Endangered,B1ab(v),3.1,Decreasing,Global
+21958741,21873,Thylogale calabyi,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Thylogale,calabyi,,,,"Flannery, 1992",Endangered,"B2ab(i,ii,iii,v)",3.1,Decreasing,Global
+21959050,11343,Lasiorhinus krefftii,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,VOMBATIDAE,Lasiorhinus,krefftii,,,,"(Owen, 1873)",Critically Endangered,B1ab(iii)+2ab(iii),3.1,Stable,Global
+21959298,16726,Petaurus abidi,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,PETAURIDAE,Petaurus,abidi,,,,"Ziegler, 1981",Critically Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+21959531,16727,Petaurus gracilis,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,PETAURIDAE,Petaurus,gracilis,,,,"(de Vis, 1883)",Endangered,B1ab(iii),3.1,Decreasing,Global
+21959976,9564,Gymnobelideus leadbeateri,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,PETAURIDAE,Gymnobelideus,leadbeateri,,,,"McCoy, 1867",Critically Endangered,A2abc+3bc+4abc,3.1,Decreasing,Global
+21960180,6224,Dactylopsila tatei,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,PETAURIDAE,Dactylopsila,tatei,,,,"Laurie, 1952",Endangered,B1ab(iii),3.1,Unknown,Global
+21960726,18107,Potorous gilbertii,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,POTOROIDAE,Potorous,gilbertii,,,,"(Gould, 1841)",Critically Endangered,D,3.1,Decreasing,Global
+21963100,18492,Pseudocheirus occidentalis,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,PSEUDOCHEIRIDAE,Pseudocheirus,occidentalis,,,,"(Thomas, 1888)",Critically Endangered,A2bce+3bce+4bce,3.1,Decreasing,Global
+21964204,23179,Zaglossus bruijnii,ANIMALIA,CHORDATA,MONOTREMATA,MAMMALIA,TACHYGLOSSIDAE,Zaglossus,bruijnii,,,,"(Peters &amp; Doria, 1876)",Critically Endangered,A2acd,3.1,Decreasing,Global
+21964353,136322,Zaglossus attenboroughi,ANIMALIA,CHORDATA,MONOTREMATA,MAMMALIA,TACHYGLOSSIDAE,Zaglossus,attenboroughi,,,,"Flannery &amp; Groves, 1998",Critically Endangered,"B1ab(iii,v)+2ab(iii,v)",3.1,Decreasing,Global
+21965270,16710,Peroryctes broadbenti,ANIMALIA,CHORDATA,PERAMELEMORPHIA,MAMMALIA,PERAMELIDAE,Peroryctes,broadbenti,,,,"(Ramsay, 1879)",Endangered,A4cd,3.1,Decreasing,Global
+21966774,7017,Echymipera davidi,ANIMALIA,CHORDATA,PERAMELEMORPHIA,MAMMALIA,PERAMELIDAE,Echymipera,davidi,,,,"Flannery, 1990",Endangered,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+21967091,19711,Rhynchomeles prattorum,ANIMALIA,CHORDATA,PERAMELEMORPHIA,MAMMALIA,PERAMELIDAE,Rhynchomeles,prattorum,,,,"Thomas, 1920",Endangered,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+21969562,16573,Perameles fasciata,ANIMALIA,CHORDATA,PERAMELEMORPHIA,MAMMALIA,PERAMELIDAE,Perameles,fasciata,,,,"J.E. Gray, 1841",Extinct,,3.1,,Global
+21974958,136504,Pteropus aruensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,aruensis,,,,"Peters, 1867",Critically Endangered,D,3.1,Unknown,Global
+21975053,21982,Tomopeas ravus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,MOLOSSIDAE,Tomopeas,ravus,,,,"Miller, 1900",Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+21975149,10966,Kerivoula africana,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Kerivoula,africana,,,,"Dobson, 1878",Endangered,"B2ab(iii,iv)",3.1,Decreasing,Global
+21978925,19549,Rhinolophus maclaudi,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOLOPHIDAE,Rhinolophus,maclaudi,,,,"Pousargues, 1897",Endangered,B2ab(iii),3.1,Decreasing,Global
+21979633,136534,Styloctenium mindorensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Styloctenium,mindorensis,,,,"Esselstyn, 2007",Endangered,"B1ab(i,iii,v)",3.1,Decreasing,Global
+21979719,136531,Pteropus ualanus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,ualanus,,,,"Peters, 1883",Endangered,B1ab(iii),3.1,Stable,Global
+21980043,19542,Rhinolophus guineensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOLOPHIDAE,Rhinolophus,guineensis,,,,"Eisentraut, 1960",Endangered,"B2ab(i,ii,iii,v)",3.1,Decreasing,Global
+21981234,4321,Mops tomensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,MOLOSSIDAE,Mops,tomensis,,,,"(Juste &amp; Ibáñez, 1993)",Endangered,B1ab(iii),3.1,Decreasing,Global
+21981807,19533,Rhinolophus cognatus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOLOPHIDAE,Rhinolophus,cognatus,,,,"K. Andersen, 1906",Endangered,B2ab(iv),3.1,Decreasing,Global
+21982137,136519,Notopteris neocaledonicus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Notopteris,neocaledonicus,,,,"Trouessart, 1908",Endangered,"B1ab(i,ii,iii,v); C1",3.1,Decreasing,Global
+21984825,4420,Chalinolobus neocaledonicus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Chalinolobus,neocaledonicus,,,,"Revilliod, 1914",Endangered,C2a(ii),3.1,Decreasing,Global
+21985022,136420,Saccopteryx antioquensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,EMBALLONURIDAE,Saccopteryx,antioquensis,,,,"Muñoz &amp; Cuartas, 2001",Endangered,B1ab(iii),3.1,Unknown,Global
+21985132,4425,Chalinolobus tuberculatus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Chalinolobus,tuberculatus,,,,"(Forster, 1844)",Critically Endangered,A2ace,3.1,Decreasing,Global
+21987754,136610,Pteronotus paraguanensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,MORMOOPIDAE,Pteronotus,paraguanensis,,,,"Linares &amp; Ojasti, 1974",Endangered,B1ab(iii),3.1,Decreasing,Global
+21988328,139,Acerodon jubatus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Acerodon,jubatus,,,,"(Eschscholtz, 1831)",Endangered,A2cd,3.1,Decreasing,Global
+21989676,19680,Rhogeessa genowaysi,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Rhogeessa,genowaysi,,,,"Baker, 1984",Endangered,B1ab(iii),3.1,Decreasing,Global
+21994639,19562,Rhinolophus rex,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOLOPHIDAE,Rhinolophus,rex,,,,"G.M. Allen, 1923",Endangered,C2a(ii),3.1,Decreasing,Global
+21998747,136587,Pteralopex flanneryi,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteralopex,flanneryi,,,,"Helgen, 2005",Critically Endangered,A2cd,3.1,Decreasing,Global
+22008716,14953,Nyctimene rabori,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Nyctimene,rabori,,,,"Heaney &amp; Peterson, 1984",Endangered,C2a(i),3.1,Decreasing,Global
+22009211,15006,Nyctophilus howensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Nyctophilus,howensis,,,,"McKean, 1975",Extinct,,3.1,,Global
+22017829,4320,Mops solomonis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,MOLOSSIDAE,Mops,solomonis,,,,"(Troughton, 1931)",Endangered,"B2ab(ii,iii,v)",3.1,Decreasing,Global
+22033978,6773,Dobsonia chapmani,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Dobsonia,chapmani,,,,"Rabor, 1952",Critically Endangered,"C2a(i,ii); D",3.1,Decreasing,Global
+22037238,4665,Chiroderma improvisum,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PHYLLOSTOMIDAE,Chiroderma,improvisum,,,,"Baker &amp; Genoways, 1976",Endangered,"B1ab(i,ii,iii)",3.1,Unknown,Global
+22038028,136685,Pteropus rennelli,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,rennelli,,,,"Troughton, 1929",Endangered,"B1ab(ii,iii)",3.1,Decreasing,Global
+22038149,12264,Lonchophylla dekeyseri,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PHYLLOSTOMIDAE,Lonchophylla,dekeyseri,,,,"Taddei, Vizotto &amp; Sazima, 1983",Endangered,C2a(i),3.1,Decreasing,Global
+22038287,12263,Lonchophylla bokermanni,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PHYLLOSTOMIDAE,Lonchophylla,bokermanni,,,,"Sazima, Vizotto &amp; Taddei , 1978",Endangered,B1ab(iii),3.1,Unknown,Global
+22039142,12271,Lonchorhina fernandezi,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PHYLLOSTOMIDAE,Lonchorhina,fernandezi,,,,"Ochoa &amp; Ibanez, 1982",Endangered,D,3.1,Decreasing,Global
+22042779,136807,Nyctophilus nebulosus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Nyctophilus,nebulosus,,,,"Parnaby, 2002",Critically Endangered,"B1ab(i,ii,iii,v)+2ab(i,ii,iii,v); C2a(ii)",3.1,Decreasing,Global
+22043871,136824,Natalus jamaicensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,NATALIDAE,Natalus,jamaicensis,,,,"Goodwin, 1959",Critically Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+22046657,14097,Myonycteris brachycephala,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Myonycteris,brachycephala,,,,"(Bocage, 1889)",Endangered,B1ab(iii),3.1,Decreasing,Global
+22050195,20958,Sturnira nana,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PHYLLOSTOMIDAE,Sturnira,nana,,,,"Gardner &amp; O'Neill, 1971",Endangered,B2ab(iii),3.1,Unknown,Global
+22050638,14143,Myotis atacamensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Myotis,atacamensis,,,,"(Lataste, 1892)",Endangered,"B2ab(ii,iii)",3.1,Unknown,Global
+22055716,14172,Myotis leibii,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Myotis,leibii,,,,"(Audubon &amp; Bachman, 1842)",Endangered,A4bce,3.1,Decreasing,Global
+22058800,14159,Myotis findleyi,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Myotis,findleyi,,,,"Bogan, 1978",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+22060323,40036,Tadarida latouchei,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,MOLOSSIDAE,Tadarida,latouchei,,,,"Thomas, 1920",Endangered,C1; D,3.1,Decreasing,Global
+22066405,14189,Myotis peninsularis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Myotis,peninsularis,,,,"Miller, 1898",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+22066512,29485,Murina ryukyuana,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Murina,ryukyuana,,,,"Maeda &amp; Matsumura, 1998",Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+22066742,14191,Myotis planiceps,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Myotis,planiceps,,,,"Baker, 1955",Endangered,D,3.1,Decreasing,Global
+22067834,44784,Rhinolophus ruwenzorii,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOLOPHIDAE,Rhinolophus,ruwenzorii,,,,"Hill, 1942",Endangered,"B2ab(ii,iii,v)",3.1,Decreasing,Global
+22068674,44786,Rhinolophus ziama,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOLOPHIDAE,Rhinolophus,ziama,,,,"Fahr, Vierhaus, Hutterer &amp; Kock, 2002",Endangered,B2ab(iii),3.1,Decreasing,Global
+22070387,14260,Mystacina robusta,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,MYSTACINIDAE,Mystacina,robusta,,,,"Dwyer, 1962",Critically Endangered,D,3.1,Unknown,Global
+22071017,18655,Mirimiri acrodonta,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Mirimiri,acrodonta,,,,"(Hill &amp; Beckon, 1978)",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+22071126,18656,Pteralopex anceps,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteralopex,anceps,,,,"K. Andersen, 1909",Endangered,A2c,3.1,Decreasing,Global
+22074222,18657,Pteralopex atrata,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteralopex,atrata,,,,"Thomas, 1888",Endangered,A2cd,3.1,Decreasing,Global
+22078015,18718,Pteropus brunneus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,brunneus,,,,"Dobson, 1878",Extinct,,3.1,,Global
+22079192,18714,Pteropus aldabrensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,aldabrensis,,,,"True, 1893",Endangered,"B1ab(i,ii,iii)+2ab(i,ii,iii); D",3.1,Stable,Global
+22080230,18723,Pteropus faunulus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,faunulus,,,,"Miller, 1902",Endangered,"B1ab(i,ii,iii,iv,v)",3.1,Decreasing,Global
+22080348,18724,Pteropus fundatus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,fundatus,,,,"Felten &amp; Kock, 1972",Endangered,B1ab(iii),3.1,Unknown,Global
+22080456,18721,Pteropus conspicillatus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,conspicillatus,,,,"Gould, 1850",Endangered,A2abcde+3bcde+4abcde,3.1,Decreasing,Global
+22080900,18728,Pteropus howensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,howensis,,,,"Troughton, 1931",Critically Endangered,C2a(ii),3.1,Decreasing,Global
+22081930,85043053,Pteropus pelagicus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,pelagicus,,,,"Kittlitz, 1836",Endangered,"A2abcd; B2ab(ii,iii,iv,v); C1",3.1,Decreasing,Global
+22082983,18739,Pteropus melanopogon,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,melanopogon,,,,"Peters, 1867",Endangered,A3cd,3.1,Decreasing,Global
+22083400,188566753,Pteropus mariannus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,mariannus,,,,"Desmarest, 1822",Endangered,"B2ab(ii,iii,iv,v)c(ii,iii,iv)",3.1,Decreasing,Global
+22083923,18744,Pteropus nitendiensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,nitendiensis,,,,"Sanborn, 1930",Endangered,"B1ab(ii,iii,v)+2ab(ii,iii,v)",3.1,Decreasing,Global
+22084572,18741,Pteropus molossinus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,molossinus,,,,"Temminck, 1853",Endangered,"B1ab(i,ii,iii,iv)+2ab(i,ii,iii,iv)",3.1,Stable,Global
+22085232,71733227,Mormopterus acetabulosus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,MOLOSSIDAE,Mormopterus,acetabulosus,,,,"(Hermann, 1804)",Endangered,A2b; B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+22085351,18752,Pteropus pselaphon,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,pselaphon,,,,"Lay, 1829",Endangered,"B2ab(ii,iii,iv); D",3.1,Stable,Global
+22086230,18749,Pteropus pilosus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,pilosus,,,,"K. Andersen, 1908",Extinct,,3.1,,Global
+22087057,18755,Pteropus rodricensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,rodricensis,,,,"Dobson, 1878",Endangered,B1ac(iv)+2ac(iv),3.1,Increasing,Global
+22088168,18761,Pteropus subniger,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,subniger,,,,"(Kerr, 1792)",Extinct,,3.1,,Global
+22088402,18763,Pteropus tokudae,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,tokudae,,,,"Tate, 1934",Extinct,,3.1,,Global
+22088712,18765,Pteropus tuberculatus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,tuberculatus,,,,"Peters, 1869",Endangered,"B1ab(i,ii,iii,v)+2ab(i,ii,iii,v)",3.1,Decreasing,Global
+22088824,18766,Pteropus vampyrus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,vampyrus,,,,"(Linnaeus, 1758)",Endangered,A2bcd,3.1,Decreasing,Global
+22091938,10141,Hipposideros lamottei,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,HIPPOSIDERIDAE,Hipposideros,lamottei,,,,"Brosset, 1985",Critically Endangered,"B1ab(i,iii,v)",3.1,Decreasing,Global
+22092730,10138,Hipposideros hypophyllus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,HIPPOSIDERIDAE,Hipposideros,hypophyllus,,,,"Kock &amp; Bhat, 1994",Critically Endangered,"B1ab(iii,iv,v)+2ab(iii,iv,v); C2a(ii)",3.1,Decreasing,Global
+22095744,10127,Hipposideros demissus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,HIPPOSIDERIDAE,Hipposideros,demissus,,,,"K. Andersen, 1909",Endangered,"B1ab(i,ii,iii)+2ab(i,ii,iii)",3.1,Unknown,Global
+22096364,10125,Hipposideros curtus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,HIPPOSIDERIDAE,Hipposideros,curtus,,,,"G.M. Allen, 1921",Endangered,A2c,3.1,Decreasing,Global
+22096705,13948,Murina tenebrosa,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Murina,tenebrosa,,,,"Yoshiyuki, 1970",Critically Endangered,D,3.1,Unknown,Global
+22096963,10123,Hipposideros coxi,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,HIPPOSIDERIDAE,Hipposideros,coxi,,,,"Shelford, 1901",Endangered,B2ab(iii),3.1,Decreasing,Global
+22099115,10161,Hipposideros sorenseni,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,HIPPOSIDERIDAE,Hipposideros,sorenseni,,,,"Kitchener &amp; Maryanto, 1993",Endangered,B1ab(iii),3.1,Unknown,Global
+22099660,80224148,Hipposideros turpis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,HIPPOSIDERIDAE,Hipposideros,turpis,,,,"Bangs, 1901",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+22103451,13570,Miniopterus robustior,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,MINIOPTERIDAE,Miniopterus,robustior,,,,"Revilliod, 1914",Endangered,"B1ab(i,ii,iii,v)+2ab(i,ii,iii,v)",3.1,Decreasing,Global
+22103756,11374,Latidens salimalii,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Latidens,salimalii,,,,"Thonglongya, 1972",Endangered,C1,3.1,Decreasing,Global
+22109325,13638,Cabreramops aequatorianus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,MOLOSSIDAE,Cabreramops,aequatorianus,,,,"(Cabrera, 1917)",Endangered,B1ab(iii),3.1,Unknown,Global
+22111960,21456,Taphozous hildegardeae,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,EMBALLONURIDAE,Taphozous,hildegardeae,,,,"Thomas, 1909",Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+22117922,7929,Eptesicus guadeloupensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Eptesicus,guadeloupensis,,,,"Genoways &amp; R.J. Baker, 1975",Endangered,"B1ab(iii,iv)",3.1,Unknown,Global
+22123157,17365,Pipistrellus sturdeei,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Pipistrellus,sturdeei,,,,"Thomas, 1915",Extinct,,3.1,,Global
+22126172,11697,Leptonycteris nivalis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PHYLLOSTOMIDAE,Leptonycteris,nivalis,,,,"(Saussure, 1860)",Endangered,A2c,3.1,Decreasing,Global
+22133396,17173,Phyllonycteris aphylla,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PHYLLOSTOMIDAE,Phyllonycteris,aphylla,,,,"(Miller, 1898)",Critically Endangered,C2a(i),3.1,Decreasing,Global
+22135085,7669,Emballonura semicaudata,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,EMBALLONURIDAE,Emballonura,semicaudata,,,,"(Peale, 1848)",Endangered,A2abce,3.1,Decreasing,Global
+22143809,3794,Capra caucasica,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Capra,caucasica,,,,"Güldenstädt &amp; Pallas, 1783",Endangered,"B1ab(i,iii,v)",3.1,Decreasing,Global
+22153828,44703,Muntiacus vuquangensis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,CERVIDAE,Muntiacus,vuquangensis,,,,"(Do Tuoc, Vu Van Dung, Dawson, Arctander &amp; Mackinnon, 1994)",Critically Endangered,A3cd+4cd,3.1,Decreasing,Global
+22156678,2446,Axis calamianensis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,CERVIDAE,Axis,calamianensis,,,,"(Heude, 1888)",Endangered,"B1ab(i,iii,v)",3.1,Decreasing,Global
+22157664,41784,Axis porcinus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,CERVIDAE,Axis,porcinus,,,,"(Zimmermann, 1780)",Endangered,A2bcd,3.1,Decreasing,Global
+22158895,10054,Hippocamelus bisulcus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,CERVIDAE,Hippocamelus,bisulcus,,,,"Molina, 1782",Endangered,"B2ab(i,ii,iii,iv,v); C2a(i)",3.1,Decreasing,Global
+22159785,7121,Elaphurus davidianus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,CERVIDAE,Elaphurus,davidianus,,,,"Milne-Edwards, 1866",Extinct in the Wild,,3.1,,Global
+22166803,4265,Rucervus eldii,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,CERVIDAE,Rucervus,eldii,,,,"(M'Clelland, 1842)",Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+22168782,4273,Rusa alfredi,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,CERVIDAE,Rusa,alfredi,,,,"Sclater, 1870",Endangered,C2a(i),3.1,Decreasing,Global
+22171555,13703,Monodelphis unistriata,ANIMALIA,CHORDATA,DIDELPHIMORPHIA,MAMMALIA,DIDELPHIDAE,Monodelphis,unistriata,,,,"(Wagner, 1842)",Critically Endangered,D,3.1,Unknown,Global
+22177809,41320,Cryptonanus ignitus,ANIMALIA,CHORDATA,DIDELPHIMORPHIA,MAMMALIA,DIDELPHIDAE,Cryptonanus,ignitus,,,,"(Díaz, Flores &amp; Barquez, 2002)",Extinct,,3.1,,Global
+22179321,12820,Marmosops handleyi,ANIMALIA,CHORDATA,DIDELPHIMORPHIA,MAMMALIA,DIDELPHIDAE,Marmosops,handleyi,,,,"(Pine, 1981)",Critically Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+22182349,18,Abrocoma boliviensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,ABROCOMIDAE,Abrocoma,boliviensis,,,,"Glanz &amp; Anderson, 1990",Critically Endangered,"B1ab(i,ii,iii)",3.1,Decreasing,Global
+22186197,13216,Mesocapromys auritus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CAPROMYIDAE,Mesocapromys,auritus,,,,"(Varona, 1970)",Endangered,B1ab(iii)+2ab(iii); C2a(ii),3.1,Unknown,Global
+22186569,9001,Geocapromys brownii,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CAPROMYIDAE,Geocapromys,brownii,,,,"(J. Fischer, 1830)",Endangered,"B1ab(i,iii,iv)",3.1,Decreasing,Global
+22186735,9003,Geocapromys thoracatus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CAPROMYIDAE,Geocapromys,thoracatus,,,,"(True, 1888)",Extinct,,3.1,,Global
+22186798,9004,Geocapromys columbianus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CAPROMYIDAE,Geocapromys,columbianus,,,,"(J. Fischer, 1829)",Extinct,,3.1,,Global
+22186876,10860,Isolobodon portoricensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CAPROMYIDAE,Isolobodon,portoricensis,,,,"Allen, 1916",Extinct,,3.1,,Global
+22186956,10859,Isolobodon montanus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CAPROMYIDAE,Isolobodon,montanus,,,,"(Miller, 1922)",Extinct,,3.1,,Global
+22187167,10034,Hexolobodon phenax,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CAPROMYIDAE,Hexolobodon,phenax,,,,"Miller, 1929",Extinct,,3.1,,Global
+22187847,17462,Plagiodontia ipnaeum,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CAPROMYIDAE,Plagiodontia,ipnaeum,,,,"Johnson, 1948",Extinct,,3.1,,Global
+22191157,4651,Chinchilla chinchilla,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CHINCHILLIDAE,Chinchilla,chinchilla,,,,"(Lichtenstein, 1829)",Endangered,"B2ab(i,iii)",3.1,Decreasing,Global
+22192079,5797,Ctenomys azarae,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CTENOMYIDAE,Ctenomys,azarae,,,,"Thomas, 1903",Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+22192271,5799,Ctenomys bonettoi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CTENOMYIDAE,Ctenomys,bonettoi,,,,"Contreras &amp; Berry, 1982",Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+22193077,136633,Ctenomys roigi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CTENOMYIDAE,Ctenomys,roigi,,,,"Contreras, 1988",Critically Endangered,"B1ab(i,ii)+2ab(i,ii)",3.1,Decreasing,Global
+22193418,136635,Ctenomys rionegrensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CTENOMYIDAE,Ctenomys,rionegrensis,,,,"Langguth &amp; Abella, 1970",Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+22193629,5809,Ctenomys latro,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CTENOMYIDAE,Ctenomys,latro,,,,"Thomas, 1918",Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+22194037,136370,Ctenomys pundti,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CTENOMYIDAE,Ctenomys,pundti,,,,"Nehring, 1920",Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+22194328,5817,Ctenomys occultus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CTENOMYIDAE,Ctenomys,occultus,,,,"Thomas, 1920",Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+22195057,136390,Ctenomys osvaldoreigi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CTENOMYIDAE,Ctenomys,osvaldoreigi,,,,"Contreras, 1995",Critically Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+22195323,5826,Ctenomys sociabilis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CTENOMYIDAE,Ctenomys,sociabilis,,,,"Pearson &amp; Christie, 1985",Critically Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+22195989,136289,Ctenomys pilarensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CTENOMYIDAE,Ctenomys,pilarensis,,,,"Contreras, 1993",Endangered,"B1ab(i,ii,iii,v)+2ab(i,ii,iii,v)",3.1,Decreasing,Global
+22196510,136687,Ctenomys bergi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CTENOMYIDAE,Ctenomys,bergi,,,,"Thomas, 1902",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+22196926,136464,Ctenomys flamarioni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CTENOMYIDAE,Ctenomys,flamarioni,,,,"Travi, 1981",Endangered,"B2ab(i,ii,iii,v)",3.1,Decreasing,Global
+22198054,6287,Dasyprocta ruatanica,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,DASYPROCTIDAE,Dasyprocta,ruatanica,,,,"Thomas, 1901",Endangered,"B1ab(ii,iii,v)",3.1,Decreasing,Global
+22198164,6285,Dasyprocta mexicana,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,DASYPROCTIDAE,Dasyprocta,mexicana,,,,"Saussure, 1860",Critically Endangered,A2cd,3.1,Decreasing,Global
+22204773,20185,Sicista armenica,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SMINTHIDAE,Sicista,armenica,,,,"Sokolov &amp; Baskevich, 1988",Critically Endangered,B1ab(iv)+2ab(iv),3.1,Decreasing,Global
+22205792,3121,Brotomys voratus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,ECHIMYIDAE,Brotomys,voratus,,,,"Miller, 1916",Extinct,,3.1,,Global
+22205961,10025,Heteropsomys insulans,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,ECHIMYIDAE,Heteropsomys,insulans,,,,"Anthony, 1916",Extinct,,3.1,,Global
+22206052,2885,Boromys offella,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,ECHIMYIDAE,Boromys,offella,,,,"Miller, 1916",Extinct,,3.1,,Global
+22206099,2886,Boromys torrei,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,ECHIMYIDAE,Boromys,torrei,,,,"Allen, 1917",Extinct,,3.1,,Global
+22209830,6978,Phyllomys brasiliensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,ECHIMYIDAE,Phyllomys,brasiliensis,,,,"Lund, 1840",Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+22210553,136400,Phyllomys lundi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,ECHIMYIDAE,Phyllomys,lundi,,,,"Leite, 2003",Endangered,B1ab(iii),3.1,Decreasing,Global
+22210643,6990,Phyllomys unicolor,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,ECHIMYIDAE,Phyllomys,unicolor,,,,"(Wagner, 1842)",Critically Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+22210858,136274,Phyllomys mantiqueirensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,ECHIMYIDAE,Phyllomys,mantiqueirensis,,,,"Leite, 2003",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+22210948,6664,Santamartamys rufodorsalis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,ECHIMYIDAE,Santamartamys,rufodorsalis,,,,"(J.A. Allen, 1899)",Critically Endangered,D,3.1,Unknown,Global
+22211597,136543,Trinomys moojeni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,ECHIMYIDAE,Trinomys,moojeni,,,,"(Pessôa, Oliveira &amp; Reis, 1992)",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+22212204,136414,Trinomys yonenagae,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,ECHIMYIDAE,Trinomys,yonenagae,,,,"(Rocha, 1995)",Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+22215417,42591,Heterogeomys lanius,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,GEOMYIDAE,Heterogeomys,lanius,,,,"(Elliot, 1905)",Critically Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+22216603,23323,Zygogeomys trichopus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,GEOMYIDAE,Zygogeomys,trichopus,,,,"Merriam, 1895",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+22218038,9056,Geomys tropicalis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,GEOMYIDAE,Geomys,tropicalis,,,,"Goldman, 1915",Endangered,"B1ab(ii,iii)+2ab(ii,iii)",3.1,Decreasing,Global
+22223558,136638,Heteromys oasicus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,HETEROMYIDAE,Heteromys,oasicus,,,,"Anderson, 2003",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+22225458,12077,Heteromys spectabilis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,HETEROMYIDAE,Heteromys,spectabilis,,,,"(Genoways, 1971)",Endangered,B1ab(iii),3.1,Decreasing,Global
+22227742,6676,Dipodomys gravipes,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,HETEROMYIDAE,Dipodomys,gravipes,,,,"Huey, 1925",Critically Endangered,D,3.1,Unknown,Global
+22234587,6439,Dendromus kahuziensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,NESOMYIDAE,Dendromus,kahuziensis,,,,"Dieterlen, 1969",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+22236108,165925,Voalavo antsahabensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,NESOMYIDAE,Voalavo,antsahabensis,,,,"Goodman, Rakotondravony, Randriamanantsoa &amp; Rakotomalala-Razanahoera, 2005",Endangered,B1ab(iii),3.1,Unknown,Global
+22238746,7624,Eliurus penicillatus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,NESOMYIDAE,Eliurus,penicillatus,,,,"Thomas, 1908",Endangered,"B1ab(i,ii,iii)",3.1,Unknown,Global
+22238985,136316,Eliurus petteri,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,NESOMYIDAE,Eliurus,petteri,,,,"Carleton, 1994",Endangered,"B1ab(i,ii,iii)",3.1,Unknown,Global
+22243951,10606,Hylopetes sipora,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Hylopetes,sipora,,,,"Chasen, 1940",Endangered,"B1ab(ii,iii)",3.1,Decreasing,Global
+22245307,18703,Pteromyscus pulverulentus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Pteromyscus,pulverulentus,,,,"(Günther, 1873)",Endangered,A2c+3c+4c,3.1,Decreasing,Global
+22250725,21378,Tamiasciurus mearnsi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Tamiasciurus,mearnsi,,,,"Townsend, 1897",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+22251492,1149,Ammospermophilus nelsoni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Ammospermophilus,nelsoni,,,,"(Merriam, 1893)",Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+22251841,8269,Eupetaurus cinereus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Eupetaurus,cinereus,,,,"Thomas, 1888",Endangered,C1,3.1,Decreasing,Global
+22258643,12832,Marmota sibirica,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Marmota,sibirica,,,,"(Radde, 1862)",Endangered,A2ad,3.1,Decreasing,Global
+22259184,12828,Marmota vancouverensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Marmota,vancouverensis,,,,"Swarth, 1911",Critically Endangered,C1+2a(i),3.1,Decreasing,Global
+22260975,6090,Cynomys parvidens,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Cynomys,parvidens,,,,"J. A. Allen, 1905",Endangered,B2ab(iii),3.1,Decreasing,Global
+22264586,20489,Xerospermophilus perotensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Xerospermophilus,perotensis,,,,"Merriam, 1893",Endangered,B1ab(iii),3.1,Decreasing,Global
+22267875,21355,Neotamias palmeri,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Neotamias,palmeri,,,,"(Merriam, 1897)",Endangered,B1ab(iii),3.1,Decreasing,Global
+22281466,41313,Nesophontes edithae,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,NESOPHONTIDAE,Nesophontes,edithae,,,,"Anthony, 1916",Extinct,,3.1,,Global
+22281556,14676,Nesophontes zamicrus,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,NESOPHONTIDAE,Nesophontes,zamicrus,,,,"Miller, 1929",Extinct,,3.1,,Global
+22281612,14673,Nesophontes micrus,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,NESOPHONTIDAE,Nesophontes,micrus,,,,"G.M. Allen, 1917",Extinct,,3.1,,Global
+22281668,14674,Nesophontes paramicrus,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,NESOPHONTIDAE,Nesophontes,paramicrus,,,,"Miller, 1929",Extinct,,3.1,,Global
+22281724,14672,Nesophontes hypomicrus,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,NESOPHONTIDAE,Nesophontes,hypomicrus,,,,"Miller, 1929",Extinct,,3.1,,Global
+22281785,136381,Nesophontes major,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,NESOPHONTIDAE,Nesophontes,major,,,,"Arredondo, 1970",Extinct,,3.1,,Global
+22281839,4648,Chimarrogale phaeura,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Chimarrogale,phaeura,,,,"Thomas, 1898",Endangered,B1ab(iii),3.1,Decreasing,Global
+22283802,136299,Cryptotis merus,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Cryptotis,merus,,,,"Goldman, 1912",Endangered,B1ab(iii),3.1,Decreasing,Global
+22284939,136389,Cryptotis nelsoni,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Cryptotis,nelsoni,,,,"(Merriam, 1895)",Critically Endangered,"B1ab(i,iii)",3.1,Unknown,Global
+22285253,5763,Cryptotis endersi,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Cryptotis,endersi,,,,"Setzer, 1950",Endangered,B1ab(iii),3.1,Unknown,Global
+22286334,14111,Myosorex blarina,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Myosorex,blarina,,,,"Thomas, 1906",Endangered,B1ab(iii),3.1,Decreasing,Global
+22286725,14108,Myosorex longicaudatus,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Myosorex,longicaudatus,,,,"Meester & Dippenaar, 1978",Endangered,"B1ab(ii,iii)",3.1,Decreasing,Global
+22287436,110662121,Myosorex tenuis,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Myosorex,tenuis,,,,"Thomas &amp; Schwann, 1905",Endangered,"B2ab(ii,iii,iv)",3.1,Decreasing,Global
+22287518,45047,Myosorex kihaulei,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Myosorex,kihaulei,,,,"Stanley &amp; Hutterer, 2000",Endangered,B1ab(iii),3.1,Decreasing,Global
+22289100,21148,Suncus zeylanicus,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Suncus,zeylanicus,,,,"Phillips, 1928",Endangered,B2ab(iii),3.1,Decreasing,Global
+22289522,136224,Suncus aequatorius,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Suncus,aequatorius,,,,"Heller, 1912",Endangered,B1ab(iii),3.1,Unknown,Global
+22289813,21143,Suncus fellowesgordoni,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Suncus,fellowesgordoni,,,,"Phillips, 1932",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+22292753,8553,Feroculus feroculus,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Feroculus,feroculus,,,,"(Kelaart, 1850)",Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+22298060,5609,Crocidura negrina,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,negrina,,,,"Rabor, 1952",Endangered,B1ab(iii),3.1,Decreasing,Global
+22298694,5608,Crocidura miya,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,miya,,,,"Phillips, 1929",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+22301535,5636,Crocidura picea,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,picea,,,,"Sanderson, 1940",Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+22308615,136596,Crocidura hikmiya,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,hikmiya,,,,"Meegaskumbura, Meegaskumbura, Pethiyagoda, Manamendra-Arachchi &amp; Schneider, 2007",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+22311139,41360,Crocidura tarella,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,tarella,,,,"Dollman, 1915",Endangered,B1ab(iii),3.1,Decreasing,Global
+22314622,20391,Sorex pribilofensis,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Sorex,pribilofensis,,,,"Merriam, 1895",Endangered,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+22316681,20395,Sorex stizodon,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Sorex,stizodon,,,,"Merriam, 1895",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+22316927,20394,Sorex sclateri,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Sorex,sclateri,,,,"Merriam, 1897",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+22319797,20332,Solisorex pearsoni,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Solisorex,pearsoni,,,,"Thomas, 1924",Endangered,B1ab(iii),3.1,Unknown,Global
+22326149,17829,Podogymnura aureospinula,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,ERINACEIDAE,Podogymnura,aureospinula,,,,"Heaney &amp; Morgan, 1982",Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+22326961,10588,Neohylomys hainanensis,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,ERINACEIDAE,Neohylomys,hainanensis,,,,"T.H. Shaw &amp; Wong Song, 1959",Endangered,B1ab(iii),3.1,Decreasing,Global
+22327069,20322,Solenodon marcanoi,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SOLENODONTIDAE,Solenodon,marcanoi,,,,"(Patterson, 1962)",Extinct,,3.1,,Global
+22327125,20320,Atopogale cubana,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SOLENODONTIDAE,Atopogale,cubana,,,,"(Peters, 1861)",Endangered,B1ab(iii),3.1,Decreasing,Global
+22328169,15611,Casiomys rhabdops,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Casiomys,rhabdops,,,,"(C.H. Merriam, 1901)",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+22330151,15597,Mindomys hammondi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Mindomys,hammondi,,,,"(Thomas, 1913)",Endangered,"B2ab(i,ii,iii,iv,v)",3.1,Decreasing,Global
+22330270,136657,Megaoryzomys curioi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Megaoryzomys,curioi,,,,"(Niethammer, 1964)",Extinct,,3.1,,Global
+22333193,136692,Noronhomys vespuccii,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Noronhomys,vespuccii,,,,"Carleton &amp; Olson, 1999",Extinct,,3.1,,Global
+22333946,136468,Microakodontomys transitorius,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Microakodontomys,transitorius,,,,"Hershkovitz, 1993",Endangered,B2ab(iii),3.1,Decreasing,Global
+22338391,14486,Nelsonia goldmani,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Nelsonia,goldmani,,,,"Merriam, 1903",Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+22340265,22570,Tylomys bullaris,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Tylomys,bullaris,,,,"Merriam, 1901",Critically Endangered,"B1ab(i,ii,iii,iv,v)+2ab(i,ii,iii,iv,v); D",3.1,Decreasing,Global
+22340781,22575,Tylomys tumbalensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Tylomys,tumbalensis,,,,"Merriam, 1901",Critically Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+22341847,17225,Phyllotis definitus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Phyllotis,definitus,,,,"Osgood, 1915",Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+22344408,13048,Melanomys zunigae,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Melanomys,zunigae,,,,"(Sanborn, 1949)",Critically Endangered,"B2ab(i,iii)",3.1,Decreasing,Global
+22346455,42635,Microtus umbrosus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Microtus,umbrosus,,,,"Merriam, 1898",Endangered,"B1ab(i,ii,iii)+2ab(i,ii,iii)",3.1,Decreasing,Global
+22346873,13449,Microtus oaxacensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Microtus,oaxacensis,,,,"Goodwin, 1966",Endangered,B1ab(iii),3.1,Decreasing,Global
+22353381,12941,Megadontomys nelsoni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Megadontomys,nelsoni,,,,"(Merriam, 1898)",Endangered,B2ab(iii),3.1,Decreasing,Global
+22353461,12942,Megadontomys thomasi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Megadontomys,thomasi,,,,"(Merriam, 1898)",Endangered,"B1ab(i,iii)",3.1,Stable,Global
+22353517,12940,Megadontomys cryophilus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Megadontomys,cryophilus,,,,"(Musser, 1964)",Endangered,B1ab(iii),3.1,Decreasing,Global
+22354600,19484,Rheomys mexicanus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Rheomys,mexicanus,,,,"Goodwin, 1959",Endangered,B1ab(iii),3.1,Unknown,Global
+22357957,15255,Oligoryzomys victus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Oligoryzomys,victus,,,,"(Thomas, 1898)",Extinct,,3.1,,Global
+22360252,16657,Peromyscus dickeyi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,dickeyi,,,,"Burt, 1932",Critically Endangered,B1ac(iv)+2ac(iv),3.1,Stable,Global
+22361002,16671,Peromyscus madrensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,madrensis,,,,"Merriam, 1898",Endangered,"B1ab(iv,v)+2ab(iv,v)",3.1,Decreasing,Global
+22361389,16645,Peromyscus pembertoni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,pembertoni,,,,"Burt, 1932",Extinct,,3.1,,Global
+22361454,16653,Peromyscus bullatus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,bullatus,,,,"Osgood, 1904",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+22361697,16655,Peromyscus caniceps,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,caniceps,,,,"Burt, 1932",Critically Endangered,B1ab(v),3.1,Decreasing,Global
+22362173,16692,Peromyscus stephani,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,stephani,,,,"Townsend, 1912",Critically Endangered,B1ac(iv),3.1,Decreasing,Global
+22362540,16695,Peromyscus winkelmanni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,winkelmanni,,,,"Carleton, 1977",Endangered,B1ab(iii),3.1,Decreasing,Global
+22362990,16675,Peromyscus mekisturus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,mekisturus,,,,"Merriam, 1898",Critically Endangered,D,3.1,Unknown,Global
+22363072,16676,Peromyscus melanocarpus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,melanocarpus,,,,"Osgood, 1904",Endangered,B1ab(iii),3.1,Unknown,Global
+22363138,16673,Peromyscus mayensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,mayensis,,,,"Carleton &amp; Huckaby, 1975",Critically Endangered,"B1ab(i,ii,iii)",3.1,Decreasing,Global
+22363320,16679,Peromyscus melanurus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,melanurus,,,,"Osgood, 1909",Endangered,B1ab(iii),3.1,Stable,Global
+22363628,16683,Peromyscus ochraventer,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,ochraventer,,,,"Baker, 1951",Endangered,B1ab(iii),3.1,Unknown,Global
+22364100,16688,Peromyscus sejugis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,sejugis,,,,"Burt, 1932",Endangered,B1ab(v)+2ab(v),3.1,Decreasing,Global
+22364564,21790,Thomasomys rosalinda,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Thomasomys,rosalinda,,,,"Thomas &amp; St. Leger, 1926",Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+22368690,23077,Wilfredomys oenax,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Wilfredomys,oenax,,,,"(Thomas, 1928)",Endangered,"B2ab(ii,iii,iv)",3.1,Unknown,Global
+22372306,14592,Neotoma nelsoni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Neotoma,nelsoni,,,,"Goldman, 1905",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+22376453,9608,Habromys chinanteco,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Habromys,chinanteco,,,,"(Robertson &amp; Musser, 1976)",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+22376548,136683,Habromys delicatulus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Habromys,delicatulus,,,,"Carleton, Sanchez, and Urbano Vidales, 2002",Endangered,"B1ab(i,ii,iii)+2ab(i,ii,iii)",3.1,Decreasing,Global
+22376638,136582,Habromys ixtlani,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Habromys,ixtlani,,,,"(Goodwin, 1964)",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+22376731,9611,Habromys simulatus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Habromys,simulatus,,,,"(Osgood, 1904)",Critically Endangered,"C2a(i,ii)",3.1,Decreasing,Global
+22376889,9609,Habromys lepturus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Habromys,lepturus,,,,"(Merriam, 1898)",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+22377057,12980,Megalomys desmarestii,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Megalomys,desmarestii,,,,"(J. Fischer, 1829)",Extinct,,3.1,,Global
+22377126,12981,Megalomys luciae,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Megalomys,luciae,,,,"(Forsyth Major, 1901)",Extinct,,3.1,,Global
+22382354,741,Neomicroxus latebricola,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Neomicroxus,latebricola,,,,"(Anthony, 1924)",Endangered,B2ab(iii),3.1,Decreasing,Global
+22385344,19401,Reithrodontomys raviventris,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Reithrodontomys,raviventris,,,,"Dixon, 1908",Endangered,"B1ab(i,ii,iii,iv,v)+2ab(i,ii,iii,iv,v)",3.1,Decreasing,Global
+22385642,136821,Reithrodontomys bakeri,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Reithrodontomys,bakeri,,,,"Bradley, Mendez-Harclerode, Hamilton &amp; Ceballos, 2004",Endangered,B1ab(iii),3.1,Decreasing,Global
+22385808,19418,Reithrodontomys tenuirostris,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Reithrodontomys,tenuirostris,,,,"Merriam, 1901",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+22386261,19416,Reithrodontomys spectabilis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Reithrodontomys,spectabilis,,,,"Jones &amp; Lawlor, 1965",Critically Endangered,C2a(i),3.1,Decreasing,Global
+22388029,136540,Oryzomys antillarum,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Oryzomys,antillarum,,,,"Thomas, 1898",Extinct,,3.1,,Global
+22388135,15583,Oryzomys nelsoni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Oryzomys,nelsoni,,,,"Merriam, 1898",Extinct,,3.1,,Global
+22388720,11062,Gyldenstolpia fronto,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Gyldenstolpia,fronto,,,,"Winge, 1887",Critically Endangered,D,3.1,Unknown,Global
+22388900,16799,Phaenomys ferrugineus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Phaenomys,ferrugineus,,,,"(Thomas, 1894)",Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+22390382,14706,Nesoryzomys darwini,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Nesoryzomys,darwini,,,,"Osgood, 1929",Extinct,,3.1,,Global
+22390443,14708,Nesoryzomys indefessus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Nesoryzomys,indefessus,,,,"(Thomas, 1899)",Extinct,,3.1,,Global
+22391789,1564,Anotomys leander,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Anotomys,leander,,,,"Thomas, 1906",Endangered,"B2ab(i,ii,iii,iv)",3.1,Decreasing,Global
+22396256,45069,Otomys barbouri,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Otomys,barbouri,,,,"Lawrence &amp; Loveridge, 1953",Endangered,"B1ab(iii)c(ii,iv)",3.1,Decreasing,Global
+22396532,45071,Otomys burtoni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Otomys,burtoni,,,,"O. Thomas, 1918",Endangered,B1ab(iii),3.1,Decreasing,Global
+22402223,9680,Hapalomys longicaudatus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Hapalomys,longicaudatus,,,,"Blyth, 1859",Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+22403386,13960,Mus famulus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Mus,famulus,,,,"Bonhote, 1898",Endangered,"B1ab(ii,iii)",3.1,Unknown,Global
+22404354,13961,Mus fernandoni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Mus,fernandoni,,,,"(Phillips, 1932)",Endangered,B2ab(iii),3.1,Unknown,Global
+22408665,136619,Lophuromys eisentrauti,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Lophuromys,eisentrauti,,,,"Dieterlen, 1978",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+22408955,136701,Paramelomys gressitti,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Paramelomys,gressitti,,,,"Menzies, 1996",Endangered,B1ab(iii),3.1,Unknown,Global
+22409515,21972,Tokudaia muenninki,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Tokudaia,muenninki,,,,"(Johnson, 1946)",Critically Endangered,"B1ab(i,ii,iii,iv,v)",3.1,Decreasing,Global
+22409638,21973,Tokudaia osimensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Tokudaia,osimensis,,,,"(Abe, 1934)",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+22409747,136695,Tokudaia tokunoshimensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Tokudaia,tokunoshimensis,,,,"Endo &amp; Tsuchiya, 2006",Endangered,"B1ab(iii,v)+2ab(iii,v)",3.1,Decreasing,Global
+22410285,14660,Nesokia bunnii,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Nesokia,bunnii,,,,"(Khajuria, 1981)",Endangered,"B2ac(i,ii)",3.1,Decreasing,Global
+22410442,9618,Hadromys humei,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Hadromys,humei,,,,"(Thomas, 1886)",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+22415091,5500,Crateromys schadenbergi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Crateromys,schadenbergi,,,,"(Meyer, 1895)",Endangered,"B1ab(i,ii,iii)",3.1,Decreasing,Global
+22415343,5502,Crateromys heaneyi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Crateromys,heaneyi,,,,"Gonzales &amp; Kennedy, 1996",Endangered,"B1ab(i,ii,iii)",3.1,Decreasing,Global
+22416034,5414,Coryphomys buehleri,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Coryphomys,buehleri,,,,"Schaub, 1937",Extinct,,3.1,,Global
+22417451,5514,Cremnomys elvira,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Cremnomys,elvira,,,,"(Ellerman, 1946)",Critically Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+22419478,16121,Paraleptomys rufilatus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Paraleptomys,rufilatus,,,,"Osgood, 1945",Endangered,"B2ab(iii,v)",3.1,Unknown,Global
+22420769,13120,Melomys fraterculus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Melomys,fraterculus,,,,"(Thomas, 1920)",Endangered,"B1ab(ii,iii)",3.1,Decreasing,Global
+22421193,136604,Melomys bannisteri,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Melomys,bannisteri,,,,"Kitchener &amp; Maryanto, 1993",Endangered,B1ab(iii),3.1,Decreasing,Global
+22421603,136522,Melomys matambuai,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Melomys,matambuai,,,,"Flannery, Colgan &amp; Trimble, 1994",Endangered,"B1ab(i,ii,iii)",3.1,Decreasing,Global
+22429780,20336,Solomys sapientis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Solomys,sapientis,,,,"(Thomas, 1902)",Endangered,B1ab(iii),3.1,Decreasing,Global
+22430082,20333,Solomys ponceleti,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Solomys,ponceleti,,,,"(Troughton, 1935)",Critically Endangered,A2cd,3.1,Decreasing,Global
+22430312,10954,Kadarsanomys sodyi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Kadarsanomys,sodyi,,,,"(Bartels, 1937)",Endangered,"B1ab(ii,iii)",3.1,Unknown,Global
+22430744,22844,Vandeleuria nolthenii,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Vandeleuria,nolthenii,,,,"Phillips, 1929",Endangered,B1ab(iii),3.1,Decreasing,Global
+22431006,136763,Pogonomys fergussoniensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Pogonomys,fergussoniensis,,,,"Laurie, 1952",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+22431448,40766,Nilopegamys plumbeus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Nilopegamys,plumbeus,,,,"Osgood, 1928",Critically Endangered,"B2ab(ii,iii)",3.1,Unknown,Global
+22433617,13162,Meriones dahli,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Meriones,dahli,,,,"Shidlovsky, 1962",Critically Endangered,A2c,3.1,Decreasing,Global
+22434825,116989865,Hybomys badius,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Hybomys,badius,,,,"Osgood, 1936",Endangered,B1ab(iii),3.1,Decreasing,Global
+22443205,19348,Rattus montanus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Rattus,montanus,,,,"Phillips, 1932",Endangered,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+22444340,19325,Rattus burrus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Rattus,burrus,,,,"(Miller, 1902)",Endangered,B1ab(iii),3.1,Decreasing,Global
+22446647,22805,Uromys porculus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Uromys,porculus,,,,"Thomas, 1904",Critically Endangered,D,3.1,Unknown,Global
+22446813,22806,Uromys rex,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Uromys,rex,,,,"(Thomas, 1888)",Endangered,B2ab(iii),3.1,Decreasing,Global
+22447074,22803,Uromys imperator,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Uromys,imperator,,,,"(Thomas, 1888)",Critically Endangered,D,3.1,Unknown,Global
+22447368,136470,Uromys emmae,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Uromys,emmae,,,,"Groves &amp; Flannery, 1994",Critically Endangered,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+22447920,20757,Nesoromys ceramicus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Nesoromys,ceramicus,,,,"Thomas, 1920",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+22449489,136394,Batomys russatus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Batomys,russatus,,,,"Musser, Heaney &amp; Tabaranza Jr., 1998",Endangered,"B1ab(ii,iii)",3.1,Decreasing,Global
+22450903,45054,Hylomyscus grandis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Hylomyscus,grandis,,,,"Eisentraut, 1969",Endangered,B1ab(iii),3.1,Decreasing,Global
+22454643,12722,Mallomys gunung,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Mallomys,gunung,,,,"Flannery, Aplin &amp; Groves, 1989",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+22456932,23324,Zyzomys pedunculatus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Zyzomys,pedunculatus,,,,"(Waite, 1896)",Critically Endangered,A2abce,3.1,Decreasing,Global
+22457211,23327,Zyzomys palatalis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Zyzomys,palatalis,,,,"Kitchener, 1989",Critically Endangered,B2ab(iii),3.1,Unknown,Global
+22461651,13524,Millardia kondana,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Millardia,kondana,,,,"Mishra &amp; Dhanda, 1975",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+43792683,10303,Hydrodamalis gigas,ANIMALIA,CHORDATA,SIRENIA,MAMMALIA,DUGONGIDAE,Hydrodamalis,gigas,,,,"(Zimmermann, 1780)",Extinct,,3.1,,Global
+44139115,21172,Porcula salvania,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,SUIDAE,Porcula,salvania,,,,"Hodgson, 1847",Endangered,D,3.1,Unknown,Global
+44139369,21174,Sus verrucosus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,SUIDAE,Sus,verrucosus,,,,"Boie, 1832",Endangered,A2cd,3.1,Decreasing,Global
+44139575,21175,Sus cebifrons,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,SUIDAE,Sus,cebifrons,,,,"Heude, 1888",Critically Endangered,A2cde,3.1,Decreasing,Global
+44140209,21178,Sus bucculentus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,SUIDAE,Sus,bucculentus,,,,"Heude, 1892",Extinct,,3.1,,Global
+44143172,136472,Babyrousa togeanensis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,SUIDAE,Babyrousa,togeanensis,,,,"(Sody, 1949)",Endangered,"B1ab(iii,v); C2a(i)",3.1,Decreasing,Global
+44199757,4162,Cephalorhynchus hectori,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,DELPHINIDAE,Cephalorhynchus,hectori,,,,"(van Beneden, 1881)",Endangered,A4d,3.1,Decreasing,Global
+45170994,7949,Equus africanus,ANIMALIA,CHORDATA,PERISSODACTYLA,MAMMALIA,EQUIDAE,Equus,africanus,,,,"Heuglin &amp; Fitzinger, 1866",Critically Endangered,C2a(i),3.1,Decreasing,Global
+45173340,21471,Tapirus bairdii,ANIMALIA,CHORDATA,PERISSODACTYLA,MAMMALIA,TAPIRIDAE,Tapirus,bairdii,,,,"(Gill, 1865)",Endangered,A2abcd+3bcde,3.1,Decreasing,Global
+45173636,21472,Tapirus indicus,ANIMALIA,CHORDATA,PERISSODACTYLA,MAMMALIA,TAPIRIDAE,Tapirus,indicus,,,,"Desmarest, 1819",Endangered,A2bcd+3bcd; C1,3.1,Decreasing,Global
+45173922,21473,Tapirus pinchaque,ANIMALIA,CHORDATA,PERISSODACTYLA,MAMMALIA,TAPIRIDAE,Tapirus,pinchaque,,,,"(Roulin, 1829)",Endangered,A2cd+3cd; C1,3.1,Decreasing,Global
+45176532,3326,Bunolagus monticularis,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,LEPORIDAE,Bunolagus,monticularis,,,,"(Thomas, 1903)",Critically Endangered,C2a(i),3.1,Decreasing,Global
+45176688,3833,Caprolagus hispidus,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,LEPORIDAE,Caprolagus,hispidus,,,,"(Pearson, 1839)",Endangered,"B2ab(ii,iii,v)",3.1,Decreasing,Global
+45176906,11790,Lepus flavigularis,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,LEPORIDAE,Lepus,flavigularis,,,,"Wagner, 1844",Endangered,A2bcd; B1ab(iii)c(iv)+2ab(iii)c(iv),3.1,Decreasing,Global
+45177783,11793,Lepus hainanus,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,LEPORIDAE,Lepus,hainanus,,,,"Swinhoe, 1870",Endangered,B1ab(iii),3.1,Decreasing,Global
+45178669,15046,Ochotona koslowi,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,OCHOTONIDAE,Ochotona,koslowi,,,,"(Büchner, 1894)",Endangered,A2c,3.1,Decreasing,Global
+45179204,15050,Ochotona iliensis,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,OCHOTONIDAE,Ochotona,iliensis,,,,"Li &amp; Ma, 1986",Endangered,A2abc,3.1,Decreasing,Global
+45180151,16559,Pentalagus furnessi,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,LEPORIDAE,Pentalagus,furnessi,,,,"(Stone, 1900)",Endangered,"B1ab(ii,iii,v)+2ab(ii,iii,v)",3.1,Decreasing,Global
+45180356,19742,Romerolagus diazi,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,LEPORIDAE,Romerolagus,diazi,,,,"(Ferrari-Pérez, 1893)",Endangered,"B1ab(i,ii,iii,v)+2ab(i,ii,iii,v)",3.1,Decreasing,Global
+45180643,21206,Sylvilagus graysoni,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,LEPORIDAE,Sylvilagus,graysoni,,,,"(J.A. Allen, 1877)",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+45181807,40800,Ochotona hoffmanni,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,OCHOTONIDAE,Ochotona,hoffmanni,,,,"Formozov, Yakhontov &amp; Dmitriev, 1996",Endangered,"B2ab(ii,iii,v)",3.1,Unknown,Global
+45181925,41209,Nesolagus timminsi,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,LEPORIDAE,Nesolagus,timminsi,,,,"Averianov, Abramov &amp; Tikhonov, 2000",Endangered,A2d+3d+4d,3.1,Decreasing,Global
+45191186,87491102,Sylvilagus brasiliensis,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,LEPORIDAE,Sylvilagus,brasiliensis,,,,"(Linnaeus, 1758)",Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+45194521,41986,Ochotona argentata,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,OCHOTONIDAE,Ochotona,argentata,,,,"Howell, 1928",Endangered,B1ab(iii),3.1,Decreasing,Global
+45196929,4806,Chrotogale owstoni,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,VIVERRIDAE,Chrotogale,owstoni,,,,"Thomas, 1912",Endangered,A2bcd+3bcd+4cd,3.1,Decreasing,Global
+45197343,6082,Cynogale bennettii,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,VIVERRIDAE,Cynogale,bennettii,,,,"Gray, 1837",Endangered,C1,3.1,Decreasing,Global
+45198057,8834,Galidictis grandidieri,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,EUPLERIDAE,Galidictis,grandidieri,,,,"Wozencraft, 1986",Endangered,"B1ab(i,ii,iii,v)",3.1,Decreasing,Global
+45199541,13110,Melogale everetti,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,MUSTELIDAE,Melogale,everetti,,,,"(Thomas, 1895)",Endangered,"B1ab(ii,iii,v)",3.1,Decreasing,Global
+45199764,13923,Mungotictis decemlineata,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,EUPLERIDAE,Mungotictis,decemlineata,,,,"(A. Grandidier, 1867)",Endangered,A3cde+4cde,3.1,Decreasing,Global
+45199861,14018,Mustela lutreola,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,MUSTELIDAE,Mustela,lutreola,,,,"(Linnaeus, 1761)",Critically Endangered,A3ce,3.1,Decreasing,Global
+45200314,14020,Mustela nigripes,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,MUSTELIDAE,Mustela,nigripes,,,,"(Audubon &amp; Bachman, 1851)",Endangered,C1+2a(i); D,3.1,Decreasing,Global
+45201913,18267,Procyon pygmaeus,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,PROCYONIDAE,Procyon,pygmaeus,,,,"Merriam, 1901",Critically Endangered,C2a(ii),3.1,Decreasing,Global
+45202281,23036,Viverra civettina,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,VIVERRIDAE,Viverra,civettina,,,,"Blyth, 1862",Critically Endangered,C2a(i),3.1,Decreasing,Global
+45204313,39547,Eupleres major,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,EUPLERIDAE,Eupleres,major,,,,"Lavauden, 1929",Endangered,A2cde+3cde+4cde,3.1,Decreasing,Global
+45204492,40784,Neogale macrodon,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,MUSTELIDAE,Neogale,macrodon,,,,"(Prentis, 1903)",Extinct,,3.1,,Global
+45220097,41707,Viverra megaspila,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,VIVERRIDAE,Viverra,megaspila,,,,"Blyth, 1862",Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+45221489,136456,Cryptoprocta spelea,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,EUPLERIDAE,Cryptoprocta,spelea,,,,"Grandidier, 1902",Extinct,,3.1,,Global
+45223722,2057,Arctocephalus galapagoensis,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,OTARIIDAE,Arctocephalus,galapagoensis,,,,"Heller, 1904",Endangered,A2ab,3.1,Decreasing,Global
+45228171,13655,Neomonachus tropicalis,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,PHOCIDAE,Neomonachus,tropicalis,,,,"(Gray, 1850)",Extinct,,3.1,,Global
+45228341,14549,Neophoca cinerea,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,OTARIIDAE,Neophoca,cinerea,,,,"(Péron, 1816)",Endangered,A2bd,3.1,Decreasing,Global
+45230540,41668,Zalophus wollebaeki,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,OTARIIDAE,Zalophus,wollebaeki,,,,"Sivertsen, 1953",Endangered,A2ab,3.1,Decreasing,Global
+45230700,41669,Pusa caspica,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,PHOCIDAE,Pusa,caspica,,,,"(Gmelin, 1788)",Endangered,A2b,3.1,Unknown,Global
+45818198,7140,Elephas maximus,ANIMALIA,CHORDATA,PROBOSCIDEA,MAMMALIA,ELEPHANTIDAE,Elephas,maximus,,,,"Linnaeus, 1758",Endangered,A2c,3.1,Decreasing,Global
+46251651,46251646,Microcebus marohita,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Microcebus,marohita,,,,"Rasoloarison, Weisrock, Yoder, Rakotondravony &amp; Kappeler, 2013",Critically Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+46363360,2890,Bos sauveli,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Bos,sauveli,,,,"Urbain, 1937",Critically Endangered,A2d; C1+2a(i); D,3.1,Decreasing,Global
+46364222,3126,Bubalus depressicornis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Bubalus,depressicornis,,,,"(C.H. Smith, 1827)",Endangered,C1+2a(i),3.1,Decreasing,Global
+46364433,3128,Bubalus quarlesi,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Bubalus,quarlesi,,,,"(Ouwens, 1910)",Endangered,C1+2a(i),3.1,Decreasing,Global
+46364616,3129,Bubalus arnee,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Bubalus,arnee,,,,"(Kerr, 1792)",Endangered,A2de+3de; C1,3.1,Decreasing,Global
+47993010,47992992,Lophuromys pseudosikapusi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Lophuromys,pseudosikapusi,,,,"Lavrenchenko, W. Verheyen, E. Verheyen, Hulsemans &amp; Leirs, 2007",Endangered,"B1ab(i,iii)",3.1,Unknown,Global
+48008228,48008221,Otomys cheesmani,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Otomys,cheesmani,,,,"Taylor, Lavrenchenko, Carleton, Verheyen, Bennett, Oosthuizen &amp; Maree, 2011",Critically Endangered,"B2ab(i,ii,iii)",3.1,Unknown,Global
+50043570,12561,Macaca sylvanus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Macaca,sylvanus,,,,"(Linnaeus, 1758)",Endangered,A2bcd,3.1,Decreasing,Global & Mediterranean
+50180603,512,Addax nasomaculatus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Addax,nasomaculatus,,,,"(de Blainville, 1816)",Critically Endangered,A2cd; C2a(ii); D,3.1,Decreasing,Global
+50182687,4140,Cephalophus jentinki,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Cephalophus,jentinki,,,,"Thomas, 1892",Endangered,C1,3.1,Decreasing,Global
+50184413,4151,Cephalophus spadix,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Cephalophus,spadix,,,,"True, 1890",Endangered,C2a(i),3.1,Decreasing,Global
+50185297,6234,Beatragus hunteri,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Beatragus,hunteri,,,,"(P.L. Sclater, 1889)",Critically Endangered,A2acd,3.1,Decreasing,Global
+50186128,8968,Nanger dama,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Nanger,dama,,,,"(Pallas, 1766)",Critically Endangered,C2a(i),3.1,Decreasing,Global
+50186574,8989,Gazella gazella,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Gazella,gazella,,,,"(Pallas, 1766)",Endangered,A2acd,3.1,Decreasing,Global
+50186909,8972,Gazella leptoceros,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Gazella,leptoceros,,,,"(F. Cuvier, 1842)",Endangered,C2a(i),3.1,Decreasing,Global
+50187314,8975,Gazella spekei,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Gazella,spekei,,,,"Blyth, 1863",Endangered,A2cd,3.1,Decreasing,Global
+50187890,8980,Gazella saudiya,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Gazella,saudiya,,,,"Carruthers &amp; Schwarz, 1935",Extinct,,3.1,,Global
+50188129,8987,Gazella bilkis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Gazella,bilkis,,,,"Groves &amp; Lay, 1985",Extinct,,3.1,,Global
+50188182,8991,Eudorcas tilonura,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Eudorcas,tilonura,,,,"(Heuglin, 1869)",Endangered,C1,3.1,Decreasing,Global
+50188573,10168,Hippotragus leucophaeus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Hippotragus,leucophaeus,,,,"(Pallas, 1766)",Extinct,,3.1,,Global
+50189177,11034,Kobus megaceros,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Kobus,megaceros,,,,"(Fitzinger, 1855)",Endangered,A2acd,3.1,Decreasing,Global
+50191877,15571,Oryx beisa,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Oryx,beisa,,,,"(Rüppell, 1835)",Endangered,A2bd,3.1,Decreasing,Global
+50192807,18230,Procapra przewalskii,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Procapra,przewalskii,,,,"(Büchner, 1891)",Endangered,"B2ab(ii,iii)",3.1,Increasing,Global
+50193881,19391,Redunca fulvorufula,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Redunca,fulvorufula,,,,"(Afzelius, 1815)",Endangered,A2ad,3.1,Decreasing,Global
+50197851,63543,Camelus ferus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,CAMELIDAE,Camelus,ferus,,,,"Przewalski, 1878",Endangered,C1,3.1,Decreasing,Global
+50358152,10831,Inia geoffrensis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,INIIDAE,Inia,geoffrensis,,,,"(Blainville, 1817)",Endangered,A2acd+3cd+4acd,3.1,Decreasing,Global
+50362206,12119,Lipotes vexillifer,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,LIPOTIDAE,Lipotes,vexillifer,,,,"Miller, 1918",Critically Endangered,"C2a(i,ii); D",3.1,Decreasing,Global
+50380694,41711,Eubalaena japonica,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BALAENIDAE,Eubalaena,japonica,,,,"(Lacépède, 1818)",Endangered,D,3.1,Unknown,Global
+50381766,41754,Neophocaena asiaeorientalis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,PHOCOENIDAE,Neophocaena,asiaeorientalis,,,,"(Pilleri &amp; Gihr, 1972)",Endangered,A2bcde+3bcde+4bcde,3.1,Decreasing,Global
+50383346,41756,Platanista gangetica,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,PLATANISTIDAE,Platanista,gangetica,,,,"(Lebeck, 1801)",Endangered,A2abcde+3bcde+4abcde,3.1,Decreasing,Global
+50383813,41759,Mesoplodon perrini,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,ZIPHIIDAE,Mesoplodon,perrini,,,,"Dalebout, Mead, Baker, Baker &amp; van Helden, 2002",Endangered,C2a(ii),3.1,Decreasing,Global
+50386457,190871,Sotalia fluviatilis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,DELPHINIDAE,Sotalia,fluviatilis,,,,"(Gervais &amp; Deville in Gervais, 1853)",Endangered,A4b,3.1,Decreasing,Global
+50662095,18148,Prionailurus planiceps,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,FELIDAE,Prionailurus,planiceps,,,,"(Vigors &amp; Horsfield, 1827)",Endangered,C1,3.1,Decreasing,Global
+50737640,3127,Bubalus mindorensis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Bubalus,mindorensis,,,,"Heude, 1888",Critically Endangered,C1+2a(ii),3.1,Decreasing,Global
+51140517,15188,Okapia johnstoni,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,GIRAFFIDAE,Okapia,johnstoni,,,,"(P.L. Sclater, 1901)",Endangered,A2abcd+4abcd,3.1,Decreasing,Global
+61977139,13895,Moschus chrysogaster,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,MOSCHIDAE,Moschus,chrysogaster,,,,"(Hodgson, 1839)",Endangered,A2cd,3.1,Decreasing,Global
+61977357,13896,Moschus fuscus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,MOSCHIDAE,Moschus,fuscus,,,,"Li, 1981",Endangered,A2cd,3.1,Decreasing,Global
+61977764,13901,Moschus leucogaster,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,MOSCHIDAE,Moschus,leucogaster,,,,"Hodgson, 1839",Endangered,A2d,3.1,Decreasing,Global
+61977991,22065,Tragulus nigricans,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,TRAGULIDAE,Tragulus,nigricans,,,,"Thomas, 1892",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+61979276,136643,Moschus anhuiensis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,MOSCHIDAE,Moschus,anhuiensis,,,,"Wang, Hu &amp; Yan, 1982",Endangered,A2cd,3.1,Decreasing,Global
+61979453,136750,Moschus cupreus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,MOSCHIDAE,Moschus,cupreus,,,,"Grubb, 1982",Endangered,A2d,3.1,Decreasing,Global
+64588304,64588047,Rhinolophus mabuensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOLOPHIDAE,Rhinolophus,mabuensis,,,,"Taylor, Stoffberg, Monadjem, Schoeman, Bayliss &amp; Cotterill, 2012",Endangered,B2ab(iii),3.1,Unknown,Global
+67359379,67359375,Pseudoromicia roseveari,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Pseudoromicia,roseveari,,,,"(Monadjem, L.R. Richards, P.J. Taylor &amp; S. Stoffberg, 2013)",Endangered,"B1ab(i,ii,iii)+2ab(i,ii,iii)",3.1,Unknown,Global
+71514133,71514046,Antechinus arktos,ANIMALIA,CHORDATA,DASYUROMORPHIA,MAMMALIA,DASYURIDAE,Antechinus,arktos,,,,"Baker, Mutton, Hines &amp; Van Dyck, 2014",Endangered,"B1ab(ii,iv,v)+2ab(ii,iv,v)",3.1,Decreasing,Global
+72261787,72261777,Nasuella meridensis,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,PROCYONIDAE,Nasuella,meridensis,,,,(Thomas 1901),Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+72477893,5953,Cuon alpinus,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,CANIDAE,Cuon,alpinus,,,,"(Pallas, 1811)",Endangered,C2a(i),3.1,Decreasing,Global
+72587993,4015,Catagonus wagneri,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,TAYASSUIDAE,Catagonus,wagneri,,,,"(Rusconi, 1930)",Endangered,A3cd+4cd,3.1,Decreasing,Global
+73071875,2447,Axis kuhlii,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,CERVIDAE,Axis,kuhlii,,,,"(Temminck, 1836)",Critically Endangered,C2a(ii),3.1,Stable,Global
+78319377,5796,Ctenomys australis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CTENOMYIDAE,Ctenomys,australis,,,,"Rusconi, 1934",Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+78321512,15090,Octodon pacificus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,OCTODONTIDAE,Octodon,pacificus,,,,"R. Hutterer, 1994",Critically Endangered,"B1ab(i,ii,iii)+2ab(i,ii,iii)",3.1,Decreasing,Global
+78324250,136452,Lagostomus crassus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CHINCHILLIDAE,Lagostomus,crassus,,,,"Thomas, 1910",Extinct,,3.1,,Global
+78324400,136557,Tympanoctomys aureus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,OCTODONTIDAE,Tympanoctomys,aureus,,,,"Mares, Braun, Barquez &amp; Diaz, 2000",Critically Endangered,"B1ab(ii,iii)+2ab(ii,iii)",3.1,Decreasing,Global
+78324608,136714,Tympanoctomys loschalchalerosorum,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,OCTODONTIDAE,Tympanoctomys,loschalchalerosorum,,,,"Mares, Braun, Barquez &amp; Diaz, 2000",Critically Endangered,"B1ab(ii,iii)+2ab(ii,iii)",3.1,Decreasing,Global
+79818502,4288,Rucervus schomburgki,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,CERVIDAE,Rucervus,schomburgki,,,,"(Blyth, 1863)",Extinct,,3.1,,Global
+81282214,4084,Cebus malitiosus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CEBIDAE,Cebus,malitiosus,,,,"Elliot, 1909",Endangered,A2cd+4cd,3.1,Decreasing,Global
+81282279,39952,Cebus versicolor,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CEBIDAE,Cebus,versicolor,,,,"Pucheran, 1845",Endangered,A2cd+4cd,3.1,Decreasing,Global
+82310440,6923,Dusicyon australis,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,CANIDAE,Dusicyon,australis,,,,"(Kerr, 1792)",Extinct,,3.1,,Global
+82337485,82337482,Dusicyon avus,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,CANIDAE,Dusicyon,avus,,,,"(Burmeister, 1866)",Extinct,,3.1,,Global
+82347169,82346260,Rhinolophus willardi,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOLOPHIDAE,Rhinolophus,willardi,,,,"Kerbis Peterhans &amp; Fahr, 2013",Endangered,"B1ab(i,iii,v)",3.1,Decreasing,Global
+82347492,82347204,Rhinolophus kahuzi,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOLOPHIDAE,Rhinolophus,kahuzi,,,,"Kerbis Peterhans &amp; Fahr, 2013",Endangered,"B1ab(i,ii,iii,v)+2ab(i,ii,iii,v)",3.1,Decreasing,Global
+84372372,84372306,Rhinolophus proconsulis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOLOPHIDAE,Rhinolophus,proconsulis,,,,"Hill, 1959",Endangered,B1ab(iii),3.1,Unknown,Global
+84457393,84457227,Desmalopex microleucopterus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Desmalopex,microleucopterus,,,,"Esselstyn, Garcia, Saulog &amp; Heaney, 2008",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+84487985,84487939,Murina balaensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Murina,balaensis,,,,"Soisook, Karapan, Satasook &amp; Bates, 2013",Critically Endangered,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+84562296,84562293,Murina harpioloides,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Murina,harpioloides,,,,"Kruskop &amp; Eger, 2008",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+84882990,84882966,Pteropus allenorum,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,allenorum,,,,"Helgen, Helgen &amp; Wilson, 2009",Extinct,,3.1,,Global
+85202890,85202881,Hypsugo lanzai,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Hypsugo,lanzai,,,,"Benda, Al-Jumaily, Reiter &amp; Nasher, 2011",Endangered,B1ab(iii),3.1,Decreasing,Global
+85707174,85707170,Rhinolophus perditus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOLOPHIDAE,Rhinolophus,perditus,,,,"K. Andersen, 1918",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+86475525,18743,Pteropus niger,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,niger,,,,"(Kerr, 1792)",Endangered,A4cde,3.1,Decreasing,Global
+89624491,7950,Equus grevyi,ANIMALIA,CHORDATA,PERISSODACTYLA,MAMMALIA,EQUIDAE,Equus,grevyi,,,,"Oustalet, 1882",Endangered,A2acd,3.1,Stable,Global
+90128828,40783,Hippopotamus madagascariensis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,HIPPOPOTAMIDAE,Hippopotamus,madagascariensis,,,,"Guldberg, 1883",Extinct,,3.1,,Global
+90128915,40782,Hippopotamus lemerlei,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,HIPPOPOTAMIDAE,Hippopotamus,lemerlei,,,,"Grandidier in Milne-Edwards, 1868",Extinct,,3.1,,Global
+90823992,9128,Gerbillus hesperinus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Gerbillus,hesperinus,,,,"Cabrera, 1936",Endangered,B1ab(iii),3.1,Decreasing,Global & Mediterranean
+91863646,42655,Spalax zemni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SPALACIDAE,Spalax,zemni,,,,"(Erxleben, 1777)",Endangered,A2ac,3.1,Unknown,Global & Europe
+92247733,4206,Cercocebus lunulatus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Cercocebus,lunulatus,,,,"(Temminck, 1853)",Endangered,A2cd,3.1,Decreasing,Global
+92252442,92252436,Erythrocebus baumstarki,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Erythrocebus,baumstarki,,,,"Matschie, 1905",Critically Endangered,C2a(i),3.1,Decreasing,Global
+92384250,4245,Cercopithecus diana,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Cercopithecus,diana,,,,"(Linnaeus, 1758)",Endangered,A2cd,3.1,Decreasing,Global
+92384429,4232,Cercopithecus roloway,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Cercopithecus,roloway,,,,"(Schreber, 1774)",Critically Endangered,A2cd,3.1,Decreasing,Global
+92633245,41026,Piliocolobus preussi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Piliocolobus,preussi,,,,"Matschie, 1900",Critically Endangered,A2d,3.1,Decreasing,Global
+92653653,41025,Piliocolobus pennantii,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Piliocolobus,pennantii,,,,"(Waterhouse, 1838)",Critically Endangered,A2bcd,3.1,Decreasing,Global
+92656391,41024,Piliocolobus epieni,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Piliocolobus,epieni,,,,"(Grubb &amp; Powell, 1999)",Critically Endangered,A2cd+4c,3.1,Decreasing,Global
+92659769,18252,Piliocolobus foai,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Piliocolobus,foai,,,,"(de Pousargues, 1899)",Endangered,A2cd,3.1,Decreasing,Global
+95642210,80263386,Eudiscoderma thongareeae,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,MEGADERMATIDAE,Eudiscoderma,thongareeae,,,,"Soisook, Prajakjitr, Karapan, Francis &amp; Bates, 2015",Critically Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+95642215,80458824,Hipposideros nicobarulae,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,HIPPOSIDERIDAE,Hipposideros,nicobarulae,,,,"Miller, 1902",Endangered,"B2ab(ii,iii,iv,v)",3.1,Decreasing,Global
+95642270,82345696,Rhinopoma hadramauticum,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOPOMATIDAE,Rhinopoma,hadramauticum,,,,"Benda, Reiter, Al-Jumaily, Nasher &amp; Hulva, 2009",Endangered,D,3.1,Unknown,Global
+95642275,84372084,Rhinolophus belligerator,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOLOPHIDAE,Rhinolophus,belligerator,,,,"Patrick, McCulloch &amp; Ruedas, 2013",Endangered,B1ab(iii),3.1,Unknown,Global
+95642280,84457541,Dyacopterus rickarti,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Dyacopterus,rickarti,,,,"Helgen, Kock, Gomez, Ingle &amp; Sinaga, 2007",Endangered,B2ab(iii),3.1,Decreasing,Global
+95642285,84931267,Pteropus coxi,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,coxi,,,,"Helgen, Helgen &amp; Wilson, 2009",Extinct,,3.1,,Global
+95970485,12305,Lontra provocax,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,MUSTELIDAE,Lontra,provocax,,,,"(Thomas, 1908)",Endangered,A2cd+3cde,3.1,Decreasing,Global
+96192471,18262,Piliocolobus lulindicus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Piliocolobus,lulindicus,,,,"Matschie, 1914",Endangered,A2cd,3.1,Decreasing,Global
+97192062,62015,Microgale jenkinsae,ANIMALIA,CHORDATA,AFROSORICIDA,MAMMALIA,TENRECIDAE,Microgale,jenkinsae,,,,"Goodman &amp; Soarimalala, 2004",Endangered,B1ab(iii),3.1,Decreasing,Global
+97204950,41763,Equus ferus,ANIMALIA,CHORDATA,PERISSODACTYLA,MAMMALIA,EQUIDAE,Equus,ferus,,,,"Boddaert, 1785",Endangered,D,3.1,Increasing,Global
+97672550,6232,Dama mesopotamica,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,CERVIDAE,Dama,mesopotamica,,,,"(Brooke, 1875)",Endangered,D,3.1,Increasing,Global
+102206474,102206468,Antechinus vandycki,ANIMALIA,CHORDATA,DASYUROMORPHIA,MAMMALIA,DASYURIDAE,Antechinus,vandycki,,,,"(Baker, Mutton, Mason, &amp; Gray 2015)",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+102331567,15932,Pan paniscus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HOMINIDAE,Pan,paniscus,,,,"Schwarz, 1929",Endangered,A4bcd,3.1,Decreasing,Global
+103431781,13894,Moschus berezovskii,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,MOSCHIDAE,Moschus,berezovskii,,,,"Flerov, 1929",Endangered,A2cd,3.1,Decreasing,Global
+107263066,41586,Lycalopex fulvipes,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,CANIDAE,Lycalopex,fulvipes,,,,"Martin, 1837",Endangered,C1,3.1,Decreasing,Global
+107411865,13219,Mesocricetus auratus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Mesocricetus,auratus,,,,"(Waterhouse, 1839)",Endangered,B1ab(iii),3.1,Decreasing,Global & Mediterranean
+110023718,714,Ailurus fulgens,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,AILURIDAE,Ailurus,fulgens,,,,"F.G. Cuvier, 1825",Endangered,A2cde+3cde+4cde,3.1,Decreasing,Global
+111875852,5529,Cricetus cricetus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Cricetus,cricetus,,,,"(Linnaeus, 1758)",Critically Endangered,A3c,3.1,Decreasing,Global
+111881863,20497,Urocitellus brunneus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Urocitellus,brunneus,,,,"(A.H. Howell, 1928)",Endangered,B1ab(iii)+2ab(iii),3.1,Increasing,Global
+112503349,112503346,Crocidura mdumai,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,mdumai,,,,"Stanley, Hutterer, Giarla &amp; Esselstyn, 2015",Endangered,B1ab(iii),3.1,Unknown,Global
+112910221,4037,Catopuma badia,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,FELIDAE,Catopuma,badia,,,,"(Gray, 1874)",Endangered,C1,3.1,Decreasing,Global
+113089431,41667,Zalophus japonicus,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,OTARIIDAE,Zalophus,japonicus,,,,"(Peters, 1866)",Extinct,,3.1,,Global
+115063959,2816,Biswamoyopterus biswasi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Biswamoyopterus,biswasi,,,,"Saha, 1981",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+115073943,5558,Crocidura ansellorum,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,ansellorum,,,,"Hutterer &amp; Dippenaar, 1987",Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+115075271,5580,Crocidura phaeura,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,phaeura,,,,"Osgood, 1936",Endangered,B1ab(iii),3.1,Unknown,Global
+115076316,5594,Crocidura thomensis,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,thomensis,,,,"(Bocage, 1887)",Endangered,B1ab(iii),3.1,Decreasing,Global
+115076487,5595,Crocidura andamanensis,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,andamanensis,,,,"Miller, 1902",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+115077051,5604,Crocidura jenkinsi,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,jenkinsi,,,,"Chakraborty, 1978",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+115077236,5610,Crocidura nicobarica,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,nicobarica,,,,"Miller, 1902",Critically Endangered,"B1ab(ii,iii)",3.1,Decreasing,Global
+115078080,5622,Crocidura bottegoides,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,bottegoides,,,,"Hutterer &amp; Yalden, 1990",Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+115078795,5633,Crocidura harenna,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,harenna,,,,"Hutterer &amp; Yalden, 1990",Critically Endangered,"B1ab(ii,iii)+2ab(ii,iii)",3.1,Decreasing,Global
+115080657,6270,Dasymys montanus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Dasymys,montanus,,,,"Thomas, 1906",Endangered,B1ab(iii),3.1,Decreasing,Global
+115092298,9456,Grammomys gigas,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Grammomys,gigas,,,,"(Dollman, 1911)",Endangered,B1ab(iii),3.1,Unknown,Global
+115096418,10278,Hybomys basilii,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Hybomys,basilii,,,,"Eisentraut, 1965",Endangered,B1ab(iii),3.1,Unknown,Global
+115099877,10846,Iomys sipora,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Iomys,sipora,,,,"Chasen &amp; Kloss, 1928",Endangered,"B1ab(ii,iii)",3.1,Decreasing,Global
+115101157,11202,Lamottemys okuensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Lamottemys,okuensis,,,,"F. Petter, 1986",Endangered,B1ab(iii),3.1,Decreasing,Global
+115105272,12646,Macrotarsomys ingens,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,NESOMYIDAE,Macrotarsomys,ingens,,,,"Petter, 1959",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+115108659,13114,Melomys aerosus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Melomys,aerosus,,,,"(Thomas, 1920)",Endangered,"B1ab(ii,iii)",3.1,Decreasing,Global
+115120122,14107,Myosorex geata,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Myosorex,geata,,,,"(Allen &amp; Loveridge, 1927)",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+115120529,14113,Myosorex rumpii,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Myosorex,rumpii,,,,"Heim de Balsac, 1968",Endangered,B1ab(iii),3.1,Decreasing,Global
+115122474,14560,Neopteryx frosti,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Neopteryx,frosti,,,,"Hayman, 1946",Endangered,C1,3.1,Decreasing,Global
+115124123,14821,Niviventer hinpoon,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Niviventer,hinpoon,,,,"(J.T. Marshall Jr., 1976)",Endangered,B1ab(iii),3.1,Unknown,Global
+115132722,16212,Paraxerus vincenti,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Paraxerus,vincenti,,,,"Hayman, 1950",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+115133302,16426,Paulamys naso,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Paulamys,naso,,,,"(Musser, 1981)",Endangered,"B1ab(ii,iii)",3.1,Decreasing,Global
+115142184,18118,Praomys morio,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Praomys,morio,,,,"(Trouessart, 1881)",Endangered,B1ab(iii),3.1,Decreasing,Global
+115147017,19334,Rattus hainaldi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Rattus,hainaldi,,,,"Kitchener, How &amp; Maharadatunkamsi, 1991",Endangered,"B1ab(ii,iii)",3.1,Decreasing,Global
+115148504,19359,Rattus ranjiniae,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Rattus,ranjiniae,,,,"Agrawal &amp; Ghosal, 1969",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+115149340,19362,Rattus simalurensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Rattus,simalurensis,,,,"(Miller, 1903)",Endangered,"B1ab(ii,iii)",3.1,Decreasing,Global
+115160385,21142,Suncus dayi,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Suncus,dayi,,,,"(Dodson, 1888)",Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+115160697,21146,Suncus mertensi,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Suncus,mertensi,,,,"Kock, 1974",Endangered,B1ab(iii),3.1,Decreasing,Global
+115161075,21221,Sylvisorex morio,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Sylvisorex,morio,,,,"(Gray, 1862)",Endangered,B1ab(iii),3.1,Decreasing,Global
+115161321,21293,Tachyoryctes macrocephalus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SPALACIDAE,Tachyoryctes,macrocephalus,,,,"(Rüppell, 1842)",Endangered,B1ab(iii),3.1,Decreasing,Global
+115164345,22046,Tragelaphus buxtoni,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Tragelaphus,buxtoni,,,,"(Lydekker, 1910)",Endangered,C1,3.1,Decreasing,Global
+115166757,22454,Tupaia nicobarica,ANIMALIA,CHORDATA,SCANDENTIA,MAMMALIA,TUPAIIDAE,Tupaia,nicobarica,,,,"(Zelebor, 1869)",Endangered,B1ab(iii),3.1,Decreasing,Global
+115177231,41211,Praomys obscurus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Praomys,obscurus,,,,"Hutterer &amp; Dieterlen, 1992",Endangered,B1ab(iii),3.1,Decreasing,Global
+115202428,45056,Lophuromys dieterleni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Lophuromys,dieterleni,,,,"Verheyen, Huselmans, Colyn &amp; Hutterer, 1997",Endangered,B1ab(iii),3.1,Decreasing,Global
+115205515,136320,Melomys talaudium,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Melomys,talaudium,,,,"(Thomas, 1921)",Endangered,"B1ab(ii,iii)",3.1,Decreasing,Global
+115206046,136330,Nesomys lambertoni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,NESOMYIDAE,Nesomys,lambertoni,,,,"G. Grandidier, 1928",Endangered,B1ab(iii),3.1,Unknown,Global
+115206194,136343,Congosorex phillipsorum,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Congosorex,phillipsorum,,,,"Stanley, Rogers &amp; Hutterer, 2005",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+115206829,136372,Vandeleuria nilagirica,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Vandeleuria,nilagirica,,,,"Jerdon, 1867",Endangered,B2ab(iii),3.1,Decreasing,Global
+115211010,136648,Alticola olchonensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Alticola,olchonensis,,,,"Litvinov, 1960",Endangered,B1ab(iii),3.1,Unknown,Global
+115211818,136715,Melomys caurinus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Melomys,caurinus,,,,"Thomas, 1921",Endangered,"B1ab(ii,iii)",3.1,Decreasing,Global
+115517951,138,Acerodon humilis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Acerodon,humilis,,,,"K. Andersen, 1909",Endangered,"B1ab(iii,v)",3.1,Decreasing,Global
+115559302,868,Allocebus trichotis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Allocebus,trichotis,,,,"(Günther, 1875)",Endangered,A3cd+4cd,3.1,Decreasing,Global
+115560059,4085,Cebus trinitatis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CEBIDAE,Cebus,trinitatis,,,,"von Pusch, 1942",Critically Endangered,C2a(ii); D,3.1,Decreasing,Global
+115560793,6302,Daubentonia madagascariensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,DAUBENTONIIDAE,Daubentonia,madagascariensis,,,,"(Gmelin, 1788)",Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+115561431,8202,Eulemur mongoz,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEMURIDAE,Eulemur,mongoz,,,,"(Linnaeus, 1766)",Critically Endangered,A4cde,3.1,Decreasing,Global
+115562060,8205,Eulemur cinereiceps,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEMURIDAE,Eulemur,cinereiceps,,,,"(A. Grandidier &amp; Milne-Edwards, 1890)",Critically Endangered,A4cd,3.1,Decreasing,Global
+115562262,8206,Eulemur collaris,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEMURIDAE,Eulemur,collaris,,,,"(É. Geoffroy, 1812)",Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+115563094,8211,Eulemur flavifrons,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEMURIDAE,Eulemur,flavifrons,,,,"(Gray, 1867)",Critically Endangered,A4cd,3.1,Decreasing,Global
+115564398,9672,Hapalemur aureus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEMURIDAE,Hapalemur,aureus,,,,"Meier, Albignac, Peyriéras, Rumpler &amp; Wright, 1987",Critically Endangered,C2a(i),3.1,Decreasing,Global
+115564770,9674,Prolemur simus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEMURIDAE,Prolemur,simus,,,,"(Gray, 1871)",Critically Endangered,A2cd,3.1,Decreasing,Global
+115565566,10826,Indri indri,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Indri,indri,,,,"(Gmelin, 1788)",Critically Endangered,A3cd+4cd,3.1,Decreasing,Global
+115565760,11496,Lemur catta,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEMURIDAE,Lemur,catta,,,,"Linnaeus, 1758",Endangered,A4cd,3.1,Decreasing,Global
+115566145,11617,Lepilemur edwardsi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,edwardsi,,,,"(Forbes, 1894)",Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+115566334,11618,Lepilemur leucopus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,leucopus,,,,"(Major, 1894)",Endangered,"B1ab(i,iii,v)",3.1,Decreasing,Global
+115566492,11619,Lepilemur microdon,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,microdon,,,,"(Forsyth Major, 1894)",Endangered,"B1ab(i,iii,v)",3.1,Decreasing,Global
+115566869,11621,Lepilemur ruficaudatus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,ruficaudatus,,,,"A. Grandidier, 1867",Critically Endangered,A3cd+4cd,3.1,Decreasing,Global
+115567059,11622,Lepilemur septentrionalis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,septentrionalis,,,,"Rumpler &amp; Albignac, 1975",Critically Endangered,"A2acd+3cd+4acd; C2a(i,ii); D",3.1,Decreasing,Global
+115567718,13584,Mirza coquereli,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Mirza,coquereli,,,,"(A. Grandidier, 1867)",Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+115570701,16872,Phaner furcifer,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Phaner,furcifer,,,,"(de Blainville, 1839)",Endangered,A2acd+3cd+4acd,3.1,Decreasing,Global
+115570887,16873,Phaner parienti,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Phaner,parienti,,,,"Groves &amp; Tattersall, 1991",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+115571047,16874,Phaner pallescens,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Phaner,pallescens,,,,"Groves &amp; Tattersall, 1991",Endangered,A2c+3c+4c,3.1,Decreasing,Global
+115571235,16875,Phaner electromontis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Phaner,electromontis,,,,"Groves &amp; Tattersall, 1991",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+115571806,18352,Propithecus tattersalli,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Propithecus,tattersalli,,,,"Simons, 1988",Critically Endangered,A2acd+4acd,3.1,Decreasing,Global
+115572044,18354,Propithecus verreauxi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Propithecus,verreauxi,,,,"A. Grandidier, 1867",Critically Endangered,A2cde+3cde+4cde,3.1,Decreasing,Global
+115572275,18355,Propithecus coquereli,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Propithecus,coquereli,,,,"(A. Grandidier, 1867)",Critically Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+115572495,18356,Propithecus coronatus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Propithecus,coronatus,,,,"Milne-Edwards, 1871",Critically Endangered,A2acd,3.1,Decreasing,Global
+115572684,18357,Propithecus deckenii,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Propithecus,deckenii,,,,"A. Grandidier, 1867",Critically Endangered,A3cd,3.1,Decreasing,Global
+115572884,18358,Propithecus diadema,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Propithecus,diadema,,,,"Bennett, 1832",Critically Endangered,A3cd+4cd,3.1,Decreasing,Global
+115573104,18359,Propithecus edwardsi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Propithecus,edwardsi,,,,"A. Grandidier, 1871",Endangered,"A2cd+3cd+4cd; B1ab(i,ii,iii,v)",3.1,Decreasing,Global
+115573359,18360,Propithecus candidus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Propithecus,candidus,,,,"A. Grandidier, 1871",Critically Endangered,C2a(i),3.1,Decreasing,Global
+115573556,18361,Propithecus perrieri,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Propithecus,perrieri,,,,"Lavauden, 1931",Critically Endangered,A2a; C2a(ii),3.1,Decreasing,Global
+115574178,22918,Varecia variegata,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEMURIDAE,Varecia,variegata,,,,"(Kerr, 1792)",Critically Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+115574598,22920,Varecia rubra,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEMURIDAE,Varecia,rubra,,,,"(É. Geoffroy, 1812)",Critically Endangered,A4cd,3.1,Decreasing,Global
+115576640,39994,Gorilla beringei,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HOMINIDAE,Gorilla,beringei,,,,"Matschie, 1903",Critically Endangered,A4bcd,3.1,Decreasing,Global
+115579341,41572,Microcebus sambiranensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Microcebus,sambiranensis,,,,"Rasoloarison, Goodman &amp; Ganzhorn, 2000",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+115579719,41576,Cheirogaleus sibreei,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Cheirogaleus,sibreei,,,,"(Forsyth Major, 1894)",Critically Endangered,A4c,3.1,Decreasing,Global
+115579946,41579,Avahi unicolor,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Avahi,unicolor,,,,"Thalmann &amp; Geissmann, 2000",Critically Endangered,A2c+3c+4c,3.1,Decreasing,Global
+115581016,136206,Microcebus mamiratra,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Microcebus,mamiratra,,,,"Andriantompohavana, Zaonarivelo, Engberg, Randriamampionona, McGuire, Shore, Rakotonomenjanahary, Brenneman &amp; Louis Jr., 2006",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+115581313,136254,Lepilemur randrianasoloi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,randrianasoloi,,,,"Andriaholinirina, Fausser, Roos, Zinner, Thalmann, Rabarivola, Ravoarimanana, Ganzhorn, Meier, Hilgartner, Walter, Zaramody, Langer, Hahn, Zimmermann, Radespiel, Craul, Tomiuk, Tattersall &amp; Rumpler, 2017",Endangered,"A2c+3c+4c; B1ab(i,iii,iv)",3.1,Decreasing,Global
+115581448,136263,Lepilemur fleuretae,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,fleuretae,,,,"Louis Jr., Engberg, Lei, Geng, Sommer, Randriamampionona, Randriamanana, Zaonarivelo, Andriantompohavana, Randria, Prosper, Ramaromilanto, Rakotoarisoa, Rooney &amp; Brenneman, 2006",Endangered,"B1ab(i,ii,iii,v)",3.1,Decreasing,Global
+115582103,136311,Lepilemur wrightae,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,wrightae,,,,"Louis Jr., Engberg, Lei, Geng, Sommer, Randriamampionona, Randriamanana, Zaonarivelo, Andriantompohavana, Randria, Prosper, Ramaromilanto, Rakotoarisoa, Rooney &amp; Brenneman, 2006",Endangered,"B1ab(i,iii,v)",3.1,Decreasing,Global
+115582253,136335,Avahi cleesei,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Avahi,cleesei,,,,"Thalmann &amp; Geissmann, 2005",Critically Endangered,A2c+3c+4c,3.1,Decreasing,Global
+115582568,136369,Avahi meridionalis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Avahi,meridionalis,,,,"Zaramody, Fausser, Roos, Zinner, Andriaholinirina, Rabarivola, Norscia, Tattersall &amp; Rumpler, 2006",Endangered,"B1ab(i,iii,v)",3.1,Decreasing,Global
+115582704,136376,Lepilemur aeeclis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,aeeclis,,,,"Andriaholinirina, Fausser, Roos, Zinner, Thalmann, Rabarivola, Ravoarimanana, Ganzhorn, Meier, Hilgartner, Walter, Zaramody, Langer, Hahn, Zimmermann, Radespiel, Craul, Tomiuk, Tattersall &amp; Rumpler, 2017",Endangered,"A2c+3c+4c; B1ab(i,iii,iv,v)",3.1,Decreasing,Global
+115583306,136491,Lepilemur jamesorum,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,jamesorum,,,,"Louis Jr., Engberg, Lei, Geng, Sommer, Randriamampionona, Randriamanana, Zaonarivelo, Andriantompohavana, Randria, Prosper, Ramaromilanto, Rakotoarisoa, Rooney &amp; Brenneman, 2006",Critically Endangered,"B1ab(i,iii,v)",3.1,Decreasing,Global
+115583451,136537,Microcebus bongolavensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Microcebus,bongolavensis,,,,"Olivieri, Zimmermann, Randrianambinina, Rasoloharijaona, Rakotondravony, Guschanski &amp; Radespiel, 2007",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+115583605,136609,Lepilemur milanoii,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,milanoii,,,,"Louis Jr., Engberg, Lei, Geng, Sommer, Randriamampionona, Randriamanana, Zaonarivelo, Andriantompohavana, Randria, Prosper, Ramaromilanto, Rakotoarisoa, Rooney &amp; Brenneman, 2006",Endangered,"A3cd; B1ab(i,iii,v)",3.1,Decreasing,Global
+115584072,136645,Lepilemur sahamalaza,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,sahamalaza,,,,"Andriaholinirina, Fausser, Roos, Zinner, Thalmann, Rabarivola, Ravoarimanana, Ganzhorn, Meier, Hilgartner, Walter, Zaramody, Langer, Hahn, Zimmermann, Radespiel, Craul, Tomiuk, Tattersall &amp; Rumpler, 2017",Critically Endangered,A2acd+3cd+4cd,3.1,Decreasing,Global
+115584379,136662,Lepilemur betsileo,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,betsileo,,,,"Louis Jr., Engberg, Lei, Geng, Sommer, Randriamampionona, Randriamanana, Zaonarivelo, Andriantompohavana, Randria, Prosper, Ramaromilanto, Rakotoarisoa, Rooney &amp; Brenneman, 2006",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+115584740,136677,Lepilemur petteri,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,petteri,,,,"Louis Jr., Engberg, Lei, Geng, Sommer, Randriamampionona, Randriamanana, Zaonarivelo, Andriantompohavana, Randria, Prosper, Ramaromilanto, Rakotoarisoa, Rooney &amp; Brenneman, 2006",Endangered,A3cd,3.1,Decreasing,Global
+115585199,136709,Lepilemur tymerlachsoni,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,tymerlachsoni,,,,"Louis Jr., Engberg, Lei, Geng, Sommer, Randriamampionona, Randriamanana, Zaonarivelo, Andriantompohavana, Randria, Prosper, Ramaromilanto, Rakotoarisoa, Rooney &amp; Brenneman, 2006",Critically Endangered,"A2ac+3c+4c; B1ab(i,iii,v)",3.1,Decreasing,Global
+115585357,136731,Lepilemur ankaranensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,ankaranensis,,,,"Rumpler &amp; Albignac, 1975",Endangered,"A2cd+3cd+4cd; B1ab(i,iii,iv,v)",3.1,Decreasing,Global
+115585545,163314538,Microcebus simmonsi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Microcebus,simmonsi,,,,"Louis Jr., Coles, Andriantompohavana, Sommer, Engberg, Zaonarivelo, Mayor &amp; Brenneman, 2006",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+115585671,136761,Lepilemur hubbardorum,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,hubbardorum,,,,"Louis Jr., Engberg, Lei, Geng, Sommer, Randriamampionona, Randriamanana, Zaonarivelo, Andriantompohavana, Randria, Prosper, Ramaromilanto, Rakotoarisoa, Rooney &amp; Brenneman, 2006",Endangered,"B1ab(i,ii,iii,v)",3.1,Decreasing,Global
+115585814,136767,Avahi betsileo,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Avahi,betsileo,,,,"Andriantompohavana, Lei, Zaonarivelo, Engberg, Nalanirina, McGuire, Shore, Andrianasolo, Herrington, Brenneman &amp; Louis Jr., 2007",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+115585939,136771,Lepilemur grewcockorum,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,grewcockorum,,,,"Louis Jr., Engberg, Lei, Geng, Sommer, Randriamampionona, Randriamanana, Zaonarivelo, Andriantompohavana, Randria, Prosper, Ramaromilanto, Rakotoarisoa, Rooney, &amp; Brenneman, 2006",Critically Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+115586218,136796,Lepilemur otto,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,otto,,,,"Craul, Zimmermann, Rasoloharijaona, Randrianambinina &amp; Radespiel, 2007",Endangered,"B1ab(i,iii,v)",3.1,Decreasing,Global
+115587239,16971364,Microcebus margotmarshae,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Microcebus,margotmarshae,,,,"Louis, Engberg, McGuire, McCormick, Randriamampionona, Ranaivoarisoa, Bailey, Mittermeier &amp; Lei, 2008",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+115587527,16971425,Microcebus macarthurii,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Microcebus,macarthurii,,,,"Radespiel, Olivieri, Rasolofoson, Rakotondratsimba, Rakotonirainy, Rasoloharijaona, Randrianambinina, Ratsimbazafy, Ratelolahy, Randriamboavonjy, Rasolofoharivelo, Craul, Rakotozafy &amp; Randrianarison, 2008",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+115587841,16971489,Lepilemur hollandorum,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,hollandorum,,,,"Ramaromilanto, Lei, Engberg, Johnson, Sitzmann &amp; Louis , 2009",Critically Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+115587981,16971518,Lepilemur scottorum,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,scottorum,,,,"Lei, Engberg, Andriantompohavana, McGuire, Mittermeier, Zaonarivelo, Brenneman &amp; Louis, 2008",Endangered,"B1ab(i,iii,v)",3.1,Decreasing,Global
+115588141,16971566,Avahi mooreorum,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,INDRIIDAE,Avahi,mooreorum,,,,"Lei, Engberg, Andriantompohavana, McGuire, Mittermeier, Zaonarivelo, Brenneman &amp; Louis, 2008",Endangered,"B1ab(i,iii,v)",3.1,Decreasing,Global
+116990356,116990322,Hybomys eisentrauti,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Hybomys,eisentrauti,,,,"Van der Straeten &amp; Hutterer, 1986",Endangered,B1ab(iii),3.1,Unknown,Global
+120659179,120659170,Nomascus annamensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Nomascus,annamensis,,,,"Thinh, Mootnick, Vu Ngoc Thanh, Nadler &amp; Roos, 2010",Endangered,A4cd,3.1,Decreasing,Global
+123583998,12761,Manis crassicaudata,ANIMALIA,CHORDATA,PHOLIDOTA,MAMMALIA,MANIDAE,Manis,crassicaudata,,,,"É. Geoffroy, 1803",Endangered,A3d+4d,3.1,Decreasing,Global
+123584478,12762,Smutsia gigantea,ANIMALIA,CHORDATA,PHOLIDOTA,MAMMALIA,MANIDAE,Smutsia,gigantea,,,,"(Illiger, 1815)",Endangered,A2cd+4cd,3.1,Decreasing,Global
+123584856,12763,Manis javanica,ANIMALIA,CHORDATA,PHOLIDOTA,MAMMALIA,MANIDAE,Manis,javanica,,,,"Desmarest, 1822",Critically Endangered,A2d+3d+4d,3.1,Decreasing,Global
+123586469,12767,Phataginus tricuspis,ANIMALIA,CHORDATA,PHOLIDOTA,MAMMALIA,MANIDAE,Phataginus,tricuspis,,,,"(Rafinesque, 1821)",Endangered,A2c+4cd,3.1,Decreasing,Global
+123586862,136497,Manis culionensis,ANIMALIA,CHORDATA,PHOLIDOTA,MAMMALIA,MANIDAE,Manis,culionensis,,,,"(de Elera, 1915)",Critically Endangered,A3d+4d,3.1,Decreasing,Global
+123790805,15419,Orcaella brevirostris,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,DELPHINIDAE,Orcaella,brevirostris,,,,"(Owen in Gray, 1866)",Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+123792572,20425,Sousa teuszii,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,DELPHINIDAE,Sousa,teuszii,,,,"(Kükenthal, 1892)",Critically Endangered,A3cd+4cd; C2a(i),3.1,Decreasing,Global
+123794519,48269619,Cryptotis griseoventris,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Cryptotis,griseoventris,,,,"Jackson, 1933",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+123796971,115554360,Oryzomys gorgasi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Oryzomys,gorgasi,,,,"Hershkowitz, 1971",Endangered,B2ab(iii),3.1,Decreasing,Global
+128950188,18658,Pteralopex pulchra,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteralopex,pulchra,,,,"Flannery, 1991",Critically Endangered,D,3.1,Decreasing,Global
+129038584,15933,Pan troglodytes,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HOMINIDAE,Pan,troglodytes,,,,"(Blumenbach, 1799)",Endangered,A4bcde,3.1,Decreasing,Global
+130482064,2475,Balaenoptera borealis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BALAENOPTERIDAE,Balaenoptera,borealis,,,,"Lesson, 1828",Endangered,A1abd,3.1,Increasing,Global
+131232447,21210,Sylvilagus mansuetus,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,LEPORIDAE,Sylvilagus,mansuetus,,,,"Nelson, 1907",Critically Endangered,"B1ab(ii,iii,v)",3.1,Decreasing,Global
+136250858,9404,Gorilla gorilla,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HOMINIDAE,Gorilla,gorilla,,,,"(Savage, 1847)",Critically Endangered,A4bcde,3.1,Decreasing,Global
+139607891,6089,Cynomys mexicanus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Cynomys,mexicanus,,,,"Merriam, 1892",Endangered,"B2ab(i,ii,iii,iv,v)",3.1,Decreasing,Global
+143640471,16668,Peromyscus interparietalis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,interparietalis,,,,"Burt, 1932",Critically Endangered,B1ab(v),3.1,Decreasing,Global
+143642485,16687,Peromyscus pseudocrinitus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,pseudocrinitus,,,,"Burt, 1932",Critically Endangered,B1ab(v),3.1,Decreasing,Global
+143643850,16690,Peromyscus slevini,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,slevini,,,,"Mailliard, 1924",Critically Endangered,B1ab(v),3.1,Decreasing,Global
+143767533,6985,Callistomys pictus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,ECHIMYIDAE,Callistomys,pictus,,,,"(F.-J. Pictet, 1841)",Endangered,"B2ab(i,ii,iii)",3.1,Unknown,Global
+152728945,6557,Diceros bicornis,ANIMALIA,CHORDATA,PERISSODACTYLA,MAMMALIA,RHINOCEROTIDAE,Diceros,bicornis,,,,"(Linnaeus, 1758)",Critically Endangered,A2abd+4abd,3.1,Increasing,Global
+154210757,4201,Cercocebus torquatus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Cercocebus,torquatus,,,,"(Kerr, 1792)",Endangered,A2abcd+4abcd,3.1,Decreasing,Global
+156923585,2477,Balaenoptera musculus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BALAENOPTERIDAE,Balaenoptera,musculus,,,,"(Linnaeus, 1758)",Endangered,A1abd,3.1,Increasing,Global
+156925170,9918,Arabitragus jayakari,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Arabitragus,jayakari,,,,"(Thomas, 1894)",Endangered,C2a(i),3.1,Decreasing,Global
+159341032,5635,Crocidura macowi,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,macowi,,,,"Dollman, 1915",Endangered,B1ab(iii),3.1,Unknown,Global
+159341110,5592,Crocidura raineyi,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,raineyi,,,,"E. Heller, 1912",Endangered,B2ab(iii),3.1,Unknown,Global
+160756258,10946,Juscelinomys candango,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Juscelinomys,candango,,,,"Moojen, 1965",Extinct,,3.1,,Global
+160756387,15786,Oxymycterus hucucha,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Oxymycterus,hucucha,,,,"Hinojosa, Anderson &amp; Patton, 1987",Endangered,"B1ab(i,ii,iii)",3.1,Decreasing,Global
+161178708,4227,Allochrocebus preussi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Allochrocebus,preussi,,,,"(Matschie, 1898)",Endangered,A2cd+4cd,3.1,Decreasing,Global
+161259430,161247840,Piliocolobus badius,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Piliocolobus,badius,,,,"(Kerr, 1792)",Endangered,A2bcd,3.1,Decreasing,Global
+163015867,163015864,Nycticebus bancanus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LORISIDAE,Nycticebus,bancanus,,,,"Lyon, 1906",Critically Endangered,A2cd,3.1,Decreasing,Global
+163020000,163019804,Nycticebus hilleri,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LORISIDAE,Nycticebus,hilleri,,,,"Stone &amp; Rehn, 1902",Endangered,A2cd+3cd,3.1,Decreasing,Global
+163020759,163020756,Cheirogaleus shethi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Cheirogaleus,shethi,,,,"Frasier, Lei, McLain, Taylor, Bailey, Ginter, Nash, Randriamampionona, Groves, Mittermeier &amp; Louis Jr., 2016",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+163021799,163021607,Cheirogaleus andysabini,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Cheirogaleus,andysabini,,,,"Lei, McLain, Frasier, Taylor, Bailey, Engberg, Ginter, Nash, Randriamampionona, Groves,  Mittermeier &amp; Louis Jr, 2015",Endangered,B1ab(iii),3.1,Decreasing,Global
+163022293,163022131,Cheirogaleus lavasoensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Cheirogaleus,lavasoensis,,,,"Thiele, Razafimahatratra &amp; Hapke, 2013",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+163024490,163024481,Microcebus tanosi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Microcebus,tanosi,,,,"Rasoloarison, Weisrock, Yoder, Rakotondravony &amp; Kappeler, 2013",Endangered,"B1ab(i,ii,iii,iv)",3.1,Decreasing,Global
+163312222,163022885,Cheirogaleus thomasi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Cheirogaleus,thomasi,,,,"(Forsyth Major, 1894)",Endangered,"B1ab(ii,iii,iv,v)+2ab(ii,iii,iv,v)",3.1,Decreasing,Global
+163313088,163313085,Microcebus ganzhorni,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Microcebus,ganzhorni,,,,"Hotaling, Foley, Lawrence, Bocanegra, Blanco, Rasoloarison, Kappeler, Barrett, Yoder &amp; Weisrock, 2016 ",Endangered,"B2ab(ii,iii,iv)",3.1,Decreasing,Global
+163313878,163313848,Microcebus manitatra,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Microcebus,manitatra,,,,"Hotaling, Foley, Lawrence, Bocanegra, Blanco, Rasoloarison, Kappeler, Barrett, Yoder &amp; Weisrock, 2016 ",Critically Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+163509841,3747,Canis rufus,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,CANIDAE,Canis,rufus,,,,"Audubon &amp; Bachman, 1851",Critically Endangered,"C2a(i,ii); D",3.1,Decreasing,Global
+164046186,1802,Aotus miconax,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,AOTIDAE,Aotus,miconax,,,,"Thomas, 1927",Endangered,A4cd,3.1,Decreasing,Global
+164579488,12421,Lutra sumatrana,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,MUSTELIDAE,Lutra,sumatrana,,,,"(Gray, 1865)",Endangered,A2cde+3cde,3.1,Decreasing,Global
+165117485,41309,Sylvilagus cognatus,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,LEPORIDAE,Sylvilagus,cognatus,,,,"Nelson, 1907",Endangered,B1ab(iii),3.1,Unknown,Global
+166485696,18597,Pseudoryx nghetinhensis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Pseudoryx,nghetinhensis,,,,"Dung, Giao, Chinh, Touc, Arctander &amp; MacKinnon, 1993",Critically Endangered,A2acd+3cd+4acd; C2a(i),3.1,Decreasing,Global
+166518354,13217,Mesocapromys nanus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CAPROMYIDAE,Mesocapromys,nanus,,,,"(G.M. Allen, 1917)",Critically Endangered,D,3.1,Unknown,Global
+166597159,118355648,Hoolock tianxing,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Hoolock,tianxing,,,,"Fan, He, Chen, Ortiz, Zhang, Zhao, Lio, Zhang, Kimock, Wang, Groves, Turvey, Roos, Helgen &amp; Jiang, 2017",Endangered,A4cd,3.1,Decreasing,Global
+166599765,136939,Piliocolobus rufomitratus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Piliocolobus,rufomitratus,,,,"(Peters, 1879)",Critically Endangered,A3c,3.1,Decreasing,Global
+166604269,40648,Piliocolobus parmentieri,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Piliocolobus,parmentieri,,,,"(Colyn &amp; Verheyen, 1987)",Endangered,A4cd,3.1,Decreasing,Global
+166605018,18261,Piliocolobus langi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Piliocolobus,langi,,,,"(J.A. Allen, 1925)",Endangered,A4cd,3.1,Decreasing,Global
+166612346,47992974,Lophuromys chercherensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Lophuromys,chercherensis,,,,"Lavrenchenko, W. Verheyen, E. Verheyen, Hulseman &amp; Leirs, 2007",Endangered,B1ab(iii),3.1,Unknown,Global
+166619764,120569706,Uromys vika,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Uromys,vika,,,,"Lavery &amp; Judge, 2017",Critically Endangered,B1ab(iii),3.1,Unknown,Global
+166620835,18248,Piliocolobus waldroni,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Piliocolobus,waldroni,,,,"(Hayman, 1936)",Critically Endangered,A2cd; C2a(i); D,3.1,Decreasing,Global
+167462772,167462770,Fukomys hanangensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,BATHYERGIDAE,Fukomys,hanangensis,,,,"Faulkes, Mgode, Archer &amp; Bennett, 2017 ",Endangered,"A2acd; B1ab(ii,iii,iv,v)+2ab(ii,iii,iv,v); C2a(i); D",3.1,Decreasing,Global
+168392151,12764,Manis pentadactyla,ANIMALIA,CHORDATA,PHOLIDOTA,MAMMALIA,MANIDAE,Manis,pentadactyla,,,,"Linnaeus, 1758",Critically Endangered,A3d+4d,3.1,Decreasing,Global
+168568335,39992,Piliocolobus kirkii,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Piliocolobus,kirkii,,,,"(Gray, 1868)",Endangered,"B1ab(i,ii,iii,v)+2ab(i,ii,iii,v)",3.1,Decreasing,Global
+169472127,5146,Colobus vellerosus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Colobus,vellerosus,,,,"(I. Geoffroy Saint-Hilaire, 1834)",Critically Endangered,A2cd,3.1,Decreasing,Global
+170619657,41291,Oryctolagus cuniculus,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,LEPORIDAE,Oryctolagus,cuniculus,,,,"(Linnaeus, 1758)",Endangered,A2abce,3.1,Decreasing,Global
+171341769,162337005,Tarsius niemitzi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,TARSIIDAE,Tarsius,niemitzi,,,,"Shekelle, Groves, Maryanto, Mittermeier, Salim &amp; Springer, 2019",Endangered,"B1ab(iii,iv)",3.1,Decreasing,Global
+171760021,18256,Piliocolobus tephrosceles,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Piliocolobus,tephrosceles,,,,"(Elliot, 1907)",Endangered,A4bc,3.1,Decreasing,Global
+172272430,172272064,Plecturocebus grovesi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,PITHECIIDAE,Plecturocebus,grovesi,,,,"Boubli, Byrne, da Silva, Silva-Júnior, Costa Araújo, Bertuol, Gonçalves, de Melo, Rylands, Mittermeier, Silva, Nash, Canale, Alencar, Rossi, Carneiro, Sampaio, Farias, Schneider, &amp; Hrbek, 2019",Critically Endangered,A3c,3.1,Decreasing,Global
+175862149,175862145,Trachypithecus phayrei,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Trachypithecus,phayrei,,,,"(Blyth, 1847)",Endangered,A2cd,3.1,Decreasing,Global
+178589687,41712,Eubalaena glacialis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BALAENIDAE,Eubalaena,glacialis,,,,"(Müller, 1776)",Critically Endangered,C2a(ii),3.1,Decreasing,Global
+179045340,39758,Nycticebus bengalensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LORISIDAE,Nycticebus,bengalensis,,,,"(Lacépède, 1800)",Endangered,A2acd+3cd+4acd,3.1,Decreasing,Global
+180179376,136458,Microcebus jollyae,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Microcebus,jollyae,,,,"Louis Jr., Coles, Andriantompohavana, Sommer, Engberg, Zaonarivelo, Mayor &amp; Brenneman, 2006",Endangered,"B1ab(i,iii,v)",3.1,Decreasing,Global
+180816530,39895,Nomascus leucogenys,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HYLOBATIDAE,Nomascus,leucogenys,,,,"(Ogilby, 1840)",Critically Endangered,A4cd,3.1,Decreasing,Global
+180990948,180990825,Hipposideros pomona,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,HIPPOSIDERIDAE,Hipposideros,pomona,,,,"K. Andersen, 1918",Endangered,"B2ab(ii,iii,iv,v)",3.1,Decreasing,Global
+182235113,8212,Eulemur macaco,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEMURIDAE,Eulemur,macaco,,,,"(Linnaeus, 1766)",Endangered,A4acd,3.1,Decreasing,Global
+182235685,8210,Eulemur sanfordi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEMURIDAE,Eulemur,sanfordi,,,,"(Archbold, 1932)",Endangered,A3cd+4cd,3.1,Decreasing,Global
+182236363,9676,Hapalemur alaotrensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEMURIDAE,Hapalemur,alaotrensis,,,,"Rumpler, 1975",Critically Endangered,A2acd,3.1,Decreasing,Global
+182239524,8199,Eulemur coronatus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEMURIDAE,Eulemur,coronatus,,,,"(Gray, 1842)",Endangered,A3cd,3.1,Decreasing,Global
+190435652,918,Alouatta ululata,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,ATELIDAE,Alouatta,ululata,,,,"Elliot, 1912",Endangered,C2a(i),3.1,Decreasing,Global
+191684587,2276,Ateles belzebuth,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,ATELIDAE,Ateles,belzebuth,,,,"É. Geoffroy Saint-Hilaire, 1806",Endangered,A4cd,3.1,Decreasing,Global
+191685783,41547,Ateles chamek,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,ATELIDAE,Ateles,chamek,,,,"(Humboldt, 1812)",Endangered,A2acd+3cd+4acd,3.1,Decreasing,Global
+191687087,135446,Ateles fusciceps,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,ATELIDAE,Ateles,fusciceps,,,,"Gray, 1866",Endangered,A4cd,3.1,Decreasing,Global
+191688782,2279,Ateles geoffroyi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,ATELIDAE,Ateles,geoffroyi,,,,"Kuhl, 1820",Endangered,A4cd,3.1,Decreasing,Global
+191689524,2282,Ateles marginatus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,ATELIDAE,Ateles,marginatus,,,,"É. Geoffroy Saint-Hilaire, 1809",Endangered,A4cd,3.1,Decreasing,Global
+191692658,2993,Brachyteles arachnoides,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,ATELIDAE,Brachyteles,arachnoides,,,,"(É. Geoffroy, 1806)",Critically Endangered,A2cd,3.1,Decreasing,Global
+191693399,2994,Brachyteles hypoxanthus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,ATELIDAE,Brachyteles,hypoxanthus,,,,"(Kuhl, 1820)",Critically Endangered,A2cd,3.1,Decreasing,Global
+191700629,3570,Callithrix aurita,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CALLITRICHIDAE,Callithrix,aurita,,,,"(É. Geoffroy in Humboldt, 1812)",Endangered,A2cde,3.1,Decreasing,Global
+191700879,3571,Callithrix flaviceps,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CALLITRICHIDAE,Callithrix,flaviceps,,,,"(Thomas, 1903)",Critically Endangered,A2ace,3.1,Decreasing,Global
+191702052,4081,Cebus aequatorialis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CEBIDAE,Cebus,aequatorialis,,,,"J. A. Allen, 1914",Critically Endangered,A2acd+4acd,3.1,Decreasing,Global
+191703041,39929,Callicebus barbarabrownae,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,PITHECIIDAE,Callicebus,barbarabrownae,,,,"Hershkovitz, 1990",Critically Endangered,C2a(i),3.1,Decreasing,Global
+191704509,39956,Chiropotes satanas,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,PITHECIIDAE,Chiropotes,satanas,,,,"(Hoffmannsegg, 1807)",Endangered,A4cd,3.1,Decreasing,Global
+191704766,40019,Cebus kaapori,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CEBIDAE,Cebus,kaapori,,,,"Queiroz, 1992",Critically Endangered,A2acd+3cd+4acd,3.1,Decreasing,Global
+192307818,39924,Lagothrix flavicauda,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,ATELIDAE,Lagothrix,flavicauda,,,,"(Humboldt, 1812)",Critically Endangered,A4cd,3.1,Decreasing,Global
+192327291,11506,Leontopithecus rosalia,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CALLITRICHIDAE,Leontopithecus,rosalia,,,,"(Linnaeus, 1766)",Endangered,A3cde,3.1,Decreasing,Global
+192327573,40643,Leontopithecus chrysomelas,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CALLITRICHIDAE,Leontopithecus,chrysomelas,,,,"(Kuhl, 1820)",Endangered,A3c,3.1,Decreasing,Global
+192453101,14699281,Plecturocebus caquetensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,PITHECIIDAE,Plecturocebus,caquetensis,,,,"Defler, Bueno &amp; García 2010",Critically Endangered,A4cde,3.1,Decreasing,Global
+192551067,19823,Oedipomidas oedipus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CALLITRICHIDAE,Oedipomidas,oedipus,,,,"(Linnaeus, 1758)",Critically Endangered,A3cd,3.1,Decreasing,Global
+192551696,40644,Saguinus bicolor,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CALLITRICHIDAE,Saguinus,bicolor,,,,"(Spix, 1823)",Critically Endangered,A3cde,3.1,Decreasing,Global
+192592138,4074,Sapajus xanthosternos,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CEBIDAE,Sapajus,xanthosternos,,,,"(Wied-Neuwied, 1826)",Critically Endangered,A4cde,3.1,Decreasing,Global
+192592444,42697,Sapajus robustus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CEBIDAE,Sapajus,robustus,,,,"(Kuhl, 1820)",Endangered,A2cd+4cd,3.1,Decreasing,Global
+192592928,136253,Sapajus flavius,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CEBIDAE,Sapajus,flavius,,,,"Schreber, 1774",Endangered,"A2acd; B2ab(ii,iii); C2a(i)",3.1,Decreasing,Global
+195372486,14352,Nasalis larvatus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Nasalis,larvatus,,,,"(Wurmb, 1787)",Endangered,A2acd+4acd,3.1,Decreasing,Global
+195995295,4082,Cebus cesarae,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CEBIDAE,Cebus,cesarae,,,,"Hershkovitz, 1949",Endangered,A4cd,3.1,Decreasing,Global
+196138291,39828,Pygathrix nigripes,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Pygathrix,nigripes,,,,"(Milne-Edwards, 1871)",Critically Endangered,A2acd+3cd,3.1,Decreasing,Global
+196139355,40789,Trachypithecus hatinhensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Trachypithecus,hatinhensis,,,,"(Dao, 1970)",Endangered,A2cd,3.1,Decreasing,Global
+196344962,196344474,Trachypithecus popa,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Trachypithecus,popa,,,,"Roos, Helgen, Miguez, Thant, Lwin, A.K. Lin, A. Lin, Yi, Soe, Hein, Myint, Ahmed, Chetry, Urh, Veatch, Duncan, Kamminga, Chua, Yao, Matauschek, Meyer, Liu, Li, Nadler, Fan, Quyet, Hofreiter, Zinner &amp; Momberg, 2020",Critically Endangered,A2ac+4ac,3.1,Decreasing,Global
+196429566,196429436,Microcebus jonahi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Microcebus,jonahi,,,,"Schüßler, Blanco, Salmona, Poelstra, Andriambeloson, Miller, A., Randrianambinina, Rasolofoson, Mantilla-Contreras, Chikhi, Louis Jr., Yoder, &amp; Radespiel, 2020",Endangered,"B1ab(ii,iii,iv,v)",3.1,Decreasing,Global
+196465915,136843,Lepilemur ahmansoni,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,ahmansoni,,,,"Louis Jr., Engberg, Lei, Geng, Sommer, Randriamampionona, Randriamanana, Zaonarivelo, Andriantompohavana, Randria, Prosper, Ramaromilanto, Rakotoarisoa, Rooney &amp; Brenneman, 2006",Critically Endangered,A2c+4c,3.1,Decreasing,Global
+196491153,19596,Rhinopithecus roxellana,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Rhinopithecus,roxellana,,,,"(Milne-Edwards, 1870)",Endangered,A2cd+4cd,3.1,Decreasing,Global
+197393805,15568,Oryx dammah,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Oryx,dammah,,,,"(Cretzschmar, 1826)",Endangered,D,3.1,Increasing,Global
+197831931,12553,Macaca maura,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Macaca,maura,,,,"(H.R. Schinz, 1825)",Endangered,A2acd+4acd,3.1,Decreasing,Global
+200247353,39808,Presbytis canicrus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Presbytis,canicrus,,,,"(Miller, 1934)",Endangered,A4cd,3.1,Decreasing,Global
+204397334,136920,Trachypithecus crepusculus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Trachypithecus,crepusculus,,,,"(Elliot, 1909)",Endangered,C1,3.1,Decreasing,Global
+204404464,181007989,Loxodonta cyclotis,ANIMALIA,CHORDATA,PROBOSCIDEA,MAMMALIA,ELEPHANTIDAE,Loxodonta,cyclotis,,,,"Matschie, 1900",Critically Endangered,A2abd,3.1,Decreasing,Global
+205841390,39805,Presbytis percura,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Presbytis,percura,,,,"Lyon, 1908",Critically Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+205890248,205889816,Macaca leucogenys,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Macaca,leucogenys,,,,"Li, Zhao &amp; Fan, 2015",Endangered,A3cd,3.1,Decreasing,Global
+205911512,39761,Nycticebus javanicus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LORISIDAE,Nycticebus,javanicus,,,,"É. Geoffroy, 1812",Critically Endangered,A2cd+4cd,3.1,Decreasing,Global
+206547044,11503,Leontopithecus caissara,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CALLITRICHIDAE,Leontopithecus,caissara,,,,"Lorini &amp; Persson, 1990",Endangered,"B1ab(iii,iv,v)+2ab(iii,iv,v); C2a(i)",3.1,Decreasing,Global
+208031565,14176,Myotis lucifugus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Myotis,lucifugus,,,,"(Le Conte, 1831)",Endangered,A3be,3.1,Decreasing,Global
+208496244,215823373,Balaenoptera ricei,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BALAENOPTERIDAE,Balaenoptera,ricei,,,,"Rosel, Wilcox, Yamada &amp; Mullin, 2021",Critically Endangered,D,3.1,Decreasing,Global
+209118915,45954382,Myosorex gnoskei,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Myosorex,gnoskei,,,,"Peterhans, Hutterer, Kaliba &amp; Mazibuko, 2008",Endangered,B1ab(iii),3.1,Unknown,Global
+209524728,16887,Pharotis imogene,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Pharotis,imogene,,,,"Thomas, 1914",Critically Endangered,D,3.1,Stable,Global
+209536462,1933,Aproteles bulmerae,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Aproteles,bulmerae,,,,"Menzies, 1977",Critically Endangered,"B2ab(iv,v)c(ii); C2a(ii)",3.1,Decreasing,Global
+209538154,136248,Rhinolophus montanus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOLOPHIDAE,Rhinolophus,montanus,,,,"Goodwin, 1979",Endangered,B2ab(iii),3.1,Unknown,Global
+209548421,10968,Kerivoula agnella,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Kerivoula,agnella,,,,"Thomas, 1908",Endangered,C2a(i),3.1,Decreasing,Global
+209549918,136769,Pipistrellus murrayi,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Pipistrellus,murrayi,,,,"Andrews, 1900",Extinct,,3.1,,Global
+209550994,4309,Mops bregullae,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,MOLOSSIDAE,Mops,bregullae,,,,"(Felten, 1964)",Endangered,B2ab(iii),3.1,Decreasing,Global
+209551299,14192,Myotis pruinosus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Myotis,pruinosus,,,,"Yoshiyuki, 1971",Endangered,B2ab(iii),3.1,Unknown,Global
+209551473,29484,Myotis yanbarensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Myotis,yanbarensis,,,,"Maeda &amp; Matsumura, 1998",Critically Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+209552009,136765,Nyctalus furvus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Nyctalus,furvus,,,,"Imaizumi &amp; Yoshiyuki, 1968",Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+209553784,13564,Miniopterus fuscus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,MINIOPTERIDAE,Miniopterus,fuscus,,,,"Bonhote, 1902",Endangered,B2ab(iii),3.1,Decreasing,Global
+210337242,4216,Chlorocebus dryas,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Chlorocebus,dryas,,,,"Schwarz, 1932",Endangered,D,3.1,Unknown,Global
+210339606,18250,Piliocolobus bouvieri,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Piliocolobus,bouvieri,,,,"de Rochebrune, 1887",Endangered,A2d,3.1,Decreasing,Global
+210368927,210368667,Lepilemur dorsalis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LEPILEMURIDAE,Lepilemur,dorsalis,,,,"Gray, 1870",Endangered,A3cd,3.1,Decreasing,Global
+210372003,39875,Trachypithecus margarita,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Trachypithecus,margarita,,,,"(Elliot, 1909)",Endangered,A2cd,3.1,Decreasing,Global
+210445926,61925,Bradypus pygmaeus,ANIMALIA,CHORDATA,PILOSA,MAMMALIA,BRADYPODIDAE,Bradypus,pygmaeus,,,,"Anderson &amp; Handley, 2001",Critically Endangered,"B1ab(ii,iii)+2ab(ii,iii)",3.1,Decreasing,Global
+211010717,17315,Pipistrellus maderensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Pipistrellus,maderensis,,,,"(Dobson, 1878)",Endangered,B2ab(iii),3.1,Decreasing,Global & Europe
+211020578,136503,Plecotus sardus,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Plecotus,sardus,,,,"Mucedda, Kiefer, Pidinchedda, &amp; Veith, 2002",Critically Endangered,C1,3.1,Decreasing,"Global, Europe & Mediterranean"
+211021391,215482954,Plecotus teneriffae,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Plecotus,teneriffae,,,,"Barret-Hamilton, 1907",Critically Endangered,"B2ab(ii,iii,v)",3.1,Decreasing,Global & Europe
+214541137,17028,Phocoena sinus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,PHOCOENIDAE,Phocoena,sinus,,,,"Norris &amp; McFarland, 1958",Critically Endangered,A2a; C1+2a(ii); D; E,3.1,Decreasing,Global
+214862019,15955,Panthera tigris,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,FELIDAE,Panthera,tigris,,,,"(Linnaeus, 1758)",Endangered,A2abcd,3.1,Decreasing,Global
+215090010,41573,Microcebus berthae,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CHEIROGALEIDAE,Microcebus,berthae,,,,"Rasoloarison, Goodman &amp; Ganzhorn, 2000",Critically Endangered,A3c+4c,3.1,Decreasing,Global
+215090780,39801,Presbytis femoralis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Presbytis,femoralis,,,,"(Martin, 1838)",Critically Endangered,C2a(i),3.1,Decreasing,Global
+215395045,12303,Lontra felina,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,MUSTELIDAE,Lontra,felina,,,,"(Molina, 1782)",Endangered,A4ce,3.1,Decreasing,Global
+215621115,19595,Rhinopithecus brelichi,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Rhinopithecus,brelichi,,,,"(Thomas, 1903)",Critically Endangered,"B1ab(iii,v); C2a(ii)",3.1,Decreasing,Global
+216087357,10714,Hypogeomys antimena,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,NESOMYIDAE,Hypogeomys,antimena,,,,"A. Grandidier, 1869",Critically Endangered,A2bc,3.1,Decreasing,Global
+216617367,216617275,Myotis nimbaensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Myotis,nimbaensis,,,,"Simmons, Flanders, Fils, Parker, Suter, Bamba, Douno, Keita, Morales, &amp; Frick, 2021",Critically Endangered,"B1ab(iii,v)+2ab(iii,v)",3.1,Decreasing,Global
+217035444,217035435,Perameles myosuros,ANIMALIA,CHORDATA,PERAMELEMORPHIA,MAMMALIA,PERAMELIDAE,Perameles,myosuros,,,,"Wagner, 1841",Extinct,,3.1,,Global
+217035466,217035453,Perameles notina,ANIMALIA,CHORDATA,PERAMELEMORPHIA,MAMMALIA,PERAMELIDAE,Perameles,notina,,,,"O. Thomas, 1922",Extinct,,3.1,,Global
+217035485,217035476,Perameles papillon,ANIMALIA,CHORDATA,PERAMELEMORPHIA,MAMMALIA,PERAMELIDAE,Perameles,papillon,,,,Travouillon &amp; Phillips 2018,Extinct,,3.1,,Global
+217035836,217035752,Chaeropus ecaudatus,ANIMALIA,CHORDATA,PERAMELEMORPHIA,MAMMALIA,CHAEROPODIDAE,Chaeropus,ecaudatus,,,,"(Ogilby, 1838)",Extinct,,3.1,,Global
+217036166,217036096,Chaeropus yirratji,ANIMALIA,CHORDATA,PERAMELEMORPHIA,MAMMALIA,CHAEROPODIDAE,Chaeropus,yirratji,,,,"Travouillon, Simoes, Miguez, Brace, Brewer, Stemmer, Price, Cramb &amp; Louys, 2019",Extinct,,3.1,,Global
+217036853,40579,Petauroides volans,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,PSEUDOCHEIRIDAE,Petauroides,volans,,,,"(Kerr, 1792)",Endangered,A2abc+4abc,3.1,Decreasing,Global
+217345946,97250154,Spalax istricus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SPALACIDAE,Spalax,istricus,,,,"Méhely, 1909",Critically Endangered,"B1ab(i,ii,iii)",3.1,Unknown,Global & Europe
+217754957,39874,Trachypithecus germaini,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Trachypithecus,germaini,,,,"(Milne-Edwards, 1876)",Endangered,A2cd+3cd,3.1,Decreasing,Global
+217756381,12375,Loris tardigradus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LORISIDAE,Loris,tardigradus,,,,"(Linnaeus, 1758)",Endangered,C2a(i),3.1,Decreasing,Global
+217910559,18338,Prolagus sardus,ANIMALIA,CHORDATA,LAGOMORPHA,MAMMALIA,PROLAGIDAE,Prolagus,sardus,,,,"(J.A. Wagner, 1829)",Extinct,,3.1,,"Global, Europe & Mediterranean"
+219377647,7750,Enhydra lutris,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,MUSTELIDAE,Enhydra,lutris,,,,"(Linnaeus, 1758)",Endangered,A2abe,3.1,Decreasing,Global
+220892537,6678,Dipodomys ingens,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,HETEROMYIDAE,Dipodomys,ingens,,,,"(Merriam, 1904)",Endangered,"B2ab(i,ii,iii)",3.1,Decreasing,Global
+221299510,12436,Lycaon pictus,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,CANIDAE,Lycaon,pictus,,,,"(Temminck, 1820)",Endangered,C2b,3.1,Decreasing,Global
+221582276,5560,Crocidura canariensis,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,canariensis,,,,"Hutterer, López-Jurado, &amp; Vogel, 1987",Endangered,B1ab(iii),3.1,Decreasing,"Global, Europe & Mediterranean"
+221734933,221733873,Sicista severtzovi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SMINTHIDAE,Sicista,severtzovi,,,,"Ognev, 1935",Critically Endangered,A2c,3.1,Decreasing,Global & Europe
+221786525,97250195,Spalax antiquus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SPALACIDAE,Spalax,antiquus,,,,"Méhely, 1909",Endangered,"B1ab(i,ii,iii)+2ab(i,ii,iii)",3.1,Decreasing,Global & Europe
+221786778,92332716,Sicista trizona,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SMINTHIDAE,Sicista,trizona,,,,"(Frivaldszky, 1865)",Endangered,"B1ab(i,ii)+2ab(i,ii)",3.1,Decreasing,Global & Europe
+221789466,20472,Spermophilus citellus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Spermophilus,citellus,,,,"(Linnaeus, 1766)",Endangered,A3c,3.1,Decreasing,Global & Europe
+221789753,20492,Spermophilus suslicus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Spermophilus,suslicus,,,,"(Güldenstaedt, 1770)",Critically Endangered,A2ac,3.1,Decreasing,Global & Europe
+221790176,110500058,Sicista loriger,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SMINTHIDAE,Sicista,loriger,,,,"(Nathusius, 1840)",Critically Endangered,A2c,3.1,Unknown,Global & Europe
+222944989,70330181,Plecturocebus vieirai,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,PITHECIIDAE,Plecturocebus,vieirai,,,,"(Gualda-Barros, Nascimento &amp; Amaral, 2012)",Critically Endangered,A3c,3.1,Decreasing,Global
+222945240,210363264,Mico schneideri,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CALLITRICHIDAE,Mico,schneideri,,,,"Costa-Araújo, Silva-Jr., Boubli, Rossi, Hrbek &amp; Farias, 2021",Endangered,A3c,3.1,Decreasing,Global
+223031019,181008073,Loxodonta africana,ANIMALIA,CHORDATA,PROBOSCIDEA,MAMMALIA,ELEPHANTIDAE,Loxodonta,africana,,,,"(Blumenbach, 1797)",Endangered,A2bd,3.1,Decreasing,Global
+223433999,12555,Macaca nemestrina,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Macaca,nemestrina,,,,"(Linnaeus, 1766)",Endangered,A2cde+3cde,3.1,Decreasing,Global
+224590046,9002,Geocapromys ingrahami,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CAPROMYIDAE,Geocapromys,ingrahami,,,,"(J.A. Allen, 1891)",Critically Endangered,"B1ab(i,ii,iii,v)",3.1,Decreasing,Global
+226819294,5588,Crocidura zimmermanni,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,zimmermanni,,,,"Wettstein, 1953",Endangered,"B1ab(i,iii,v)+2ab(i,iii,v)",3.1,Decreasing,"Global, Europe & Mediterranean"
+227363991,8826,Galemys pyrenaicus,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,TALPIDAE,Galemys,pyrenaicus,,,,"(É. Geoffroy St. Hilaire, 1811)",Endangered,A2ace+4ace,3.1,Decreasing,Global & Europe
+230253271,82031633,Sousa plumbea,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,DELPHINIDAE,Sousa,plumbea,,,,"(G. Cuvier, 1829)",Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+231334630,6506,Desmana moschata,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,TALPIDAE,Desmana,moschata,,,,"(Linnaeus, 1758)",Critically Endangered,A2ac,3.1,Decreasing,Global
+233247375,136574,Prosciurillus rosenbergii,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Prosciurillus,rosenbergii,,,,"(Jentink, 1879)",Endangered,B1ab(iii),3.1,Unknown,Global
+233247579,3329,Bunomys coelestis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Bunomys,coelestis,,,,"(O. Thomas, 1896)",Endangered,B1ab(iii),3.1,Decreasing,Global
+233248690,19347,Rattus mollicomulus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Rattus,mollicomulus,,,,"Tate &amp; Archbold, 1935",Endangered,B1ab(iii),3.1,Unknown,Global
+237139785,237137603,Bradypus torquatus,ANIMALIA,CHORDATA,PILOSA,MAMMALIA,BRADYPODIDAE,Bradypus,torquatus,,,,"Illiger, 1811",Endangered,"B2ab(ii,iii,iv,v)",3.1,Decreasing,Global
+237141184,237133936,Bradypus crinitus,ANIMALIA,CHORDATA,PILOSA,MAMMALIA,BRADYPODIDAE,Bradypus,crinitus,,,,"J.E. Gray, 1850",Endangered,"B2ab(ii,iii,iv,v)",3.1,Decreasing,Global
+237471616,136721,Bos primigenius,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Bos,primigenius,,,,"Bojanus, 1827",Extinct,,3.1,,Global
+238804788,14106,Myosorex eisentrauti,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Myosorex,eisentrauti,,,,"Heim de Balsac, 1968",Critically Endangered,B1ab(iii),3.1,Unknown,Global
+243168232,41757,Platanista minor,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,PLATANISTIDAE,Platanista,minor,,,,"Owen, 1853",Endangered,A2abcde; C1,3.1,Increasing,Global
+244867206,18711,Pteronura brasiliensis,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,MUSTELIDAE,Pteronura,brasiliensis,,,,"(Gmelin, 1788)",Endangered,A2cde+3ce,3.1,Decreasing,Global
+246874942,136773,Uromys boeadii,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Uromys,boeadii,,,,"Groves &amp; Flannery, 1994",Critically Endangered,A4cd,3.1,Decreasing,Global
+248107503,248107314,Myotis nustrale,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,VESPERTILIONIDAE,Myotis,nustrale,,,,"Ruedi, Beuneux &amp; Puechmaille",Critically Endangered,"B2ab(iii,v)",3.1,Unknown,"Global, Europe & Mediterranean"
+253586168,253585790,Xanthonycticebus pygmaeus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LORISIDAE,Xanthonycticebus,pygmaeus,,,,"Bonhote, 1907",Endangered,A2cde+3cde+4cde,3.1,Decreasing,Global
+253587580,253587364,Xanthonycticebus intermedius,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,LORISIDAE,Xanthonycticebus,intermedius,,,,"(Dao Van Thien, 1960)",Endangered,A2cde+3cde+4cde,3.1,Decreasing,Global
+254613685,5223,Conilurus albipes,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Conilurus,albipes,,,,"(Lichtenstein, 1829)",Extinct,,3.1,,Global
+254614193,11633,Leporillus apicalis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Leporillus,apicalis,,,,"(J. Gould, 1853)",Extinct,,3.1,,Global
+254614367,45958541,Notomys robustus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Notomys,robustus,,,,"Mahoney, M.J. Smith &amp; Medlin, 2008",Extinct,,3.1,,Global
+254616177,18557,Pseudomys shortridgei,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Pseudomys,shortridgei,,,,"(O. Thomas, 1907)",Endangered,"B2ab(i,ii,iii,iv,v)",3.1,Decreasing,Global
+254617306,18564,Pseudomys glaucus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Pseudomys,glaucus,,,,"O. Thomas, 1910",Extinct,,3.1,,Global
+254618139,14861,Notomys amplus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Notomys,amplus,,,,"Brazenor, 1936",Extinct,,3.1,,Global
+254618228,14862,Notomys aquilo,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Notomys,aquilo,,,,"Thomas, 1921",Endangered,"B1ab(ii,iii,v)+2ab(ii,iii,v)",3.1,Decreasing,Global
+254618912,19344,Rattus macleari,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Rattus,macleari,,,,"(Thomas, 1887)",Extinct,,3.1,,Global
+254618980,14864,Notomys longicaudatus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Notomys,longicaudatus,,,,"(J. Gould, 1844)",Extinct,,3.1,,Global
+254619200,14865,Notomys macrotis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Notomys,macrotis,,,,"O. Thomas, 1921",Extinct,,3.1,,Global
+254619530,14866,Notomys mordax,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Notomys,mordax,,,,"O. Thomas, 1922",Extinct,,3.1,,Global
+254619993,19351,Rattus nativitatis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Rattus,nativitatis,,,,"(Thomas, 1889)",Extinct,,3.1,,Global
+254622081,75927841,Conilurus capricornensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Conilurus,capricornensis,,,,"Cramb &amp; Hocknull, 2010",Extinct,,3.1,,Global
+254622730,136379,Crocidura trichura,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,trichura,,,,"Dobson in Thomas, 1889",Extinct,,3.1,,Global
+254623401,13132,Melomys rubicola,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Melomys,rubicola,,,,"Thomas, 1924",Extinct,,3.1,,Global
+254623623,75927882,Pseudomys auritus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Pseudomys,auritus,,,,"O. Thomas, 1910",Extinct,,3.1,,Global
+258449353,45958849,Rattus nikenii,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Rattus,nikenii,,,,"Maryanto, Sinaga, Achmadi &amp; Maharadatunkamsi, 2010",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+258514107,112139816,Rattus detentus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Rattus,detentus,,,,"Timm, Weijola, K.P. Aplin, Flannery &amp; Pine, 2016",Critically Endangered,C2a(i),3.1,Unknown,Global
+258643164,15331,Onychogalea lunata,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Onychogalea,lunata,,,,"(Gould, 1841)",Extinct,,3.1,,Global
+258647331,3626,Caloprymnus campestris,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,POTOROIDAE,Caloprymnus,campestris,,,,"(Gould, 1843)",Extinct,,3.1,,Global
+258653869,136805,Bettongia pusilla,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,POTOROIDAE,Bettongia,pusilla,,,,"McNamara, 1997",Extinct,,3.1,,Global
+258661725,18103,Potorous platyops,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,POTOROIDAE,Potorous,platyops,,,,"(Gould, 1844)",Extinct,,3.1,,Global
+258662140,16570,Perameles eremiana,ANIMALIA,CHORDATA,PERAMELEMORPHIA,MAMMALIA,PERAMELIDAE,Perameles,eremiana,,,,"Spencer, 1897",Extinct,,3.1,,Global
+258664746,2787,Bettongia tropica,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,POTOROIDAE,Bettongia,tropica,,,,"Wakefield, 1967",Endangered,"B2ab(i,ii,iii,iv,v)",3.1,Decreasing,Global
+258666243,71510353,Bettongia anhydra,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,POTOROIDAE,Bettongia,anhydra,,,,"Finlayson, 1957",Extinct,,3.1,,Global
+258669736,12625,Notamacropus greyi,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Notamacropus,greyi,,,,"(Waterhouse, 1845)",Extinct,,3.1,,Global
+258672491,21866,Thylacinus cynocephalus,ANIMALIA,CHORDATA,DASYUROMORPHIA,MAMMALIA,THYLACINIDAE,Thylacinus,cynocephalus,,,,"(Harris, 1808)",Extinct,,3.1,,Global
+258673370,12651,Macrotis leucura,ANIMALIA,CHORDATA,PERAMELEMORPHIA,MAMMALIA,THYLACOMYIDAE,Macrotis,leucura,,,,"(Thomas, 1887)",Extinct,,3.1,,Global
+258675825,11160,Lagorchestes asomatus,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Lagorchestes,asomatus,,,,"Finlayson, 1943",Extinct,,3.1,,Global
+258676419,11163,Lagorchestes leporides,ANIMALIA,CHORDATA,DIPROTODONTIA,MAMMALIA,MACROPODIDAE,Lagorchestes,leporides,,,,"(Gould, 1841)",Extinct,,3.1,,Global
+259042400,120588639,Pongo tapanuliensis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HOMINIDAE,Pongo,tapanuliensis,,,,"Nurcahyo, Meijaard, Nowak, Fredriksson &amp; Groves, 2017",Critically Endangered,A4bcd,3.1,Decreasing,Global
+259043172,17975,Pongo pygmaeus,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HOMINIDAE,Pongo,pygmaeus,,,,"(Linnaeus, 1760)",Critically Endangered,A4abcd,3.1,Decreasing,Global
+259045437,121097935,Pongo abelii,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,HOMINIDAE,Pongo,abelii,,,,"Lesson, 1827",Critically Endangered,A4bcd,3.1,Decreasing,Global
+259144585,45959348,Phyllotis alisosiensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Phyllotis,alisosiensis,,,,"Ferro, Martínez &amp; Barquez, 2010",Endangered,B1ab(iii),3.1,Unknown,Global
+259146522,45954361,Cryptotis aroensis,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Cryptotis,aroensis,,,,"Quiroga-Carmona &amp; Molinari, 2012",Endangered,"B1ab(i,ii,iii)+2ab(i,ii,iii)",3.1,Unknown,Global
+259146805,45954370,Cryptotis oreoryctes,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Cryptotis,oreoryctes,,,,"Woodman, 2011",Endangered,B1ab(iii),3.1,Unknown,Global
+259357017,22037,Trachypithecus geei,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Trachypithecus,geei,,,,"Khajuria, 1956",Endangered,A2ac+4ac,3.1,Decreasing,Global
+259598170,199838,Pennatomys nivalis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Pennatomys,nivalis,,,,"Turvey, Weksler, Morris &amp; Nokkert, 2010",Extinct,,3.1,,Global
+260476217,5499,Crateromys australis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Crateromys,australis,,,,"Musser, Heaney &amp; Rabor, 1985",Endangered,B1ab(iii),3.1,Unknown,Global
+261413483,6671,Diplothrix legata,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Diplothrix,legata,,,,"(Thomas, 1906)",Endangered,B1ab(iii),3.1,Decreasing,Global
+261413626,5590,Crocidura orii,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,orii,,,,"Kuroda, 1924",Endangered,B1ab(iii),3.1,Decreasing,Global
+261413761,13604,Mogera etigo,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,TALPIDAE,Mogera,etigo,,,,"Yoshiyuki &amp; Imaizumi, 1991",Endangered,B1ab(iii),3.1,Decreasing,Global
+261822565,10591,Hylomyscus baeri,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Hylomyscus,baeri,,,,"Heim de Balsac &amp; Aellen, 1965",Endangered,B2ab(iii),3.1,Decreasing,Global
+263247406,6989,Phyllomys thomasi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,ECHIMYIDAE,Phyllomys,thomasi,,,,"(von Ihering, 1897)",Endangered,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+270136276,20428,Spalax arenarius,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SPALACIDAE,Spalax,arenarius,,,,"Reshetnik, 1939",Endangered,A4c,3.1,Unknown,Global & Europe
+270543638,2888,Bos javanicus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BOVIDAE,Bos,javanicus,,,,"d'Alton, 1823",Critically Endangered,A2abcd+4cd,3.1,Decreasing,Global
+270998918,270997532,Crocidura australis,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,australis,,,,"Esselstyn, Achmadi, Handika, Swanson, Giarla, &amp; Rowe, 2021",Endangered,B1ab(iii),3.1,Unknown,Global
+271000247,271000210,Crocidura parva,ANIMALIA,CHORDATA,EULIPOTYPHLA,MAMMALIA,SORICIDAE,Crocidura,parva,,,,"Esselstyn, Achmadi, Handika, Swanson, Giarla, &amp; Rowe, 2021",Endangered,B1ab(iii),3.1,Unknown,Global
+271314552,4652,Chinchilla laniger,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CHINCHILLIDAE,Chinchilla,laniger,,,,"(G.I. Molina, 1782)",Endangered,"B2ab(i,ii,iii)",3.1,Unknown,Global
+271898609,5112,Coleura seychellensis,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,EMBALLONURIDAE,Coleura,seychellensis,,,,"Peters, 1868",Critically Endangered,C2a(i),3.1,Decreasing,Global
+273015436,12551,Macaca fascicularis,ANIMALIA,CHORDATA,PRIMATES,MAMMALIA,CERCOPITHECIDAE,Macaca,fascicularis,,,,"(Raffles, 1821)",Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+276811290,44781,Rhinolophus hilli,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,RHINOLOPHIDAE,Rhinolophus,hilli,,,,"Aellen, 1973",Endangered,"B1ab(i,ii,iii,v)",3.1,Decreasing,Global
+276937539,23115,Xenomys nelsoni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Xenomys,nelsoni,,,,"C.H. Merriam, 1892",Endangered,A2c,3.1,Decreasing,Global
+276937786,10009,Heteromys nelsoni,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,HETEROMYIDAE,Heteromys,nelsoni,,,,"C.H. Merriam, 1902",Endangered,"B1ab(i,ii,iii)",3.1,Unknown,Global
+276938034,16664,Peromyscus guardia,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Peromyscus,guardia,,,,"Townsend, 1912",Critically Endangered,D,3.1,Decreasing,Global
+276948980,18732,Pteropus livingstonii,ANIMALIA,CHORDATA,CHIROPTERA,MAMMALIA,PTEROPODIDAE,Pteropus,livingstonii,,,,"Gray, 1866",Endangered,"B1ab(i,ii,iii)+2ab(i,ii,iii)",3.1,Stable,Global
+277172992,277172812,Halmaheramys wallacei,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Halmaheramys,wallacei,,,,"Fabre, Reeve, Fitriana, Aplin &amp; Helgen, 2018",Endangered,"B1ab(i,iii)",3.1,Unknown,Global
+277177350,277177325,Callosciurus honkhoaiensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,SCIURIDAE,Callosciurus,honkhoaiensis,,,,"Nguyen Truong Son, Oshida, Dang Huy Phuong, Bui Tuan Hai, &amp; Motokawa, 2018",Critically Endangered,"B1ab(i,iii)+2ab(i,iii)",3.1,Unknown,Global
+277177517,277177486,Chingawaemys rarus,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,MURIDAE,Chingawaemys,rarus,,,,"Lavrenchenko, Mikula &amp; Bryja, 2021",Critically Endangered,B1ab(iii),3.1,Unknown,Global
+278365074,136616,Habromys schmidlyi,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CRICETIDAE,Habromys,schmidlyi,,,,"Romo-Vázquez, León-Paniagua &amp; O. Sánchez, 2005",Critically Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+279892432,6204,Cystophora cristata,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,PHOCIDAE,Cystophora,cristata,,,,"(Erxleben, 1777)",Endangered,A2a,3.1,Decreasing,Global
+284725227,136520,Cavia intermedia,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CAVIIDAE,Cavia,intermedia,,,,"Cherem, Olimpio &amp; Ximenez, 1999",Critically Endangered,D,3.1,Decreasing,Global
+286147065,15452,Leopardus jacobita,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,FELIDAE,Leopardus,jacobita,,,,"(Cornalia, 1865)",Endangered,C2a(i),3.1,Decreasing,Global
+286518173,13215,Mesocapromys angelcabrerai,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CAPROMYIDAE,Mesocapromys,angelcabrerai,,,,"(Varona, 1979)",Critically Endangered,"B1ab(i,ii,iii)+2ab(i,ii,iii)",3.1,Unknown,Global
+286518429,13218,Mesocapromys sanfelipensis,ANIMALIA,CHORDATA,RODENTIA,MAMMALIA,CAPROMYIDAE,Mesocapromys,sanfelipensis,,,,"(Varona &amp; Garrido, 1970)",Critically Endangered,"B1ab(i,iii,v); D",3.1,Unknown,Global
